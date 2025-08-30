@@ -1,0 +1,67 @@
+{
+  "snapStepMinutes": 15,
+  "progressIndicator": "bar",
+  "showTaskNotification": false,
+  "zoomLevel": 1,
+  "timelineIcon": "calendar-with-checkmark",
+  "endLabel": "All done",
+  "startHour": 5,
+  "timelineDateFormat": "YYYY-MM-DD",
+  "centerNeedle": true,
+  "plannerHeading": "Day planner",
+  "plannerHeadingLevel": 1,
+  "timelineColored": false,
+  "timelineStartColor": "#006466",
+  "timelineEndColor": "#4d194d",
+  "timestampFormat": "HH:mm",
+  "hourFormat": "h",
+  "dataviewSource": "",
+  "extendDurationUntilNext": false,
+  "defaultDurationMinutes": 30,
+  "minimalDurationMinutes": 15,
+  "showTimestampInTaskBlock": true,
+  "showUncheduledTasks": true,
+  "showUnscheduledNestedTasks": true,
+  "showNow": true,
+  "showNext": true,
+  "pluginVersion": "0.28.0",
+  "showCompletedTasks": true,
+  "showSubtasksInTaskBlocks": true,
+  "icals": [],
+  "colorOverrides": [
+    {
+      "text": "MEETING",
+      "darkModeColor": "#6e3737",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "COMMUTE",
+      "darkModeColor": "#376c6d",
+      "color": "#a3f0ff"
+    },
+    {
+      "text": "MEETINGS",
+      "darkModeColor": "#6e3737",
+      "color": "#ffa1a1"
+    },
+    {
+      "text": "LUNCH",
+      "darkModeColor": "#376c6d",
+      "color": "#a3f0ff"
+    },
+    {
+      "text": "WORKOUT",
+      "darkModeColor": "#37516d",
+      "color": "#aea3ff"
+    }
+  ],
+  "releaseNotes": true,
+  "taskStatusOnCreation": " ",
+  "eventFormatOnCreation": "bullet",
+  "sortTasksInPlanAfterEdit": false,
+  "firstDayOfWeek": "monday",
+  "multiDayRange": "3-days",
+  "showTimeTracker": false,
+  "showActiveClocks": false,
+  "rawIcals": []
+}

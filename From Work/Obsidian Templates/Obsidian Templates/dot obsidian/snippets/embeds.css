@@ -1,0 +1,55 @@
+.markdown-embed-title {
+    display: none;
+}
+
+.markdown-preview-view .markdown-embed {
+    border: none;
+    padding: 0;
+    margin: 0;
+}
+
+.markdown-preview-view .markdown-embed-content {
+    max-height: unset;
+}
+
+.markdown-preview-view .markdown-embed-content>:first-child {
+    margin-top: 0;
+}
+
+.markdown-preview-view .markdown-embed-content>:last-child {
+    margin-bottom: 0;
+}
+
+/* remove vertical space added by markdown-preview-sizer */
+div.markdown-preview-sizer.markdown-preview-section {
+    min-height: unset !important;
+    padding-bottom: 0 !important;
+}
+
+Optional
+
+/* LINK ICON */
+.markdown-embed-link,
+.file-embed-link {
+    top: 0px;
+    right: 0;
+    text-align: right;
+}
+
+/* hide */
+.file-embed-link svg,
+.markdown-embed-link svg {
+    width: 16px;
+    opacity: 0;
+}
+
+/* show on hover */
+.markdown-embed:hover .file-embed-link svg,
+.markdown-embed:hover .markdown-embed-link svg {
+    opacity: 1;
+}
+
+.markdown-preview-view .markdown-embed-content,
+.markdown-preview-view .markdown-embed-content>.markdown-preview-view {
+    max-height: unset;
+}

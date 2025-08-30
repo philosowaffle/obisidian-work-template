@@ -1,0 +1,7 @@
+/*changes the width of the page preview */
+
+.theme-light,
+.theme-dark {
+    --popover-width: 800px;
+    --popover-height: 800px;
+}

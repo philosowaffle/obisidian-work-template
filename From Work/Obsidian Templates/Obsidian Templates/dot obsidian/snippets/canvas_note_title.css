@@ -1,0 +1,10 @@
+ .canvas .inline-title {
+     display: none;
+ }
+ .canvas-node-label {
+     opacity: 0;
+ }
+
+ .canvas-node-label:hover {
+     opacity: 1;
+ }

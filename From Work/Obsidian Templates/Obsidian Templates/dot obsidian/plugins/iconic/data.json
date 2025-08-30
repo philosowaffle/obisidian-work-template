@@ -1,0 +1,114 @@
+{
+  "biggerIcons": "mobile",
+  "clickableIcons": "desktop",
+  "showAllFileIcons": false,
+  "showAllFolderIcons": false,
+  "minimalFolderIcons": false,
+  "showMarkdownTabIcons": true,
+  "showTitleIcons": true,
+  "showTagPillIcons": true,
+  "showMenuActions": true,
+  "showSuggestionIcons": true,
+  "showQuickSwitcherIcons": true,
+  "showItemName": "desktop",
+  "biggerSearchResults": "mobile",
+  "maxSearchResults": 50,
+  "colorPicker1": "list",
+  "colorPicker2": "rgb",
+  "uncolorHover": false,
+  "uncolorDrag": false,
+  "uncolorSelect": false,
+  "uncolorQuick": false,
+  "rememberDeletedItems": false,
+  "dialogState": {
+    "iconMode": true,
+    "emojiMode": true,
+    "rulePage": "file"
+  },
+  "appIcons": {},
+  "tabIcons": {},
+  "fileIcons": {
+    "004 meta/vault views/Help Module/Help.md": {
+      "icon": "help",
+      "color": "orange"
+    }
+  },
+  "bookmarkIcons": {},
+  "tagIcons": {},
+  "propertyIcons": {},
+  "ribbonIcons": {},
+  "fileRules": [
+    {
+      "id": "u8AA9",
+      "name": "Meeting",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "includes",
+          "value": "meeting"
+        }
+      ],
+      "enabled": true,
+      "icon": "📅"
+    },
+    {
+      "id": "KP86K",
+      "name": "Person",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "anyContain",
+          "value": "people"
+        }
+      ],
+      "enabled": true,
+      "icon": "🧍"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "dcfF6",
+      "name": "Discovery",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "010 projects/Discovery"
+        }
+      ],
+      "enabled": true,
+      "icon": "🔭"
+    },
+    {
+      "id": "3SpRo",
+      "name": "Delivery",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "010 projects/Delivery"
+        }
+      ],
+      "enabled": true,
+      "icon": "🚚"
+    },
+    {
+      "id": "wRE5u",
+      "name": "Architect",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "path",
+          "operator": "is",
+          "value": "010 projects/Architect"
+        }
+      ],
+      "enabled": true,
+      "icon": "📐"
+    }
+  ]
+}

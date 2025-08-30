@@ -1,0 +1,27 @@
+{
+  "legacyEditor": false,
+  "livePreview": true,
+  "showLineNumber": false,
+  "foldIndent": true,
+  "foldHeading": true,
+  "promptDelete": false,
+  "alwaysUpdateLinks": true,
+  "spellcheck": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 inbox",
+  "attachmentFolderPath": "001 attachments",
+  "showFrontmatter": false,
+  "readableLineLength": false,
+  "propertiesInDocument": "hidden",
+  "useMarkdownLinks": true,
+  "showInlineTitle": false,
+  "newLinkFormat": "relative",
+  "pdfExportSettings": {
+    "includeName": false,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  },
+  "showUnsupportedFiles": true
+}

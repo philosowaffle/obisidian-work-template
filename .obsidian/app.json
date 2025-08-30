@@ -1,1 +1,10 @@
-{}
+{
+  "alwaysUpdateLinks": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "000 inbox",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "001 attachments",
+  "showInlineTitle": false,
+  "promptDelete": false,
+  "readableLineLength": true
+}

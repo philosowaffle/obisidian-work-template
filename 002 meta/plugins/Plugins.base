@@ -1,0 +1,32 @@
+filters:
+  and:
+    - note_type == "meta_plugin"
+    - file.folder != "002 meta/templates"
+properties:
+  file.name:
+    displayName: Plugin
+  note.meta_plugin_status:
+    displayName: Status
+  note.meta_plugin_core_functionality:
+    displayName: Core Functionality
+  note.meta_plugin_qol:
+    displayName: Quality of Life
+  note.meta_plugin_style:
+    displayName: Style
+  note.meta_plugin_vault_management:
+    displayName: Vault Management
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - meta_plugin_status
+      - meta_plugin_core_functionality
+      - meta_plugin_qol
+      - meta_plugin_style
+      - meta_plugin_vault_management
+    sort:
+      - property: meta_plugin_status
+        direction: ASC
+      - property: file.name
+        direction: ASC

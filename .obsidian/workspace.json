@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c0cc6fe14c946b7d",
+        "id": "dffc9b3205485b83",
         "type": "tabs",
         "children": [
           {
-            "id": "5168fda2c7111b50",
+            "id": "f7d899e09a03d020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "003 meta/vault specification/000 vault specification.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 vault specification"
-            }
-          },
-          {
-            "id": "b02cb8fb8c4199ad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "003 meta/vault specification/050 gitignore Specification.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "050 gitignore Specification"
+              "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 269.49999618530273
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -109,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "003 meta/vault specification/050 gitignore Specification.md",
+                "file": "000 inbox/Templater.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 050 gitignore Specification"
+              "title": "Backlinks for Templater"
             }
           },
           {
@@ -157,13 +142,67 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "003 meta/vault specification/050 gitignore Specification.md",
+                "file": "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault plugins/plugins.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 050 gitignore Specification"
+              "title": "Outline of plugins"
+            }
+          },
+          {
+            "id": "0a5398d3616b5028",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "017a578b8bc47b38",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "82cba04bff37dfff",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault plugins/plugins.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of plugins"
             }
           }
         ]
@@ -181,15 +220,56 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "random-note:Open random note": false,
+      "workspaces:Manage workspace layouts": false,
+      "markdown-importer:Open format converter": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open this week": false,
+      "iconic:Open rulebook": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b02cb8fb8c4199ad",
+  "active": "f7d899e09a03d020",
   "lastOpenFiles": [
-    "003 meta/templates/meeting templates/meeting person sync.md",
-    "003 meta/vault specification/050 gitignore Specification.md",
-    "003 meta/templates/meeting templates/meeting note template.md",
-    "003 meta/vault specification/000 vault specification.md",
-    "003 meta/templates/meeting templates"
+    "002 meta/vault specification/Todo Tasks.md",
+    "002 meta/vault specification/Recurring Meetings.md",
+    "002 meta/vault specification/Note Tags.md",
+    "002 meta/vault specification/Note Properties.md",
+    "002 meta/vault specification/Note Discoverability.md",
+    "002 meta/vault specification/Folder Organization.md",
+    "README.md",
+    "002 meta/vault specification/000 vault specification.md",
+    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault plugins/plugins.md",
+    "002 meta/vault specification/Proposed Specification.md",
+    "002 meta/plugins/Plugins.base",
+    "002 meta/plugins/plugins/Git Plugin.md",
+    "002 meta/000 meta.md",
+    "040 archives/000 archives.md",
+    "030 resources/000 resources.md",
+    "020 areas/000 areas.md",
+    "010 projects/000 projects.md",
+    "001 attachments/000 attachments.md",
+    "000 inbox/000 inbox.md",
+    "020 areas/teams/000 teams.md",
+    "020 areas/people/000 people.md",
+    "020 areas/codebases/000 codebases.md",
+    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2024 Summary.md",
+    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2023 Summary.md",
+    "002 meta/vault specification/Meeting Notes.md",
+    "040 archives/Meetings/2025/08/2025-08-30 My Generic Meeting.md",
+    "040 archives/Meetings/2025/08",
+    "040 archives/Meetings/2025",
+    "040 archives/Meetings",
+    "002 meta/vault specification/Note Types.md",
+    "050 gitignore/People/Supplemental/1_1s/2025/08",
+    "050 gitignore/People/Supplemental/1_1s/2025",
+    "050 gitignore/People/Supplemental/1_1s",
+    "050 gitignore/People/Supplemental",
+    "050 gitignore/People",
+    "050 gitignore",
+    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
+    "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]
 }

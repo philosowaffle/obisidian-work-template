@@ -1,0 +1,17 @@
+{
+  "debounceTimeout": 300,
+  "ignoreOpenFiles": false,
+  "ignoreForceViewAll": false,
+  "folders": [
+    {
+      "folder": "004 meta/templates",
+      "viewMode": "obsidianEditingMode: source"
+    }
+  ],
+  "files": [
+    {
+      "filePattern": "",
+      "viewMode": ""
+    }
+  ]
+}

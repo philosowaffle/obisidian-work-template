@@ -1,0 +1,1 @@
+- [ ] 100: Do Weekly Review 🔁 every week on Friday when done ➕ 2025-07-21 📅 2025-07-25

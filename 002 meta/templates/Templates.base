@@ -1,0 +1,11 @@
+filters:
+  and:
+    - file.folder.startsWith("002 meta/templates")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - note_type
+      - tags
+      - cssclasses

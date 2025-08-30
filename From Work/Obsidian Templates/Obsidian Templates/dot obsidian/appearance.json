@@ -1,0 +1,20 @@
+{
+  "baseFontSize": 16,
+  "translucency": false,
+  "cssTheme": "Blue Topaz",
+  "accentColor": "",
+  "enabledCssSnippets": [
+    "canvas_note_title",
+    "extended-colorschemes",
+    "canvas_disable_grid_dots",
+    "embeds",
+    "remove_link_underline",
+    "header",
+    "multi-column",
+    "mermaidjs_tweaks",
+    "hide_props",
+    "page_preview"
+  ],
+  "showViewHeader": true,
+  "nativeMenus": false
+}

@@ -1,0 +1,35 @@
+{
+  "showGettingStartedBanner": false,
+  "hasMigratedDailyNoteSettings": false,
+  "hasMigratedWeeklyNoteSettings": false,
+  "daily": {
+    "format": "",
+    "template": "",
+    "folder": "",
+    "enabled": false
+  },
+  "weekly": {
+    "format": "YYYY/[M]MM/[W]WW/YYYY-[W]WW",
+    "template": "002 meta/templates/periodic/weekly_note_template.md",
+    "folder": "050 gitignore/000 journal 🪴",
+    "enabled": true
+  },
+  "monthly": {
+    "format": "YYYY/[M]MM/YYYY-[M]MM",
+    "template": "002 meta/templates/periodic/monthly_note_template.md",
+    "folder": "050 gitignore/000 journal 🪴",
+    "enabled": true
+  },
+  "quarterly": {
+    "format": "YYYY/[Quarterly]/YYYY-[Q]Q",
+    "template": "002 meta/templates/periodic/quarterly_note_template.md",
+    "folder": "050 gitignore/000 journal 🪴",
+    "enabled": true
+  },
+  "yearly": {
+    "format": "YYYY/YYYY",
+    "template": "002 meta/templates/periodic/yearly_note_template.md",
+    "folder": "050 gitignore/000 journal 🪴",
+    "enabled": true
+  }
+}
