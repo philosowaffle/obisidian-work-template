@@ -25,14 +25,10 @@
             "id": "0b235993f0d6da83",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "000 inbox/TODO.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "New tab"
             }
           }
         ],
@@ -246,10 +242,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0b235993f0d6da83",
+  "active": "098277fef74146a2",
   "lastOpenFiles": [
-    "README.md",
     "000 inbox/TODO.md",
+    "Excalidraw/Drawing 2025-08-30 19.03.33.excalidraw.md",
+    "Excalidraw",
+    "README.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Note Tags.md",
@@ -274,7 +272,6 @@
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2024 Summary.md",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2023 Summary.md",
     "002 meta/vault specification/Meeting Notes.md",
-    "040 archives/Meetings/2025/08/2025-08-30 My Generic Meeting.md",
     "040 archives/Meetings/2025/08",
     "040 archives/Meetings/2025",
     "040 archives/Meetings",
@@ -283,7 +280,6 @@
     "050 gitignore/People/Supplemental/1_1s",
     "050 gitignore/People/Supplemental",
     "050 gitignore/People",
-    "050 gitignore",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]
