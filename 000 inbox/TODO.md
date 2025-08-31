@@ -1,0 +1,7 @@
+- [ ] Test 1:1 meeting note
+- [ ] Test recurring meeting note
+- [ ] Setup home page and hotkey
+- [ ] Test project note template
+- [ ] Test codebase
+- [ ] Test team
+- [ ] 
