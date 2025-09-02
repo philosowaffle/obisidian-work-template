@@ -1,6 +1,6 @@
 ---
 created: <% tp.file.creation_date() %>
-note_type: meeting
+Note Type: meeting
 ---
 ## <% tp.date.now('MM/DD/YY') %>
 

@@ -5,11 +5,13 @@ Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL:
 meta_plugin_style:
-meta_plugin_vault_management:
+meta_plugin_vault_management: true
 ---
-# 🔌 <%tp.file.title%>
+# 🔌 Multi Properties Plugin
 
+Used to bulk edit properties.
 ## 📝 Notes
+
 
 
 ## ⚙️ Settings
@@ -20,11 +22,11 @@ meta_plugin_vault_management:
 ### 🔗Referenced By
 ```dataview
 LIST
-from [[<%tp.file.title%>]]
+from [[Multiproperties Plugin]]
 sort file.name descending
 ```
 
 ## 🕒Log
 
-- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
+- [[2025-09-02]]
 	- Plugin Installed

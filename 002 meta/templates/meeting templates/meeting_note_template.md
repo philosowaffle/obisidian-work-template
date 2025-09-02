@@ -1,7 +1,7 @@
 ---
 tags:
   - meeting
-note_type: meeting
+Note Type: meeting
 ---
 <%* 
 

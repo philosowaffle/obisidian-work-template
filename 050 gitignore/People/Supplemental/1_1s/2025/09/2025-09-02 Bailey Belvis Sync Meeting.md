@@ -1,6 +1,7 @@
 ---
-tags: [meeting/recurring/1_1]
-note_type: meeting
+tags:
+  - meeting/recurring/1_1
+Note Type: meeting
 ---
 # 📆 2025-09-02 Bailey Belvis Sync Meeting
 

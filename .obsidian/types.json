@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "meta_plugin_core_functionality": "checkbox",
-    "meta_plugin_qol": "checkbox",
     "meta_plugin_style": "checkbox",
     "meta_plugin_vault_management": "checkbox",
     "TQ_explain": "checkbox",
@@ -29,6 +27,8 @@
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
     "meeting_attendees": "multitext",
-    "Navigate": "multitext"
+    "Navigate": "multitext",
+    "Pugin Core Functionality": "checkbox",
+    "Plugin QoL": "checkbox"
   }
 }
