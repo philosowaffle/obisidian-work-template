@@ -6,7 +6,7 @@
       {
         "id": "dffc9b3205485b83",
         "type": "tabs",
-        "dimension": 30.016402405686165,
+        "dimension": 10.548523206751055,
         "children": [
           {
             "id": "0b235993f0d6da83",
@@ -14,26 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/project_template.md",
+                "file": "002 meta/vault specification/Meeting Notes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "project_template"
-            }
-          },
-          {
-            "id": "85d27b5644758704",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 meta/templates/meta_documentation_template.md",
-                "mode": "source",
-                "source": true
-              },
-              "icon": "lucide-file",
-              "title": "meta_documentation_template"
+              "title": "Meeting Notes"
             }
           },
           {
@@ -63,13 +49,48 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
+          },
+          {
+            "id": "ce220ea486a4ae03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 inbox/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8e251d9ed5e5764f",
+        "type": "tabs",
+        "dimension": 24.736286919831223,
+        "children": [
+          {
+            "id": "9169bf8b83ddec09",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "040 archives/meetings/Untitled.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Untitled"
+            }
           }
         ]
       },
       {
         "id": "a7d8046f4877497c",
         "type": "tabs",
-        "dimension": 25.642427556041554,
+        "dimension": 21.466244725738395,
         "children": [
           {
             "id": "486232bcc7f83e8b",
@@ -86,17 +107,17 @@
             }
           },
           {
-            "id": "ce220ea486a4ae03",
+            "id": "17d36d2769f038b1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/Test.md",
+                "file": "002 meta/templates/meeting templates/meeting_person_sync.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "meeting_person_sync"
             }
           }
         ]
@@ -104,7 +125,7 @@
       {
         "id": "04bbe1c1b012690b",
         "type": "tabs",
-        "dimension": 44.34117003827228,
+        "dimension": 43.24894514767932,
         "children": [
           {
             "id": "e36f5f8f2ca8e89f",
@@ -121,17 +142,17 @@
             }
           },
           {
-            "id": "ece483155f35e023",
+            "id": "75c0f91ac3f65320",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
+                "file": "040 archives/meetings/2025/09/2025-09-02 let's do the thing Meeting.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02 My first thing to do Meeting"
+              "title": "2025-09-02 let's do the thing Meeting"
             }
           }
         ],
@@ -302,7 +323,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/project_template.md",
+                "file": "040 archives/meetings/Untitled.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,7 +351,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of project_template"
+              "title": "Graph of Untitled"
             }
           }
         ]
@@ -358,31 +379,36 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0b235993f0d6da83",
+  "active": "9169bf8b83ddec09",
   "lastOpenFiles": [
-    "002 meta/templates/plugin_template.md",
-    "002 meta/vault specification/Meeting Notes.md",
+    "040 archives/meetings/2025/09/2025-09-02 asdfasdfsdf Meeting.md",
+    "040 archives/meetings/Untitled.base",
+    "000 inbox/Test.md",
     "002 meta/templates/meeting templates/meeting_note_template.md",
-    "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
-    "002 meta/vault specification/Note Types.md",
+    "020 areas/people/Bailey Belvis.md",
+    "040 archives/meetings/2025/09/2025-09-02 let's do the thing Meeting.md",
+    "040 archives/meetings/2025/09/2025-09-02 Something else Meeting.md",
+    "040 archives/meetings/2025/09/2025-09-02 Some other thing Meeting.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
+    "002 meta/templates/meeting templates/meeting_person_sync.md",
+    "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
+    "002 meta/vault specification/Meeting Notes.md",
+    "002 meta/templates/project_template.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/vault specification/Note Types.md",
     "040 archives/000 archives.md",
     "040 archives/meetings",
     "020 areas/people/People.base",
     "002 meta/plugins/Plugins.base",
     "040 archives/Meetings/Meetings.base",
     "040 archives/Meetings/2025/09/2025-09-02 My Generic Things Meeting.md",
-    "000 inbox/Test.md",
     "002 meta/templates/person_template.md",
     "002 meta/plugins/plugins/Calendar Plugin.md",
     "002 meta/vault specification/Person Notes.md",
     "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
     "002 meta/vault specification/Plugin Notes.md",
-    "002 meta/templates/project_template.md",
-    "002 meta/templates/meeting templates/meeting_person_sync.md",
     "002 meta/templates/meeting templates/meeting_template.md",
-    "020 areas/people/Bailey Belvis.md",
     "000 inbox/TODO.md",
     "050 gitignore/People/Supplemental/1_1s/2025/09/2025-09-02 Bailey Belvis Sync Meeting.md",
     "040 archives/Meetings/2025/09",
@@ -390,12 +416,6 @@
     "040 archives/Meetings",
     "002 meta/style/Icons.md",
     "002 meta/templates/meta_documentation_template.md",
-    "002 meta/plugins/plugins/Dataview Plugin.md",
-    "002 meta/plugins/plugins/Templater Plugin.md",
-    "002 meta/plugins/plugins/Multi Properties Plugin.md",
-    "002 meta/plugins/plugins/Checklist Plugin.md",
-    "002 meta/plugins/plugins/Dynamic Outline Plugin.md",
-    "050 gitignore/People/Supplemental/1_1s/2025/09",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

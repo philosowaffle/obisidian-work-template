@@ -1,6 +1,8 @@
 ---
 Description:
-Meeting Datetime:
+Meeting Datetime: <% tp.file.creation_date() %>
+Meeting Attendees:
+Related Projects:
 tags:
   - meeting
 ---
@@ -10,13 +12,8 @@ tags:
 
 %># 📆 <%filename%>
 
-**Description:** 
-**People:** 
-**Parent:** 
-
 ## 🔮 Outcomes
 
 ## 📢 Agenda
 
 ## ✍ Notes
-[[2025-09-02 My first thing to do Meeting]]

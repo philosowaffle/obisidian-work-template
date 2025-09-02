@@ -25,7 +25,10 @@
             "createInSameFolderAsActiveFile": false,
             "chooseFromSubfolders": false
           },
-          "appendLink": true,
+          "appendLink": {
+            "enabled": true,
+            "placement": "replaceSelection"
+          },
           "openFileInNewTab": {
             "enabled": true,
             "direction": "vertical",
