@@ -23,8 +23,8 @@
   "rememberDeletedItems": false,
   "dialogState": {
     "iconMode": true,
-    "emojiMode": false,
-    "rulePage": "file"
+    "emojiMode": true,
+    "rulePage": "folder"
   },
   "appIcons": {},
   "tabIcons": {},
@@ -32,15 +32,45 @@
   "bookmarkIcons": {},
   "tagIcons": {},
   "propertyIcons": {
-    "note_type": {
-      "icon": "lucide-type-outline"
-    },
     "person_org": {
-      "icon": "lucide-building",
-      "color": "yellow"
+      "icon": "lucide-building"
+    },
+    "person_reports_to": {
+      "icon": "lucide-waypoints"
+    },
+    "person_title": {
+      "icon": "lucide-hard-hat"
     }
   },
   "ribbonIcons": {},
-  "fileRules": [],
-  "folderRules": []
+  "fileRules": [
+    {
+      "id": "LUhdm",
+      "name": "People Files",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "tags",
+          "operator": "anyContain",
+          "value": "people/"
+        }
+      ],
+      "enabled": true,
+      "icon": "🧍"
+    }
+  ],
+  "folderRules": [
+    {
+      "id": "tPMSn",
+      "name": "People",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "contains"
+        }
+      ],
+      "enabled": true
+    }
+  ]
 }
