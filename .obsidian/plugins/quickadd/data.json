@@ -241,7 +241,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "020 areas/Teams ⚽"
+          "020 areas/teams"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

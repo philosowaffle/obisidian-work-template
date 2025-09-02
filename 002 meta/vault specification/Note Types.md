@@ -2,7 +2,7 @@
 
 "Note Types" describe the different categories of notes that are created in the vault. These types can be used to help create filtered views, queries, and bases focusing on only certain categories.
 
-The type of a note is defined using a `tag`. A given Note Type may have additional properties for that categories, these properties should follow the naming convention of `<note_type_name>_<property>`.
+The type of a note is defined using a `tag`. A given Note Type may have additional properties, these properties should follow the naming convention of `<Note Type Name <Property>`.
 
 ## Defined Note Types
 
@@ -12,6 +12,7 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 | Meeting   | A note capturing information from a meeting                                          | [[Meeting Notes]] | `#meeting` |
 | Person    | A note representing a person                                                         | [[Person Notes]]  | `#person`  |
 | Feature   | A note describing a user facing feature                                              | [[Feature Notes]] | `#feature` |
+| Project   | A note representing a project or deliverable                                         | [[Project Notes]] | `#project` |
 
 ## ✨ Creating a New Note Type
 
@@ -21,3 +22,4 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 4. Document
 	1. CRUD for this type of note
 	2. Properties, Fields, and Dynamic Views
+	3. See [[meta_documentation_template]]

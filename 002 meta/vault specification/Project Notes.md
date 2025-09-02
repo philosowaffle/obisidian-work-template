@@ -1,5 +1,7 @@
 # Project Notes
 
+Project notes are used to track deliverable items. These can be large projects spanning months or even small projects spanning just a single day or task. These notes become the "hub" note for all things related to that Project. Any note with relevance to this project can create links to it.
+
 ## 🔃Workflow
 
 ### 🔍 Discovery
@@ -21,6 +23,7 @@
 3. Add **Archived** note to log
 4. Polish note, remove irrelevant info, add missing links
 5. Move the note to `040 archives/`
+
 ### ⛔Removing
 
 1. Delete the project
@@ -48,8 +51,12 @@
 
 ### 🪟Dynamic Views
 
-A dynamic view of the plugin dependencies is used to show all notes that refer back to that specific plugin.
+- Links - relevant links
+- Todo - any task with this project tag
+- Meetings - any Meeting that links back to this Project Note
 
 ### ⚠️ Dependencies
 
-- List
+- [[Dataview Plugin]]
+- [[Tabs Plugin]]
+- [[project_template]]

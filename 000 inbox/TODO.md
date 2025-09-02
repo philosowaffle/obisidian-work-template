@@ -6,7 +6,7 @@
 - [x] inline templates ✅ 2025-09-02
 - [ ] periodic templates
 - [x] feature template ✅ 2025-09-02
-- [ ] project template
+- [x] project template ✅ 2025-09-02
 - [ ] prompt template
 - [ ] team template
 - [ ] Setup home page and hotkey
@@ -27,3 +27,7 @@
 - [ ] delete teams
 - [ ] delete projects
 - [ ] delete features
+- [ ] sort Note Types
+- [ ] sort Icons
+- [ ] re-organize Help Module
+- [ ] Apply Help module

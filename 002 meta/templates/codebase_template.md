@@ -10,8 +10,6 @@ Navigate:
 ---
 <%* 
 	let filename = tp.file.title;
-	let alias = filename.split(" ")[0];
-	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
 %># 💾 <% filename %>  
 
 ## 🔗 links
@@ -44,6 +42,11 @@ Navigate:
 > [!info]-
 > Working group meetings, and others.
 
+```dataview
+LIST
+from #meeting and [[<% filename %>]]
+sort file.name ascending
+```
 
 ## 🕐 log
 
