@@ -6,12 +6,13 @@ cssclasses:
   - HideProps
 ---
 <%* 
-	let yesterday = moment(tp.file.title, 'YYYY-MM-DD').subtract(1, 'd').format('YYYY-MM-DD');
-	let thisToday = moment().format('YYYY-MM-DD');
-	let tomorrow = moment(tp.file.title, 'YYYY-MM-DD').add(1, 'd').format('YYYY-MM-DD');
+	let yesterday = tp.date.yesterday("YYYY-MM-DD");
+	let thisToday = tp.date.now('YYYY-MM-DD');
+	let tomorrow = tp.date.tomorrow("YYYY-MM-DD");
+
 	let icon = '🪴';
 
-	const dow = tp.date.now("dd", 0, tp.file.title, "YYYY-MM-DD-ddd");
+	const dow = tp.date.now("dd");
 	if (dow == 'Su') icon = '🌞';
 	if (dow == 'Mo') icon = '⛰️';
 	if (dow == 'Tu') icon = '🌋';
@@ -19,7 +20,7 @@ cssclasses:
 	if (dow == 'Th') icon = '🥑';
 	if (dow == 'Fr') icon = '🪴';
 	if (dow == 'Sa') icon = '🦕';
-%># <% icon %> <% moment(tp.file.title,'YYYY-MM-DD').format("dddd") %>
+%># <% icon %> <% tp.date.now("dddd") %>
 [[<% yesterday %>|<< <% yesterday %>]] | <%tp.file.title%> | [[<% tomorrow %>|<% tomorrow %>>>]] 
 
 ````tabs

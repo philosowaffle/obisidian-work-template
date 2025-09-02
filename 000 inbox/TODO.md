@@ -5,6 +5,7 @@
 - [ ] Test recurring meeting note
 - [x] inline templates ✅ 2025-09-02
 - [ ] periodic templates
+	- [ ] Daily Note not working
 - [x] feature template ✅ 2025-09-02
 - [x] project template ✅ 2025-09-02
 - [ ] prompt template
