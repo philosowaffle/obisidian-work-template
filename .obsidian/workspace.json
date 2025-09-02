@@ -8,6 +8,26 @@
         "type": "tabs",
         "children": [
           {
+            "id": "1563b45aff78017e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/vault specification/Team Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Team Notes"
+            }
+          }
+        ]
+      },
+      {
+        "id": "7b013560784cae39",
+        "type": "tabs",
+        "children": [
+          {
             "id": "0b235993f0d6da83",
             "type": "leaf",
             "state": {
@@ -20,13 +40,7 @@
               "icon": "lucide-file",
               "title": "team_template"
             }
-          }
-        ]
-      },
-      {
-        "id": "7b013560784cae39",
-        "type": "tabs",
-        "children": [
+          },
           {
             "id": "109f23cafa7e54d9",
             "type": "leaf",
@@ -39,6 +53,26 @@
               },
               "icon": "lucide-file",
               "title": "codebase_template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "acfaeccf0778097e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b34a528f38a49fd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 areas/teams/Bob.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bob"
             }
           }
         ]
@@ -266,24 +300,28 @@
   },
   "active": "0b235993f0d6da83",
   "lastOpenFiles": [
-    "002 meta/templates/codebase_template.md",
+    "002 meta/vault specification/Team Notes.md",
+    "002 meta/vault specification/Codebase Notes.md",
     "002 meta/templates/team_template.md",
-    "002 meta/templates/project_template.md",
+    "002 meta/vault specification/Feature Notes.md",
+    "002 meta/templates/feature_template.md",
+    "002 meta/templates/codebase_template.md",
+    "002 meta/vault specification/Note Types.md",
+    "002 meta/vault specification/Note Tags.md",
+    "020 areas/teams/Bob.md",
     "020 areas/teams/Teams.base",
+    "002 meta/templates/project_template.md",
     "002 meta/vault views/Bases/Projects.base",
     "000 inbox/TODO.md",
     "010 projects/The first thing/The first thing Project.md",
-    "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Project Notes.md",
     "002 meta/templates/meta_documentation_template.md",
     "010 projects/The first thing",
     "030 resources/Another thing Feature.md",
-    "002 meta/templates/feature_template.md",
     "002 meta/vault views/Bases/Features.base",
     "030 resources/blah Feature.md",
     "030 resources/the last one Feature.md",
     "030 resources/My Cool Thing Feature.md",
-    "002 meta/vault specification/Feature Notes.md",
     "030 resources/My First Feature.md",
     "002 meta/style/Icons.md",
     "002 meta/templates/plugin_template.md",
@@ -292,9 +330,6 @@
     "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/vault views/UI Modules/Help Module/Style Help.md",
     "000 inbox/Test.md",
-    "020 areas/000 areas.md",
-    "002 meta/style.md",
-    "020 areas/codebases/000 codebases.md",
     "002 meta/templates/Templates.base",
     "020 areas/codebases/Codebases.base",
     "040 archives/meetings/Meetings.base",

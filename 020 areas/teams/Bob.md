@@ -1,16 +1,14 @@
 ---
 Description:
 Team Manager:
+Team Members:
 aliases: []
-created: <% tp.file.creation_date() %>
+created: 2025-09-02 16:21
 tags: [team]
 Navigate:
   - "[[Teams.base|Go to all Teams]]"
 ---
-<%* 
-	let filename = tp.file.title;
-%># ⚽ <% filename %>  
-
+# ⚽ Bob
 
 ## 🔗 Links
 
@@ -43,11 +41,11 @@ Navigate:
 
 ```dataview
 LIST
-from #meeting and [[<% filename %>]]
+from #meeting and [[Bob]]
 sort file.name ascending
 ```
 
 ## 🕐 Log
 
-- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
+- [[2025-09-02]]
 	- **Team Created**

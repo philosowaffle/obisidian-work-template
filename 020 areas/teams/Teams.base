@@ -1,3 +1,11 @@
+filters:
+  and:
+    - file.tags.contains("team")
+    - '!file.folder.startsWith("002 meta")'
 views:
   - type: table
-    name: Table
+    name: All
+    order:
+      - file.name
+      - Description
+      - Team Manager

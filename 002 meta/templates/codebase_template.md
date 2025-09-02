@@ -12,7 +12,7 @@ Navigate:
 	let filename = tp.file.title;
 %># 💾 <% filename %>  
 
-## 🔗 links
+## 🔗 Links
 
 - **Repo Urls:** 
 - **Admin Tools:** 
@@ -21,24 +21,24 @@ Navigate:
 - **Google Drive:** 
 - **Slack Channels: 
 
-## 🧭 moc
+## 🧭 MOC
 > [!info]-
 > Map of Content to more notes.
 
-## 📓 notes
+## 📓 Notes
 > [!info]-
 > A place to start top level notes if individual note files are not needed or ready yet.
 
-## 🔍 observability
+## 🔍 Observability
 > [!info]-
 > Links to dashboards, logs, and sql queries.
 
-## 🛳 releases
+## 🛳 Releases
 > [!info]-
 > Release schedule and processes.
 
 
-## 📆 meetings
+## 📆 Meetings
 > [!info]-
 > Working group meetings, and others.
 
@@ -48,7 +48,7 @@ from #meeting and [[<% filename %>]]
 sort file.name ascending
 ```
 
-## 🕐 log
+## 🕒 Log
 
 - [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
 	- **Codebase Created**

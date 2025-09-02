@@ -6,13 +6,15 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 
 ## Defined Note Types
 
-| Note Type | Description                                                                          | Reference         | Tag        |
-| --------- | ------------------------------------------------------------------------------------ | ----------------- | ---------- |
-| Plugin    | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[Plugin Notes]]  | `#plugin`  |
-| Meeting   | A note capturing information from a meeting                                          | [[Meeting Notes]] | `#meeting` |
-| Person    | A note representing a person                                                         | [[Person Notes]]  | `#person`  |
-| Feature   | A note describing a user facing feature                                              | [[Feature Notes]] | `#feature` |
-| Project   | A note representing a project or deliverable                                         | [[Project Notes]] | `#project` |
+| Note Type | Description                                                                          | Reference         | Tag         |
+| --------- | ------------------------------------------------------------------------------------ | ----------------- | ----------- |
+| Plugin    | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[Plugin Notes]]  | `#plugin`   |
+| Meeting   | A note capturing information from a meeting                                          | [[Meeting Notes]] | `#meeting`  |
+| Person    | A note representing a person                                                         | [[Person Notes]]  | `#person`   |
+| Feature   | A note describing a user facing feature                                              | [[Feature Notes]] | `#feature`  |
+| Project   | A note representing a project or deliverable                                         | [[Project Notes]] | `#project`  |
+| Codebase  | A note describing a deployable unit of code                                          |                   | `#codebase` |
+| Team      | A note representing a team of people                                                 |                   | `#team`     |
 
 ## ✨ Creating a New Note Type
 
