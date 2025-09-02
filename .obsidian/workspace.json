@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/style/Icons.md",
+                "file": "002 meta/templates/meta_plugin_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Icons"
+              "title": "meta_plugin_template"
             }
           }
         ],
@@ -54,6 +54,64 @@
               },
               "icon": "lucide-file",
               "title": "Person Notes"
+            }
+          },
+          {
+            "id": "5b69042860300915",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/plugins/plugins/Dataview Plugin.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dataview Plugin"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "06c38df6638b2957",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "16c138475cf8ced3",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "002 meta/plugins/plugins/Dataview Plugin.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph of Dataview Plugin"
             }
           }
         ]
@@ -286,16 +344,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7d899e09a03d020",
+  "active": "5b69042860300915",
   "lastOpenFiles": [
+    "002 meta/plugins/Plugins.base",
+    "002 meta/plugins/plugins/Tabs Plugin.md",
+    "002 meta/templates/meta_plugin_template.md",
+    "002 meta/vault specification/Note Properties.md",
+    "002 meta/style/Icons.md",
+    "002 meta/vault specification/Person Notes.md",
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/000 vault specification.md",
-    "002 meta/vault specification/Person Notes.md",
-    "002 meta/style/Icons.md",
     "002 meta/templates/person_template.md",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/vault specification/Meeting Notes.md",
-    "002 meta/vault specification/Note Properties.md",
     "000 inbox/Test.md",
     "README.md",
     "020 areas/people/000 people.md",
@@ -312,11 +373,7 @@
     "002 meta/vault specification/Folder Organization.md",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault plugins/plugins.md",
     "002 meta/vault specification/Proposed Specification.md",
-    "002 meta/plugins/Plugins.base",
     "002 meta/plugins/plugins/Git Plugin.md",
-    "002 meta/000 meta.md",
-    "040 archives/000 archives.md",
-    "030 resources/000 resources.md",
     "040 archives/Meetings/2025/08",
     "040 archives/Meetings/2025",
     "040 archives/Meetings",

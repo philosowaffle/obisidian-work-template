@@ -39,5 +39,5 @@ Person notes represent people, there is one note created per person. This note m
 
 ## ⚠️Dependencies
 
-- Tabs
-- Dataview
+- [[Tabs Plugin]]
+- [[Dataview Plugin]]
