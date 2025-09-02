@@ -4,10 +4,17 @@ filters:
     - '!file.folder.startsWith("002 meta")'
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - Description
       - Project Next Steps
-      - Project Stakeholders
       - Project Status
+      - Project Stakeholders
+    sort:
+      - property: Project Next Steps
+        direction: ASC
+    columnSize:
+      note.Description: 343
+      note.Project Next Steps: 340
+    rowHeight: medium

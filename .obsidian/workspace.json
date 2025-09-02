@@ -31,13 +31,14 @@
             "id": "109f23cafa7e54d9",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "002 meta/vault views/Bases/Projects.base",
-                "viewName": "Table"
+                "file": "010 projects/The first thing/The first thing Project.md",
+                "mode": "source",
+                "source": true
               },
-              "icon": "lucide-table",
-              "title": "Projects"
+              "icon": "lucide-file",
+              "title": "The first thing Project"
             }
           }
         ]
@@ -207,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault views/Bases/Projects.base",
+                "file": "002 meta/templates/project_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -235,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Projects"
+              "title": "Graph of project_template"
             }
           }
         ]
@@ -263,7 +264,7 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "109f23cafa7e54d9",
+  "active": "0b235993f0d6da83",
   "lastOpenFiles": [
     "010 projects/The first thing/The first thing Project.md",
     "002 meta/vault views/Bases/Projects.base",

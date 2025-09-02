@@ -1,15 +1,25 @@
----
-created: <% tp.file.creation_date() %>
-tags: []
----
-
 <%* 
 
 	let filename = tp.file.title;
 	let icon = "📦";
 	let tag = "#project/" + filename.replaceAll(" Project", "").replaceAll(" ", "_").replaceAll(".", "_").replaceAll("-", "").replaceAll("+", "_").toLowerCase();
 
-%># <% icon %> <% filename %>  
+%>---
+created: <% tp.file.creation_date() %>
+Description: Update the thing
+Project Next Steps: reach out to
+Project Status: In Progress
+created: 2025-09-02 13:33
+archived:
+Project Stakeholders:
+  - "[[Bailey Belvis]]"
+tags:
+  - project/the_first_thing
+Navigate:
+  - "[[Projects.base|Got to all Projects]]"
+---
+
+# <% icon %> <% filename %>  
 
 A project to...
 
