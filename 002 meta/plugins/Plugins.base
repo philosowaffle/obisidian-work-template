@@ -20,12 +20,14 @@ views:
     name: Table
     order:
       - file.name
-      - meta_plugin_core_functionality
-      - meta_plugin_qol
-      - meta_plugin_style
-      - meta_plugin_vault_management
-      - meta_plugin_status
+      - Plugin Status
+      - Pugin Core Functionality
+      - Plugin QoL
+      - Plugin Style
+      - Plugin Vault Management
     sort:
+      - property: Plugin Status
+        direction: ASC
       - property: meta_plugin_status
         direction: ASC
       - property: file.name

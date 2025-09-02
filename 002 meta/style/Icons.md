@@ -19,3 +19,4 @@ Standard Icons used in this vault to represent certain ideas and concepts.
 | ⚽    | Team                         | soccer ball                  |
 | 🪧   | Fields                       | placard                      |
 | 🪟   | View, Dynamic View           | window                       |
+| 🔃   | Workflow                     | clockwise vertical arrows    |

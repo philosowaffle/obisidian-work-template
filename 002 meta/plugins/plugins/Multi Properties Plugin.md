@@ -9,8 +9,8 @@ Plugin Vault Management: true
 ---
 # 🔌 Multi Properties Plugin
 
-> [!danger] Uninstalled
-> Didn't end up needing this. All I needed was a bulk rename which is supported by the `Show all Properties` native view in Obsidian.
+> [!danger] Disabled
+> Only enable when needed. For bulk add/remove/change value this plugin is useful. For bulk renaming of Properties use native `Properties Show All`.
 
 Used to bulk add/remove properties.
 
