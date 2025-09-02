@@ -5,16 +5,14 @@
 	let tag = "#project/" + filename.replaceAll(" Project", "").replaceAll(" ", "_").replaceAll(".", "_").replaceAll("-", "").replaceAll("+", "_").toLowerCase();
 
 %>---
-created: <% tp.file.creation_date() %>
-Description: Update the thing
-Project Next Steps: reach out to
+Description: 
+Project Next Steps:
 Project Status: In Progress
-created: 2025-09-02 13:33
+created: <% tp.file.creation_date() %>
 archived:
 Project Stakeholders:
-  - "[[Bailey Belvis]]"
 tags:
-  - project/the_first_thing
+  - <% tag %>
 Navigate:
   - "[[Projects.base|Got to all Projects]]"
 ---

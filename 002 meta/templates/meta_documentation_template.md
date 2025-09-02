@@ -8,7 +8,10 @@
 
 ### ✨ Creating
 
-1. Steps
+1. `ctrl+shft+n` to launch [[QuickAdd Plugin]]
+2. Choose `adf`
+3. Fill out ...
+4. The note will be created in ...
 
 ### ⛔Removing
 
