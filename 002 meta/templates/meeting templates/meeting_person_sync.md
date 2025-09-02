@@ -3,6 +3,8 @@
 	let splitOnSpaces = filename.split(" ")
 	let personName = splitOnSpaces[1] + " " + splitOnSpaces[2]
 %>---
+Navigate:
+  - "[[Meetings.base|Go to all Meetings]]"
 Description: 1:1 with <%personName%>]
 Meeting Datetime: <% tp.file.creation_date() %>
 Meeting Attendees:

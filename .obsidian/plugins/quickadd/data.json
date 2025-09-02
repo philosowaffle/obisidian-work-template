@@ -27,7 +27,7 @@
           },
           "appendLink": {
             "enabled": true,
-            "placement": "replaceSelection"
+            "placement": "afterSelection"
           },
           "openFileInNewTab": {
             "enabled": true,

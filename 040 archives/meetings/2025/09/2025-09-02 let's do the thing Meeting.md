@@ -1,5 +1,7 @@
 ---
-Description:
+Navigate:
+  - "[[Meetings.base|Go to all Meetings]]"
+Description: doing something awesome
 Meeting Datetime: 2025-09-02 12:34
 Meeting Attendees:
   - "[[Bailey Belvis]]"

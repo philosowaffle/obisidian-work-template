@@ -1,4 +1,6 @@
 ---
+Navigate:
+  - "[[Meetings.base|Go to all Meetings]]"
 Description:
 Meeting Datetime: <% tp.file.creation_date() %>
 Meeting Attendees:
