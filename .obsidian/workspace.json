@@ -70,7 +70,7 @@
               "state": {
                 "file": "020 areas/people/Bailey Belvis.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "Bailey Belvis"
@@ -133,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 269.49999618530273
+    "width": 386.5
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -286,14 +286,15 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "519b05b32b019426",
+  "active": "098277fef74146a2",
   "lastOpenFiles": [
-    "020 areas/people/Bailey Belvis.md",
-    "002 meta/style/Icons.md",
-    "002 meta/vault specification/Meeting Notes.md",
-    "002 meta/templates/person_template.md",
-    "002 meta/vault specification/Person Notes.md",
     "002 meta/vault specification/Note Types.md",
+    "002 meta/vault specification/000 vault specification.md",
+    "002 meta/vault specification/Person Notes.md",
+    "002 meta/style/Icons.md",
+    "002 meta/templates/person_template.md",
+    "020 areas/people/Bailey Belvis.md",
+    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/vault specification/Note Properties.md",
     "000 inbox/Test.md",
     "README.md",
@@ -309,7 +310,6 @@
     "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Folder Organization.md",
-    "002 meta/vault specification/000 vault specification.md",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault plugins/plugins.md",
     "002 meta/vault specification/Proposed Specification.md",
     "002 meta/plugins/Plugins.base",

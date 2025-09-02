@@ -9,6 +9,8 @@ Person notes represent people, there is one note created per person. This note m
 3. Enter the persons first and last name
 4. The person note will be created in `020 areas/people` 
 
+## 🔩Properties
+
 | Properties        | Description                                                 |
 | ----------------- | ----------------------------------------------------------- |
 | aliases           | Add aliases or nicknames for this person                    |
@@ -20,12 +22,22 @@ Person notes represent people, there is one note created per person. This note m
 | person_timezone   | The timezone this person is in                              |
 |                   |                                                             |
 
-| Fields     | Description                                                 |
-| ---------- | ----------------------------------------------------------- |
-| Notes      | Generic place to take notes related to this person          |
-| Log        | Log updates and changes made to this person                 |
+## 🪧Fields
+
+| Fields | Description                                        |
+| ------ | -------------------------------------------------- |
+| Notes  | Generic place to take notes related to this person |
+| Log    | Log updates and changes made to this person        |
+|        |                                                    |
+
+## 🪟Dynamic Views
 
 | Dynamic Views | Description                                                                                               |
 | ------------- | --------------------------------------------------------------------------------------------------------- |
 | Tasks         | All todo tasks with this person tagged, or added specifically to this persons Note file will show up here |
 | Meetings      | All [[Meeting Notes]] that include a link to this person note will show here                              |
+
+## ⚠️Dependencies
+
+- Tabs
+- Dataview

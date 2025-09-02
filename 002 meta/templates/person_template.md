@@ -7,6 +7,12 @@ created: <% tp.file.creation_date() %>
 aliases: 
 tags: [<% tag %>]
 note_type: person
+person_org:
+person_title:
+person_reports_to:
+person_team:
+person_specialty:
+person_timezone: MST / MDT
 ---
 # 🧍 <% filename %>
 

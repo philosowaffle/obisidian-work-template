@@ -15,3 +15,7 @@ Standard Icons used in this vault to represent certain ideas and concepts.
 | 🧪   | Testing, Experiment          | test tube                    |
 | ⛔    | Delete, Remove, Undo         | no entry                     |
 | 🔩   | Property                     | nut and bolt                 |
+| 🧍   | People, Person               | person standing              |
+| ⚽    | Team                         | soccer ball                  |
+| 🪧   | Fields                       | placard                      |
+| 🪟   | View, Dynamic View           | window                       |
