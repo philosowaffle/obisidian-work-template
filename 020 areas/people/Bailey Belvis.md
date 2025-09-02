@@ -1,14 +1,16 @@
 ---
+Navigate:
+  - "[[People.base|Go to all People]]"
+Note Type: person
+Person Org:
+Person Title:
+Person Reports To:
+Person Team:
+Person Specialty:
+Person Time Zone: MST / MDT
 created: 2025-09-02 08:40
-aliases: []
 tags: [people/bailey_belvis]
-note_type: person
-person_org:
-person_title:
-person_reports_to:
-person_team:
-person_specialty:
-person_timezone: MST / MDT
+aliases: []
 ---
 # 🧍 Bailey Belvis
 

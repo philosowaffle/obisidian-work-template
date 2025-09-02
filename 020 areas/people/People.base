@@ -1,0 +1,34 @@
+filters:
+  and:
+    - file.tags.contains("people")
+properties:
+  note.person_org:
+    displayName: Org
+  note.person_title:
+    displayName: Title
+  note.person_reports_to:
+    displayName: Reports To
+  note.person_team:
+    displayName: Team
+  note.person_specialty:
+    displayName: Specialty
+  note.person_timezone:
+    displayName: Time Zone
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - person_title
+      - person_reports_to
+      - person_team
+      - person_org
+      - person_specialty
+      - person_timezone
+    sort:
+      - property: file.name
+        direction: DESC
+      - property: person_org
+        direction: DESC
+    columnSize:
+      file.name: 133
