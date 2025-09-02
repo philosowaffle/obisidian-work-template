@@ -8,7 +8,7 @@
 - [x] feature template ✅ 2025-09-02
 - [x] project template ✅ 2025-09-02
 - [ ] prompt template
-- [ ] team template
+- [x] team template ✅ 2025-09-02
 - [ ] Setup home page and hotkey
 - [x] Test codebase template ✅ 2025-09-02
 - [x] Test people template ✅ 2025-09-02

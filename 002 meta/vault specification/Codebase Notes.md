@@ -41,7 +41,7 @@ Notes describing tools, processes, and information around a deployable unit of c
 
 ### 🪟Dynamic Views
 
-- Meetings that link back to this codebase will automatically display in the Meetings section
+- [[Meeting Notes]] that link back to this codebase will automatically display in the Meetings section
 
 ### ⚠️ Dependencies
 

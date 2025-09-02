@@ -9,3 +9,5 @@ views:
       - file.name
       - Description
       - Team Manager
+    columnSize:
+      note.Description: 179

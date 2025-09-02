@@ -26,24 +26,23 @@ Notes describing tools, processes, and information around a team of people.
 | Property     | Values          | Description                              |
 | ------------ | --------------- | ---------------------------------------- |
 | Team Manager | Links to Person | Identifies the primary owner of the team |
-| Team Members | Links to People | Identifies known SME's for this codebase |
 
 ### 🪧Fields
 
-| Fields        | Description                                      |
-| ------------- | ------------------------------------------------ |
-| Links         | Standard resource links                          |
-| Notes         | Dumping ground for notes                         |
-| Observability | Notes about observing and monitoring the service |
-| Releases      | Notes about releasing the code                   |
-| Meetings      | Meetings related to this codebase                |
-| Log           | Log of changes related to this codebase          |
+| Fields    | Description                                                 |
+| --------- | ----------------------------------------------------------- |
+| Links     | Standard resource links                                     |
+| Notes     | Dumping ground for notes                                    |
+| Processes | Processes the team follows such as standups, grooming, etc. |
+| Meetings  | Meetings related to this codebase                           |
+| Log       | Log of changes related to this codebase                     |
 
 ### 🪟Dynamic Views
 
-- Meetings that link back to this codebase will automatically display in the Meetings section
+- [[Meeting Notes]] that link back to this team will automatically display in the `Meetings` section
+- [[Person Notes]] that link back to this team will automatically display in the `Members` section.
 
 ### ⚠️ Dependencies
 
 - [[Dataview Plugin]]
-- [[codebase_template]]
+- [[team_template]]

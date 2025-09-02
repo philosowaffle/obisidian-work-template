@@ -1,15 +1,13 @@
 ---
-Description:
-Team Manager:
+Description: The very best team
+Team Manager: "[[Bailey Belvis]]"
 aliases: []
-created: <% tp.file.creation_date() %>
+created: 2025-09-02 16:34
 tags: [team]
 Navigate:
   - "[[Teams.base|Go to all Teams]]"
 ---
-<%* 
-	let filename = tp.file.title;
-%># ⚽ <% filename %>  
+# ⚽ Sam
 
 ## 🔗 Links
 
@@ -42,7 +40,7 @@ Navigate:
 
 ```dataview
 LIST
-from #meeting and [[<% filename %>]]
+from #meeting and [[Sam]]
 sort file.name ascending
 ```
 
@@ -50,11 +48,11 @@ sort file.name ascending
 
 ```dataview
 LIST person-title
-from #person and [[<% filename %>]]
+from #person and [[Sam]]
 sort file.name ascending
 ```
 
 ## 🕐 Log
 
-- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
+- [[2025-09-02]]
 	- **Team Created**
