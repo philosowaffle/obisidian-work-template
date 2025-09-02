@@ -4,14 +4,9 @@ Meeting Datetime: 2025-09-02T12:18:00
 Meeting Attendees:
   - "[[Bailey Belvis]]"
 Related Projects:
-tags:
-  - meeting
+tags: [meeting]
 ---
-# 📆 2025-09-02 My first thing to do Meeting
-
-**Description:** 
-**People:** 
-**Parent:** 
+# 📆 2025-09-02 My First Thing to Do Meeting
 
 ## 🔮 Outcomes
 

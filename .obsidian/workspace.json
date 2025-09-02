@@ -6,7 +6,7 @@
       {
         "id": "dffc9b3205485b83",
         "type": "tabs",
-        "dimension": 38.91547049441786,
+        "dimension": 30.016402405686165,
         "children": [
           {
             "id": "0b235993f0d6da83",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md",
+                "file": "002 meta/templates/project_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Note Types"
+              "title": "project_template"
             }
           },
           {
@@ -69,7 +69,7 @@
       {
         "id": "a7d8046f4877497c",
         "type": "tabs",
-        "dimension": 16.74641148325359,
+        "dimension": 25.642427556041554,
         "children": [
           {
             "id": "486232bcc7f83e8b",
@@ -104,7 +104,7 @@
       {
         "id": "04bbe1c1b012690b",
         "type": "tabs",
-        "dimension": 44.338118022328544,
+        "dimension": 44.34117003827228,
         "children": [
           {
             "id": "e36f5f8f2ca8e89f",
@@ -128,7 +128,7 @@
               "state": {
                 "file": "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
               "title": "2025-09-02 My first thing to do Meeting"
@@ -302,7 +302,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
+                "file": "002 meta/templates/project_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -330,7 +330,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-09-02 My first thing to do Meeting"
+              "title": "Graph of project_template"
             }
           }
         ]
@@ -358,10 +358,13 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "ece483155f35e023",
+  "active": "0b235993f0d6da83",
   "lastOpenFiles": [
+    "002 meta/templates/plugin_template.md",
+    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/templates/meeting templates/meeting_note_template.md",
     "040 archives/meetings/2025/09/2025-09-02 My first thing to do Meeting.md",
+    "002 meta/vault specification/Note Types.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "040 archives/000 archives.md",
@@ -372,12 +375,9 @@
     "040 archives/Meetings/2025/09/2025-09-02 My Generic Things Meeting.md",
     "000 inbox/Test.md",
     "002 meta/templates/person_template.md",
-    "002 meta/templates/plugin_template.md",
     "002 meta/plugins/plugins/Calendar Plugin.md",
-    "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Person Notes.md",
     "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
-    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/vault specification/Plugin Notes.md",
     "002 meta/templates/project_template.md",
     "002 meta/templates/meeting templates/meeting_person_sync.md",
