@@ -3,15 +3,14 @@ created: 2025-09-02 08:40
 aliases: []
 tags: [people/bailey_belvis]
 note_type: person
+person_org:
+person_title:
+person_reports_to:
+person_team:
+person_specialty:
+person_timezone: MST / MDT
 ---
 # 🧍 Bailey Belvis
-
-**Org:**
-**Title:** 
-**Reports To:** 
-**Team:** 
-**Speciality:** 
-**Timezone:** 
 
 ````tabs
 top,one

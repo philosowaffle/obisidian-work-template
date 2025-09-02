@@ -9,22 +9,23 @@ Person notes represent people, there is one note created per person. This note m
 3. Enter the persons first and last name
 4. The person note will be created in `020 areas/people` 
 
-| Properties | Description                              |
-| ---------- | ---------------------------------------- |
-| aliases    | Add aliases or nicknames for this person |
+| Properties        | Description                                                 |
+| ----------------- | ----------------------------------------------------------- |
+| aliases           | Add aliases or nicknames for this person                    |
+| person_org        | The Organization within the Company this person belongs to  |
+| person_title      | The persons title                                           |
+| person_reports_to | A link to the person this person reports to in the org tree |
+| person_team       | Link to the Team this person is part of                     |
+| person_specialty  | List areas this person is a SME in                          |
+| person_timezone   | The timezone this person is in                              |
+|                   |                                                             |
 
 | Fields     | Description                                                 |
 | ---------- | ----------------------------------------------------------- |
-| Org        | The Organization within the Company this person belongs to  |
-| Title      | The persons title                                           |
-| Reports To | A link to the person this person reports to in the org tree |
-| Team       | Link to the Team this person is part of                     |
-| Specialty  | List areas this person is a SME in                          |
-| Time Zone  | The timezone this person is in                              |
 | Notes      | Generic place to take notes related to this person          |
 | Log        | Log updates and changes made to this person                 |
 
-
-| Dynamic Views | Description                                                                         |
-| ------------- | ----------------------------------------------------------------------------------- |
-| Tasks         | All todo tasks with this perso
+| Dynamic Views | Description                                                                                               |
+| ------------- | --------------------------------------------------------------------------------------------------------- |
+| Tasks         | All todo tasks with this person tagged, or added specifically to this persons Note file will show up here |
+| Meetings      | All [[Meeting Notes]] that include a link to this person note will show here                              |

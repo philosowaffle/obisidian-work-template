@@ -35,8 +35,7 @@
               "title": "Meeting Notes"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "5f6c3012423a0e29",
@@ -286,12 +285,12 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "f7d899e09a03d020",
+  "active": "0188c121944c5993",
   "lastOpenFiles": [
-    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/templates/person_template.md",
-    "002 meta/vault specification/Person Notes.md",
     "020 areas/people/Bailey Belvis.md",
+    "002 meta/vault specification/Person Notes.md",
+    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Note Properties.md",
     "000 inbox/Test.md",
