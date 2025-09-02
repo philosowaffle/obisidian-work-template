@@ -1,11 +1,12 @@
 <%* 
 	let filename = tp.file.title;
 	let alias = filename.split(" ")[0];
-	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
+	let tag = "people/" + filename.replaceAll(" ", "_").toLowerCase();
 %>---
 created: <% tp.file.creation_date() %>
 aliases: 
-tags: <% tag %>
+tags: [<% tag %>]
+note_type: person
 ---
 # 🧍 <% filename %>
 
@@ -13,8 +14,8 @@ tags: <% tag %>
 **Title:** 
 **Reports To:** 
 **Team:** 
-**Speciality:** 
-**Timezone:** 
+**Specialty:** 
+**Time Zone:** 
 
 ````tabs
 top,one

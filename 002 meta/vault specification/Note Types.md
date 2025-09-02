@@ -10,6 +10,7 @@ The type of a note is defined using the `note_type` property. A given Note Type 
 | ----------- | ------------------------------------------------------------------------------------ | ----------------- |
 | meta_plugin | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[000 plugins]]   |
 | meeting     | A note capturing information from a meeting                                          | [[Meeting Notes]] |
+| person      | A note representing a person                                                         |                   |
 
 ## ✨ Creating a New Note Type
 

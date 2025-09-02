@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "person_template"
             }
+          },
+          {
+            "id": "519b05b32b019426",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/vault specification/Meeting Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meeting Notes"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "5f6c3012423a0e29",
@@ -33,22 +48,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/Test.md",
+                "file": "002 meta/vault specification/Person Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Person Notes"
             }
           }
         ]
       },
       {
-        "id": "794eefeb683a9fa6",
+        "id": "c29653fe959de94b",
         "type": "tabs",
         "children": [
           {
-            "id": "039e05563a256167",
+            "id": "0188c121944c5993",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -273,9 +288,13 @@
   },
   "active": "f7d899e09a03d020",
   "lastOpenFiles": [
-    "020 areas/people/Bailey Belvis.md",
-    "000 inbox/Test.md",
+    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/templates/person_template.md",
+    "002 meta/vault specification/Person Notes.md",
+    "020 areas/people/Bailey Belvis.md",
+    "002 meta/vault specification/Note Types.md",
+    "002 meta/vault specification/Note Properties.md",
+    "000 inbox/Test.md",
     "README.md",
     "020 areas/people/000 people.md",
     "020 areas/People 🧑‍🤝‍🧑/Bailey Belvis.md",
@@ -287,7 +306,6 @@
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Note Tags.md",
-    "002 meta/vault specification/Note Properties.md",
     "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Folder Organization.md",
     "002 meta/vault specification/000 vault specification.md",
@@ -299,9 +317,6 @@
     "040 archives/000 archives.md",
     "030 resources/000 resources.md",
     "020 areas/000 areas.md",
-    "010 projects/000 projects.md",
-    "001 attachments/000 attachments.md",
-    "020 areas/teams/000 teams.md",
     "040 archives/Meetings/2025/08",
     "040 archives/Meetings/2025",
     "040 archives/Meetings",
