@@ -60,7 +60,6 @@ Update the `meta_plugin_status` property to be ❌ (disabled). Add a note explai
 
 | Property                  | Values                                 | Description                                                               |
 | ------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
-| Note Type                 | meta_plugin                            | Identifies this note as documenting an Obsidian Plugin                    |
 | Plugin Status             | ✔️ Adopted<br>❌ Disabled<br>🧪 Testing | Identifies the status of the plugin, either Testing, Adopted, or Disabled |
 | Plugin Core Functionality | true/false                             | Plugin provides core functionality for the vault to work                  |
 | Plugin QoL                | true/false                             | Plugin provides quality of life features                                  |

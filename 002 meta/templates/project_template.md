@@ -56,7 +56,7 @@ short mode
 tab: 📆 Meetings
 ```dataview
 LIST
-from #meeting and <% tag %>
+from #meeting and [[<% filename %>]]
 sort file.name ascending
 ```
 ````

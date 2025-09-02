@@ -1,7 +1,6 @@
 ---
 tags:
   - meeting
-Note Type: meeting
 ---
 <%* 
 

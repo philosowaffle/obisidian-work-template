@@ -1,7 +1,6 @@
 ---
 tags:
   - meeting/recurring/1_1
-Note Type: meeting
 ---
 <%* 
 	let filename = tp.file.title;

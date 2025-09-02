@@ -5,7 +5,6 @@
 %>---
 Navigate:
   - "[[People.base|Go to all People]]"
-Note Type: person
 Person Org:
 Person Title:
 Person Reports To:

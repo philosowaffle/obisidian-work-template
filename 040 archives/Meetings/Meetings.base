@@ -1,6 +1,17 @@
 filters:
   and:
     - file.tags.contains("meeting")
+    - '!file.folder.startsWith("002 meta")'
+properties:
+  note.Meeting Attendees:
+    displayName: Attendees
+  note.Meeting Datetime:
+    displayName: Date
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - Description
+      - Meeting Attendees
+      - Meeting Datetime

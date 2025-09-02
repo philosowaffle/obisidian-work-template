@@ -29,6 +29,8 @@
     "Plugin QoL": "checkbox",
     "Plugin Style": "checkbox",
     "Plugin Vault Management": "checkbox",
-    "Meeting Attendees": "multitext"
+    "Meeting Attendees": "multitext",
+    "Meeting Datetime": "datetime",
+    "Related Project": "multitext"
   }
 }
