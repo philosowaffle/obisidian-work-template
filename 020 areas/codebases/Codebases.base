@@ -1,6 +1,14 @@
 filters:
   and:
     - file.tags.contains("codebase")
+    - '!file.folder.contains("002 meta")'
 views:
   - type: table
     name: Table
+    order:
+      - file.name
+      - Description
+      - Codebase Owners
+      - Codebase SMEs
+    columnSize:
+      note.Description: 379

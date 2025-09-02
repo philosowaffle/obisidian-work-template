@@ -5,6 +5,7 @@ Pugin Core Functionality:
 Plugin QoL:
 Plugin Style:
 Plugin Vault Management:
+created: <% tp.file.creation_date() %>
 tags: plugin
 ---
 # 🔌 <%tp.file.title%>

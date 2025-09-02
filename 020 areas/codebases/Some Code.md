@@ -1,9 +1,14 @@
 ---
+Description: This code does something
 Codebase Owners:
+  - "[[Bailey Belvis]]"
 Codebase SMEs:
+  - "[[Bailey Belvis]]"
 aliases: []
 created: 2025-09-02 12:57
 tags: [codebase]
+Navigate:
+  - "[[Codebases.base|Go to all Codebases]]"
 ---
 # 💾 Some Code
 

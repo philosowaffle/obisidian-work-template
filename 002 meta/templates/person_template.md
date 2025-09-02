@@ -3,8 +3,6 @@
 	let alias = filename.split(" ")[0];
 	let tag = "person/" + filename.replaceAll(" ", "_").toLowerCase();
 %>---
-Navigate:
-  - "[[People.base|Go to all People]]"
 Person Org:
 Person Title:
 Person Reports To:
@@ -14,6 +12,8 @@ Person Time Zone: MST / MDT
 created: <% tp.file.creation_date() %>
 tags: [<% tag %>]
 aliases: []
+Navigate:
+  - "[[People.base|Go to all People]]"
 ---
 # 🧍 <% filename %>
 

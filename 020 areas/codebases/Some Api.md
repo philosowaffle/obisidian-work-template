@@ -1,20 +1,18 @@
 ---
-Description:
+Description: This code does something with an api
 Codebase Owners:
+  - "[[Bailey Belvis]]"
 Codebase SMEs:
+  - "[[Bailey Belvis]]"
 aliases: []
-created: <% tp.file.creation_date() %>
+created: 2025-09-02 13:03
 tags: [codebase]
 Navigate:
   - "[[Codebases.base|Go to all Codebases]]"
 ---
-<%* 
-	let filename = tp.file.title;
-	let alias = filename.split(" ")[0];
-	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
-%># 💾 <% filename %>  
+# 💾 Some Api
 
-# 🔗 links
+# 🔗 Links
 
 - **Repo Urls:** 
 - **Admin Tools:** 
@@ -23,29 +21,32 @@ Navigate:
 - **Google Drive:** 
 - **Slack Channels: 
 
-# 🧭 moc
+# 🧭 Moc
+
 > [!info]-
 > Map of Content to more notes.
 
-# 📓 notes
+# 📓 Notes
+
 > [!info]-
 > A place to start top level notes if individual note files are not needed or ready yet.
 
-# 🔍 observability
+# 🔍 Observability
+
 > [!info]-
 > Links to dashboards, logs, and sql queries.
 
-# 🛳 releases
+# 🛳 Releases
+
 > [!info]-
 > Release schedule and processes.
 
+# 📆 Meetings
 
-# 📆 meetings
 > [!info]-
 > Working group meetings, and others.
 
+# 🕐 Log
 
-# 🕐 log
-
-- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
+- [[2025-09-02]]
 	- **Codebase Created**
