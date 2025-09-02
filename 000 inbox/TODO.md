@@ -13,7 +13,7 @@
 - [x] project template ✅ 2025-09-02
 - [ ] prompt template
 - [x] team template ✅ 2025-09-02
-- [ ] Setup home page and hotkey
+- [x] Setup home page and hotkey ✅ 2025-09-02
 - [x] Test codebase template ✅ 2025-09-02
 - [x] Test people template ✅ 2025-09-02
 - [x] Finish Plugin Note ✅ 2025-09-02
@@ -35,3 +35,7 @@
 - [ ] sort Icons
 - [ ] re-organize Help Module
 - [ ] Apply Help module
+- [ ] clean up 000 notes
+- [ ] clean up tags
+- [ ] clean up properties
+- [ ] add calendar widget

@@ -19,7 +19,7 @@
 Sample template for Published notes.
 
 ```
-## 🕐 Log
+## 🕒 Log
 
 - [[{{date}}]]
 	- **Log Section Created**

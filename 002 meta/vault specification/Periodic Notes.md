@@ -2,7 +2,6 @@
 
 There are several types of supported Periodic Notes, all of which follow the same general structure.
 
-
 | Period          | Description                                                                                                                                                                                                        |
 | --------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | Daily Notes     | These serve as the home page for any given day.  Each one provides spaces for capturing new TODOs, jotting down notes, and also several dynamic views for reviewing active Projects and the current days meetings. |
@@ -15,18 +14,21 @@ There are several types of supported Periodic Notes, all of which follow the sam
 
 ### 🔍 Discovery
 
-- Use the Ca
+- Use the [[Calendar Plugin]] to find Days, Weeks, or Months
+- Use the command palette to open the current timeframes periodic note
+- Browse `050 gitignore/journal`
 
-### ✨ Creating
+### ✨ Creating the Daily Note
 
-1. `ctrl+shft+n` to launch [[QuickAdd Plugin]]
-2. Choose `adf`
-3. Fill out ...
-4. The note will be created in ...
+1. `ctrl+h` (for home) to open today's Daily Note
+
+### ✨Creating Other Periodic Notes
+
+1. Use the command palette and search for the period you would like to create a note for
 
 ### ⛔Removing
 
-1. Steps
+1. Delete the given note
 
 ## ⚙️Meta
 
@@ -55,6 +57,8 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 
 - [[Dataview Plugin]]
 - [[Tabs Plugin]]
+- [[Periodic Notes]]
+- [[Calendar Plugin]]
 - [[daily_note_template]]
 - [[weekly_note_template]]
 - [[monthly_note_template]]

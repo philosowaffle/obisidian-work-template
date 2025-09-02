@@ -7,3 +7,4 @@
 4. Once organized, file **must** reside in one of the four PARA folders.
 5. File *may* have [[Note Tags|Note Tags]]
 6. File *may* have [[Note Properties]]
+7. File *may* belong to a specific [[Note Types]]

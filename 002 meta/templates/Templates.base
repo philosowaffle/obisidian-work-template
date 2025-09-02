@@ -6,6 +6,5 @@ views:
     name: Table
     order:
       - file.name
-      - note_type
       - tags
       - cssclasses

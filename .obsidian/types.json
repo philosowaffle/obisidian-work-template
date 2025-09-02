@@ -31,7 +31,6 @@
     "Plugin Vault Management": "checkbox",
     "Meeting Attendees": "multitext",
     "Meeting Datetime": "datetime",
-    "Related Project": "multitext",
     "Related Projects": "multitext",
     "Codebase Owners": "multitext",
     "Codebase SMEs": "multitext",

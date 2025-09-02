@@ -54,28 +54,6 @@ Provides inline UI elements that are directly bound to file properties.
 
 Useful for auditing broken links in the vault.
 
-#### Obsidian Tabs Plugin
-
-> [!success] Adopted
-
-Testing this out as an alternative to [MCL Multi-Column CSS](style.md#MCL%20Multi-Column%20CSS).
-
-https://github.com/xhuajin/obsidian-tabs?tab=readme-ov-file
-
-````tabs
-
-tab: TAB ONE
-```tasks
-not done
-due today
- sort by priority, due
-hide edit button
-short mode
- ```
-tab: TAB TWO
-Content of TAB TWO
-````
-
 #### Obsidian Web Clipper
 
 Not a plugin but a web browser extension. Allows clipping content from the web and saving to the vault. Currently just using the default template and sending to `000 inbox/`.
