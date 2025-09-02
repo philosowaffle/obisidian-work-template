@@ -3,7 +3,7 @@
 - [x] Test 1:1 meeting note ✅ 2025-09-02
 - [x] polish normal meeting ✅ 2025-09-02
 - [ ] Test recurring meeting note
-- [ ] inline templates
+- [x] inline templates ✅ 2025-09-02
 - [ ] periodic templates
 - [ ] feature template
 - [ ] project template
@@ -15,6 +15,7 @@
 - [x] Test people template ✅ 2025-09-02
 - [x] Finish Plugin Note ✅ 2025-09-02
 - [ ] Clean up and or test all Quick adds
+- [ ] Custom CSS
 - [ ] Setup Excalidraw explaining how to use the vault
 - [ ] Clean up left hand ribbon
 - [ ] Install a theme

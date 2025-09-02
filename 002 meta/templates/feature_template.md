@@ -1,26 +1,12 @@
----
-created: <% tp.file.creation_date() %>
-tags: []
-aliases: []
----
-
 <%* 
 
 	let filename = tp.file.title;
-
 	let tag = "#feature";
-
 	let icon = "🧱";
-
 	let folder = "030 resources/";
-
 	if ( filename.startsWith("Untitled") ) 
-
 	{ 	
-
-		name = await tp.system.prompt("Feature Name: ");
-
-				
+		name = await tp.system.prompt("Feature Name: ");	
 		tag = "feature/" + name.toLowerCase().replaceAll(' ', '_');
 
 		filename = name + " Feature";		
@@ -30,10 +16,18 @@ aliases: []
 	featureId = await tp.system.prompt("luProdFeatureId: ");
 	tag = "#feature/" + filename.replaceAll(" Feature", "").replaceAll(" ", "_").toLowerCase();
 
-%># <% icon %> <% filename %>  
-<%tag%> **luProdFeatureId:** (luProdFeatureId:: <% featureId %>)
+%>---
+Description:
+aliases: []
+created: <% tp.file.creation_date() %>
+tags: [<%tag%> ]
+Navigate:
+  - "[[Features.base|Go to all Features]]"
+aliases: []
+---
+# <% icon %> <% filename %>  
 
-A [feature](../../030%20resources/User%20Features.md) that ..... <%tp.file.cursor()%>
+A feature that ....
 
 > [!example]- links
 > - FFS Link
