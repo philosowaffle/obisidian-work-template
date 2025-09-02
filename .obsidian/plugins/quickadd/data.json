@@ -19,7 +19,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "040 archives/Meetings"
+              "040 archives/meetings"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,

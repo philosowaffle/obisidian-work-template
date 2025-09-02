@@ -28,6 +28,7 @@
     "Pugin Core Functionality": "checkbox",
     "Plugin QoL": "checkbox",
     "Plugin Style": "checkbox",
-    "Plugin Vault Management": "checkbox"
+    "Plugin Vault Management": "checkbox",
+    "Meeting Attendees": "multitext"
   }
 }

@@ -55,30 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md",
+                "file": "000 inbox/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Person Notes"
-            }
-          },
-          {
-            "id": "7c7b8747bf3ba49c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 meta/plugins/plugins/Dataview Plugin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dataview Plugin"
+              "title": "TODO"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       },
       {
         "id": "a7d8046f4877497c",
@@ -90,15 +76,63 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/plugins/000 plugins.md",
+                "file": "050 gitignore/People/Supplemental/1_1s/2025/09/2025-09-02 Bailey Belvis Sync Meeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "000 plugins"
+              "title": "2025-09-02 Bailey Belvis Sync Meeting"
+            }
+          },
+          {
+            "id": "ce220ea486a4ae03",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "000 inbox/Test.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Test"
             }
           }
         ]
+      },
+      {
+        "id": "04bbe1c1b012690b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3f6564608e5736b8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/templates/meeting templates/meeting_template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "meeting_template"
+            }
+          },
+          {
+            "id": "e36f5f8f2ca8e89f",
+            "type": "leaf",
+            "state": {
+              "type": "bases",
+              "state": {
+                "file": "040 archives/Meetings/Meetings.base",
+                "viewName": "Table"
+              },
+              "icon": "lucide-table",
+              "title": "Meetings"
+            }
+          }
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -265,7 +299,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/meta_documentation_template.md",
+                "file": "040 archives/Meetings/Meetings.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +327,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of meta_documentation_template"
+              "title": "Graph of Meetings"
             }
           }
         ]
@@ -321,17 +355,26 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "85d27b5644758704",
+  "active": "e36f5f8f2ca8e89f",
   "lastOpenFiles": [
-    "002 meta/style/Icons.md",
-    "002 meta/templates/meta_documentation_template.md",
-    "002 meta/plugins/000 plugins.md",
-    "002 meta/plugins/plugins/Dataview Plugin.md",
-    "002 meta/plugins/plugins/Templater Plugin.md",
+    "040 archives/Meetings/2025/09/2025-09-02 My Generic Things Meeting.md",
+    "040 archives/Meetings/Meetings.base",
+    "050 gitignore/People/Supplemental/1_1s/2025/09/2025-09-02 Bailey Belvis Sync Meeting.md",
+    "000 inbox/Test.md",
+    "040 archives/Meetings/2025/09",
+    "040 archives/Meetings/2025",
+    "040 archives/Meetings",
+    "020 areas/people/Bailey Belvis.md",
+    "002 meta/vault specification/Meeting Notes.md",
     "002 meta/templates/meeting templates/meeting_template.md",
     "002 meta/vault specification/Person Notes.md",
-    "002 meta/vault specification/Note Types.md",
     "000 inbox/TODO.md",
+    "002 meta/style/Icons.md",
+    "002 meta/templates/meta_documentation_template.md",
+    "002 meta/vault specification/Note Types.md",
+    "002 meta/vault specification/Plugin Notes.md",
+    "002 meta/plugins/plugins/Dataview Plugin.md",
+    "002 meta/plugins/plugins/Templater Plugin.md",
     "002 meta/plugins/Plugins.base",
     "002 meta/plugins/plugins/Multi Properties Plugin.md",
     "002 meta/plugins/plugins/Calendar Plugin.md",
@@ -344,21 +387,11 @@
     "002 meta/plugins/plugins/Iconic Plugin.md",
     "002 meta/plugins/plugins/Linter Plugin.md",
     "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
-    "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
-    "002 meta/plugins/plugins/Periodic Notes Plugin.md",
-    "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
-    "002 meta/plugins/plugins/QuickAdd Plugin.md",
-    "002 meta/plugins/plugins/Supercharged Links Plugin.md",
-    "002 meta/plugins/plugins/Tabs Plugin.md",
     "020 areas/people/People.base",
     "050 gitignore/People/Supplemental/1_1s/2025/09",
     "050 gitignore/People/Supplemental/1_1s/2025",
     "050 gitignore/People/Supplemental/1_1s",
     "050 gitignore/People/Supplemental",
-    "050 gitignore/People",
-    "020 areas/People 🧑‍🤝‍🧑",
-    "Excalidraw",
-    "040 archives/Meetings/2025/08",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

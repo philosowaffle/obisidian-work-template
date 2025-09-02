@@ -1,5 +1,7 @@
 # Title
 
+***Option TOC***
+
 ## 🔃Workflow
 
 ### 🔍 Discovery
@@ -37,5 +39,4 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 
 ## ⚠️ Dependencies
 
-- [[Dataview Plugin]]
-- [[meta_plugin_template]]
+- List

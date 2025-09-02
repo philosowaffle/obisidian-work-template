@@ -54,7 +54,9 @@ Update the `meta_plugin_status` property to be ❌ (disabled). Add a note explai
 > [!danger] Uninstalled or Disabled
 > Removed because it wasn't working well for me.
 
-## 🔩 Properties
+## ⚙️Meta
+
+### 🔩 Properties
 
 | Property                  | Values                                 | Description                                                               |
 | ------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
@@ -66,7 +68,7 @@ Update the `meta_plugin_status` property to be ❌ (disabled). Add a note explai
 | Plugin Vault Management   | true/false                             | Plugin provides tools for managing vault data                             |
 |                           |                                        |                                                                           |
 
-## 🪧Fields
+### 🪧Fields
 
 | Fields                        | Description                                         |
 | ----------------------------- | --------------------------------------------------- |
@@ -77,11 +79,11 @@ Update the `meta_plugin_status` property to be ❌ (disabled). Add a note explai
 |                               |                                                     |
 |                               |                                                     |
 
-## 🪟Dynamic Views
+### 🪟Dynamic Views
 
 A dynamic view of the plugin dependencies is used to show all notes that refer back to that specific plugin.
 
-## ⚠️ Dependencies
+### ⚠️ Dependencies
 
 - [[Dataview Plugin]]
 - [[meta_plugin_template]]

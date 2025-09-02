@@ -2,18 +2,26 @@
 
 Person notes represent people, there is one note created per person. This note may hold information about a person and provides an anchor point for linking notes this person is involved with.
 
-## ✨Creating A Person
+## 🔃 Workflow
+
+### 🔍 Discovery
+
+- [[People.base|People Base]]
+
+### ✨Creating A Person
 
 1. Use `ctrl+shft+n` to launch the [[QuickAdd Plugin]] Wizard
 2. Choose `Person`
 3. Enter the persons first and last name
 4. The person note will be created in `020 areas/people` 
 
-## ⛔Deleting A Person
+### ⛔ Removing A Person
 
 1. Delete the person file
 
-## 🔩Properties
+## ⚙️ Meta
+
+### 🔩Properties
 
 | Properties        | Description                                                 |
 | ----------------- | ----------------------------------------------------------- |
@@ -26,7 +34,7 @@ Person notes represent people, there is one note created per person. This note m
 | Person Time Zone  | The timezone this person is in                              |
 |                   |                                                             |
 
-## 🪧Fields
+### 🪧Fields
 
 | Fields | Description                                        |
 | ------ | -------------------------------------------------- |
@@ -34,7 +42,7 @@ Person notes represent people, there is one note created per person. This note m
 | Log    | Log updates and changes made to this person        |
 |        |                                                    |
 
-## 🪟Dynamic Views
+### 🪟Dynamic Views
 
 | Dynamic Views   | Description                                                                                               |
 | --------------- | --------------------------------------------------------------------------------------------------------- |
@@ -42,7 +50,9 @@ Person notes represent people, there is one note created per person. This note m
 | Meetings        | All [[Meeting Notes]] that include a link to this person note will show here                              |
 | [[People.base]] | People Base                                                                                               |
 
-## ⚠️Dependencies
+### ⚠️Dependencies
 
 - [[Tabs Plugin]]
 - [[Dataview Plugin]]
+- [[QuickAdd Plugin]]
+- [[person_template]]

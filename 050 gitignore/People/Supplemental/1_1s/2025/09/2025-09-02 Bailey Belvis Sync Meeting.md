@@ -1,6 +1,8 @@
 ---
 tags: [meeting/recurring/1_1]
 Note Type: meeting
+Description:
+Meeting Attendees:
 ---
 # 📆 2025-09-02 Bailey Belvis Sync Meeting
 

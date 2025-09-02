@@ -6,6 +6,7 @@
 - [ ] Test project note template
 - [ ] Test codebase template
 - [x] Test people template ✅ 2025-09-02
+- [x] Finish Plugin Note ✅ 2025-09-02
 - [ ] Test team
 - [ ] Clean up and or test all Quick adds
 - [ ] Setup Excalidraw explaining how to use the vault
