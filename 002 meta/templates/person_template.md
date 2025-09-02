@@ -1,15 +1,15 @@
----
-created: <% tp.file.creation_date() %>
-aliases: 
----
 <%* 
 	let filename = tp.file.title;
 	let alias = filename.split(" ")[0];
 	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
-%># 🧍 <% filename %>  
-<% tag %>
+%>---
+created: <% tp.file.creation_date() %>
+aliases: 
+tags: <% tag %>
+---
+# 🧍 <% filename %>
 
-**Org:** <%tp.file.cursor()%>
+**Org:**
 **Title:** 
 **Reports To:** 
 **Team:** 

@@ -8,31 +8,60 @@
         "type": "tabs",
         "children": [
           {
+            "id": "0b235993f0d6da83",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/templates/person_template.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "person_template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "5f6c3012423a0e29",
+        "type": "tabs",
+        "children": [
+          {
             "id": "f7d899e09a03d020",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "000 inbox/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
-            }
-          },
-          {
-            "id": "0b235993f0d6da83",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Test"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "794eefeb683a9fa6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "039e05563a256167",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "020 areas/people/Bailey Belvis.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Bailey Belvis"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -242,12 +271,19 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "098277fef74146a2",
+  "active": "039e05563a256167",
   "lastOpenFiles": [
+    "000 inbox/Test.md",
+    "020 areas/people/Bailey Belvis.md",
+    "002 meta/templates/person_template.md",
+    "README.md",
+    "020 areas/people/000 people.md",
+    "020 areas/People 🧑‍🤝‍🧑/Bailey Belvis.md",
+    "020 areas/People 🧑‍🤝‍🧑",
     "000 inbox/TODO.md",
+    "000 inbox/000 inbox.md",
     "Excalidraw/Drawing 2025-08-30 19.03.33.excalidraw.md",
     "Excalidraw",
-    "README.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Note Tags.md",
@@ -265,13 +301,7 @@
     "020 areas/000 areas.md",
     "010 projects/000 projects.md",
     "001 attachments/000 attachments.md",
-    "000 inbox/000 inbox.md",
     "020 areas/teams/000 teams.md",
-    "020 areas/people/000 people.md",
-    "020 areas/codebases/000 codebases.md",
-    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2024 Summary.md",
-    "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/2023 Summary.md",
-    "002 meta/vault specification/Meeting Notes.md",
     "040 archives/Meetings/2025/08",
     "040 archives/Meetings/2025",
     "040 archives/Meetings",
@@ -279,7 +309,6 @@
     "050 gitignore/People/Supplemental/1_1s/2025",
     "050 gitignore/People/Supplemental/1_1s",
     "050 gitignore/People/Supplemental",
-    "050 gitignore/People",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

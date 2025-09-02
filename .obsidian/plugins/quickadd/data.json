@@ -168,7 +168,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "020 areas/People 🧑‍🤝‍🧑"
+          "020 areas/people"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

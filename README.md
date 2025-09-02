@@ -1,6 +1,6 @@
 # Work Knowledge Base
 
-This repository serves as a knowledge base for work-related information, including meeting notes, project documentation, and general wiki.
+This repository serves as a knowledge base for work-related information, such as meeting notes, project documentation, and a general wiki.
 
 ## Getting Started
 
