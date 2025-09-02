@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.tags.contains("style/css")
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Style Status
+      - cssclasses
+      - Style File
+    columnSize:
+      note.cssclasses: 445

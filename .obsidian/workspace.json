@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
+                "file": "000 inbox/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-02"
+              "title": "TODO"
             }
           }
         ],
@@ -203,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
+                "file": "000 inbox/TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-09-02"
+              "title": "Graph of TODO"
             }
           }
         ]
@@ -260,8 +260,11 @@
   },
   "active": "a87b4d7182b57c1c",
   "lastOpenFiles": [
-    "002 meta/templates/periodic/daily_note_template.md",
+    "002 meta/style/css/Custom CSS.base",
     "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
+    "002 meta/style/css/Hide File Properties CSS.md",
+    "002 meta/style/css",
+    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/templates/project_template.md",
     "002 meta/templates/plugin_template.md",
     "002 meta/templates/feature_template.md",
@@ -291,11 +294,7 @@
     "002 meta/vault specification/Project Notes.md",
     "002 meta/templates/meta_documentation_template.md",
     "010 projects/The first thing",
-    "030 resources/Another thing Feature.md",
     "002 meta/vault views/Bases/Features.base",
-    "030 resources/blah Feature.md",
-    "002 meta/templates/Templates.base",
-    "020 areas/codebases/Codebases.base",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]
