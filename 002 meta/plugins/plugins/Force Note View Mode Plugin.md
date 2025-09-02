@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
@@ -15,6 +16,14 @@ Handy for forcing some notes to always open in Source mode. Currently using this
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Force Note View Mode Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

@@ -5,7 +5,7 @@
 - [ ] Setup home page and hotkey
 - [ ] Test project note template
 - [ ] Test codebase template
-- [ ] Test people template
+- [x] Test people template ✅ 2025-09-02
 - [ ] Test team
 - [ ] Clean up and or test all Quick adds
 - [ ] Setup Excalidraw explaining how to use the vault

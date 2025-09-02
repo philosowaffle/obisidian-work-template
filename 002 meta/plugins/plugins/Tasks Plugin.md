@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -31,6 +32,14 @@ short mode
 ## ⚠️ Dependencies and Integrations
 
 - `002 meta/vault data/recurring tasks`
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Tasks Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

@@ -1,6 +1,6 @@
 filters:
   and:
-    - note_type == "meta_plugin"
+    - note["Note Type"] == "meta_plugin"
     - file.folder != "002 meta/templates"
 properties:
   file.name:
@@ -20,11 +20,11 @@ views:
     name: Table
     order:
       - file.name
-      - meta_plugin_status
       - meta_plugin_core_functionality
       - meta_plugin_qol
       - meta_plugin_style
       - meta_plugin_vault_management
+      - meta_plugin_status
     sort:
       - property: meta_plugin_status
         direction: ASC

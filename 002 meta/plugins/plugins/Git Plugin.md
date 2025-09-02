@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -15,6 +16,14 @@ Used for backup and sync.
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Git Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

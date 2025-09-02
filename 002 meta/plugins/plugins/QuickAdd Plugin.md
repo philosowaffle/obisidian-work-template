@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -23,6 +24,14 @@ Used with [[Templater Plugin]] to create new templated notes and move them to th
 ## ⚠️ Dependencies and Integrations
 
 - Depends on [[Templater Plugin]]
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[QuickAdd Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
@@ -15,6 +16,14 @@ Keeps track of Community Plugin Updates and attempts to full in the Changelog in
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Plugin Update Tracker Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

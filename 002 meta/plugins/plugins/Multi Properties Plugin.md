@@ -24,6 +24,14 @@ Used to bulk add/remove properties.
 
 ```dataview
 LIST
+from [[Multi Properties Plugin]]
+sort file.name descending
+```
+
+### 🔗Referenced By
+
+```dataview
+LIST
 from [[Multiproperties Plugin]]
 sort file.name descending
 ```

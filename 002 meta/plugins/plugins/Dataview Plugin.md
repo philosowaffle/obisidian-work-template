@@ -1,6 +1,5 @@
 ---
-Navigate:
-  - "[[Plugins.base|Go to all Plugins]]"
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true

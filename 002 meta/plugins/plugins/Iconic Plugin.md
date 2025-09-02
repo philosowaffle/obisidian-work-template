@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
@@ -15,6 +16,14 @@ Adopted this to get Emojis out of the file paths. This applies CSS rules after t
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Iconic Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

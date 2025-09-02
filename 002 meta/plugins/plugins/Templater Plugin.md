@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -16,7 +17,13 @@ Used for advanced note templating.
 
 ## ⚠️ Dependencies and Integrations
 
-- Used by [[QuickAdd Plugin]]
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Templater Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

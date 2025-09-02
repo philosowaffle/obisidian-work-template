@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -18,7 +19,13 @@ Also integrates with the Daily Note and [[Periodic Notes Plugin]] functionality.
 
 ## ⚠️ Dependencies and Integrations
 
-- [[Periodic Notes Plugin]]
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Calendar Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

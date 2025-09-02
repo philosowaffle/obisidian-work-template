@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
@@ -15,6 +16,14 @@ Using this to ease pasting in urls.
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Paste Url Into Selection Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

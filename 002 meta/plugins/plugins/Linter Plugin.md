@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
@@ -17,6 +18,14 @@ Use `Ctrl + S` to trigger a Lint for the current file.
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Linter Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 

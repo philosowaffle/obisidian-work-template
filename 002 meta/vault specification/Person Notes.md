@@ -11,7 +11,7 @@ Person notes represent people, there is one note created per person. This note m
 
 ## ⛔Deleting A Person
 
-1. Delete the person fi
+1. Delete the person file
 
 ## 🔩Properties
 

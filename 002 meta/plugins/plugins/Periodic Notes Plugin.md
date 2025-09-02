@@ -1,4 +1,5 @@
 ---
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
@@ -20,8 +21,15 @@ All other Periodic Notes are configured and handled by this plugin.
 
 ## ⚠️ Dependencies and Integrations
 
-- [[Calendar Plugin]]
 - `002 meta/templates/period`
+
+### 🔗Referenced By
+
+```dataview
+LIST
+from [[Periodic Notes Plugin]]
+sort file.name descending
+```
 
 ## 🕒Log
 
