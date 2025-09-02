@@ -20,3 +20,4 @@ Standard Icons used in this vault to represent certain ideas and concepts.
 | 🪧   | Fields                       | placard                      |
 | 🪟   | View, Dynamic View           | window                       |
 | 🔃   | Workflow                     | clockwise vertical arrows    |
+| 🧱   | Features, Feature            | brick                        |

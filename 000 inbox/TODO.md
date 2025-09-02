@@ -5,12 +5,11 @@
 - [ ] Test recurring meeting note
 - [x] inline templates ✅ 2025-09-02
 - [ ] periodic templates
-- [ ] feature template
+- [x] feature template ✅ 2025-09-02
 - [ ] project template
 - [ ] prompt template
 - [ ] team template
 - [ ] Setup home page and hotkey
-- [ ] Test project note template
 - [x] Test codebase template ✅ 2025-09-02
 - [x] Test people template ✅ 2025-09-02
 - [x] Finish Plugin Note ✅ 2025-09-02
@@ -27,3 +26,4 @@
 - [ ] delete codebases
 - [ ] delete teams
 - [ ] delete projects
+- [ ] delete features

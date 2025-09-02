@@ -14,7 +14,7 @@ Navigate:
 	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
 %># 💾 <% filename %>  
 
-# 🔗 links
+## 🔗 links
 
 - **Repo Urls:** 
 - **Admin Tools:** 
@@ -23,29 +23,29 @@ Navigate:
 - **Google Drive:** 
 - **Slack Channels: 
 
-# 🧭 moc
+## 🧭 moc
 > [!info]-
 > Map of Content to more notes.
 
-# 📓 notes
+## 📓 notes
 > [!info]-
 > A place to start top level notes if individual note files are not needed or ready yet.
 
-# 🔍 observability
+## 🔍 observability
 > [!info]-
 > Links to dashboards, logs, and sql queries.
 
-# 🛳 releases
+## 🛳 releases
 > [!info]-
 > Release schedule and processes.
 
 
-# 📆 meetings
+## 📆 meetings
 > [!info]-
 > Working group meetings, and others.
 
 
-# 🕐 log
+## 🕐 log
 
 - [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
 	- **Codebase Created**

@@ -6,7 +6,6 @@
       {
         "id": "dffc9b3205485b83",
         "type": "tabs",
-        "dimension": 50,
         "children": [
           {
             "id": "0b235993f0d6da83",
@@ -14,33 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/feature_template.md",
+                "file": "000 inbox/TODO.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "feature_template"
+              "title": "TODO"
             }
-          }
-        ]
-      },
-      {
-        "id": "6ae2db78fc7f052f",
-        "type": "tabs",
-        "dimension": 50,
-        "children": [
+          },
           {
-            "id": "8cacf4f63eea50e5",
+            "id": "ad2eaa6b67d93b62",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "030 resources/My Cool Thing Feature.md",
+                "file": "002 meta/vault specification/Feature Notes.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "My Cool Thing Feature"
+              "title": "Feature Notes"
             }
           }
         ]
@@ -210,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/feature_template.md",
+                "file": "000 inbox/TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -238,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of feature_template"
+              "title": "Graph of TODO"
             }
           }
         ]
@@ -268,15 +260,25 @@
   },
   "active": "0b235993f0d6da83",
   "lastOpenFiles": [
-    "030 resources/My Cool Thing Feature.md",
+    "002 meta/vault specification/Note Types.md",
+    "000 inbox/TODO.md",
+    "002 meta/templates/meta_documentation_template.md",
+    "030 resources/Another thing Feature.md",
     "002 meta/templates/feature_template.md",
     "002 meta/vault views/Bases/Features.base",
-    "000 inbox/TODO.md",
+    "030 resources/blah Feature.md",
+    "030 resources/the last one Feature.md",
+    "030 resources/My Cool Thing Feature.md",
+    "002 meta/vault specification/Feature Notes.md",
+    "002 meta/templates/project_template.md",
+    "030 resources/My First Feature.md",
+    "002 meta/style/Icons.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/templates/codebase_template.md",
     "002 meta/vault specification/Meeting Notes.md",
     "002 meta/templates/inline/Log Section Template.md",
     "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/vault views/UI Modules/Help Module/Style Help.md",
-    "002 meta/style/Icons.md",
     "000 inbox/Test.md",
     "020 areas/000 areas.md",
     "002 meta/style.md",
@@ -284,19 +286,9 @@
     "002 meta/shortcuts.md",
     "002 meta/000 meta.md",
     "020 areas/people/000 people.md",
-    "002 meta/templates/codebase_template.md",
-    "002 meta/templates/project_template.md",
-    "002 meta/templates/plugin_template.md",
-    "002 meta/templates/person_template.md",
     "002 meta/templates/Templates.base",
-    "002 meta/templates/team_template.md",
-    "002 meta/templates/prompt_template.md",
-    "002 meta/templates/meta_documentation_template.md",
     "020 areas/codebases/Codebases.base",
-    "020 areas/codebases/Some Api.md",
-    "020 areas/codebases/Some Code.md",
     "040 archives/meetings/Meetings.base",
-    "002 meta/templates/000 templates.md",
     "050 gitignore/people/supplemental/1_1s/2025/09",
     "050 gitignore/people/supplemental/1_1s/2025",
     "050 gitignore/people/supplemental/1_1s",
