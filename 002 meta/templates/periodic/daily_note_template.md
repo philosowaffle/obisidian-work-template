@@ -8,10 +8,10 @@
 	const dow = tp.date.now("dd");
 	if (dow == 'Su') icon = '🌞';
 	if (dow == 'Mo') icon = '⛰️';
-	if (dow == 'Tu') icon = '🌋';
+	if (dow == 'Tu') icon = '🏃‍♀️‍➡️';
 	if (dow == 'We') icon = '🐫';
 	if (dow == 'Th') icon = '🥑';
-	if (dow == 'Fr') icon = '🪴';
+	if (dow == 'Fr') icon = '🚴‍♀️';
 	if (dow == 'Sa') icon = '🦕';
 %>---
 tags:
