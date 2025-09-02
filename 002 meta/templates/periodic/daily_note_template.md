@@ -28,10 +28,10 @@ tab: ___
 
 tab: 📦 Projects
 ```dataview
-TABLE WITHOUT ID file.link AS "Project", project_next_steps as "Next Steps", project_status as "Status", join(project_stakeholder, ", ") as "Stakeholder", project_aor as "AOR", dateformat(project_started, "MM/dd/yyyy") as "Started"
+TABLE WITHOUT ID file.link AS "Project", project-next-steps as "Next Steps", project-status as "Status", join(project-stakeholders, ", ") as "Stakeholder", dateformat(created, "MM/dd/yyyy") as "Started"
 FROM #project
-WHERE (project_status = "In Progress") or (project_status = "Blocked") or (project_status = "Standby") and (!project_archived)
-SORT project_status, file.name
+WHERE (project-status = "In Progress") or (project-status = "Blocked") or (project-status = "Paused") and (!project-archived)
+SORT project-status, file.name
 ```
 
 tab: ✅ Tasks
@@ -63,17 +63,6 @@ tags do not include #task/ignore
 tags include #project
 sort by tag, priority, due
 group by function task.tags.map( (tag) => tag.split('/')[1].replaceAll('_', ' ') )
-hide edit button
-short mode
-```
-
-tab: 🫂 By Person
- ```tasks
-not done
-tags do not include #task/ignore
-tags include #people
-group by function task.tags.map( (tag) => tag.split('/')[1].replaceAll('_', ' ') )
-sort by tag, priority, due
 hide edit button
 short mode
 ```

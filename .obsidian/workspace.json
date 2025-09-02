@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/2025-09-02.md",
+                "file": "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
                 "mode": "source",
                 "source": false
               },
@@ -35,8 +35,7 @@
               "title": "daily_note_template"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -203,7 +202,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
+                "file": "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +230,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of daily_note_template"
+              "title": "Graph of 2025-09-02"
             }
           }
         ]
@@ -245,7 +244,6 @@
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
@@ -256,18 +254,17 @@
       "iconic:Open rulebook": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-git:Open Git source control": false,
-      "periodic-notes:Open this week": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "a87b4d7182b57c1c",
+  "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
-    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
-    "000 inbox/2025-09-02.md",
     "002 meta/templates/periodic/daily_note_template.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
     "050 gitignore/journal/2025/M09/W36",
     "050 gitignore/journal/2025/M09",
     "050 gitignore/journal/2025",
+    "000 inbox/2025-09-02.md",
     "050 gitignore/journal/2025-09-02.md",
     "050 gitignore/journal",
     "002 meta/templates/prompt_template.md",
@@ -295,7 +292,6 @@
     "030 resources/blah Feature.md",
     "030 resources/the last one Feature.md",
     "030 resources/My Cool Thing Feature.md",
-    "030 resources/My First Feature.md",
     "002 meta/templates/Templates.base",
     "020 areas/codebases/Codebases.base",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
