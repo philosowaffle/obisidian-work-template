@@ -3,8 +3,6 @@
     "aliases": "aliases",
     "cssclasses": "multitext",
     "tags": "tags",
-    "meta_plugin_style": "checkbox",
-    "meta_plugin_vault_management": "checkbox",
     "TQ_explain": "checkbox",
     "TQ_extra_instructions": "text",
     "TQ_short_mode": "checkbox",
@@ -26,9 +24,10 @@
     "TQ_show_task_count": "checkbox",
     "TQ_show_tree": "checkbox",
     "TQ_show_urgency": "checkbox",
-    "meeting_attendees": "multitext",
     "Navigate": "multitext",
     "Pugin Core Functionality": "checkbox",
-    "Plugin QoL": "checkbox"
+    "Plugin QoL": "checkbox",
+    "Plugin Style": "checkbox",
+    "Plugin Vault Management": "checkbox"
   }
 }

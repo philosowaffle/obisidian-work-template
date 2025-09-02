@@ -1,11 +1,11 @@
 ---
-parent: "[[Plugins.base|Go to all Plugins]]"
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL:
-meta_plugin_style:
-meta_plugin_vault_management:
+Plugin Style:
+Plugin Vault Management:
 ---
 # 🔌 <%tp.file.title%>
 

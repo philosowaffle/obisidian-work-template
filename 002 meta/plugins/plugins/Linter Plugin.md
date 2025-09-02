@@ -3,8 +3,8 @@ Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL: false
-meta_plugin_style: true
-meta_plugin_vault_management: true
+Plugin Style: true
+Plugin Vault Management: true
 ---
 # 🔌 Linter Plugin
 

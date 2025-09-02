@@ -1,6 +1,7 @@
 filters:
   and:
     - file.tags.contains("people")
+    - file.folder == "020 areas/people"
 properties:
   note.person_org:
     displayName: Org
@@ -14,18 +15,32 @@ properties:
     displayName: Specialty
   note.person_timezone:
     displayName: Time Zone
+  note.Person Org:
+    displayName: Org
+  note.Person Title:
+    displayName: Title
+  note.Person Reports To:
+    displayName: Reports To
+  note.Person Team:
+    displayName: Team
+  note.Person Specialty:
+    displayName: Specialty
+  note.Person Time Zone:
+    displayName: Time Zone
 views:
   - type: table
     name: Table
     order:
       - file.name
-      - person_title
-      - person_reports_to
-      - person_team
-      - person_org
-      - person_specialty
-      - person_timezone
+      - Person Title
+      - Person Team
+      - Person Reports To
+      - Person Org
+      - Person Specialty
+      - Person Time Zone
     sort:
+      - property: Person Team
+        direction: ASC
       - property: file.name
         direction: DESC
       - property: person_org

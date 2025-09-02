@@ -13,17 +13,10 @@ Person Team:
 Person Specialty:
 Person Time Zone: MST / MDT
 created: <% tp.file.creation_date() %>
-tags: tags: [<% tag %>]
+tags: [<% tag %>]
 aliases: []
 ---
 # 🧍 <% filename %>
-
-**Org:**
-**Title:** 
-**Reports To:** 
-**Team:** 
-**Specialty:** 
-**Time Zone:** 
 
 ````tabs
 top,one

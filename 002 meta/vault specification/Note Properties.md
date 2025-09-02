@@ -11,5 +11,5 @@ This Specification captures global properties honored by the vault.
 
 | Property   | Default | Description                                                                                                                    |
 | ---------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| bookmarked | false   | When true, this note will appear in the [[Bookmarks.base]]                                                                     |
+| Bookmarked | false   | When true, this note will appear in the [[Bookmarks.base]]                                                                     |
 | Navigate   |         | Create a back link to a parent or top level note, handy for navigation convenience.  ex. `[[Plugins.base\|Go to all Plugins]]` |

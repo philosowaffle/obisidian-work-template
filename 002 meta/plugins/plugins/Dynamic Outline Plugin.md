@@ -3,8 +3,8 @@ Note Type: meta_plugin
 Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL: true
-meta_plugin_style:
-meta_plugin_vault_management:
+Plugin Style:
+Plugin Vault Management:
 ---
 # 🔌 Dynamic Outline Plugin
 

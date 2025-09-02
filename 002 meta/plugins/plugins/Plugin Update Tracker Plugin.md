@@ -3,8 +3,8 @@ Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL:
-meta_plugin_style:
-meta_plugin_vault_management: true
+Plugin Style:
+Plugin Vault Management: true
 ---
 # 🔌 Plugin Update Tracker Plugin
 

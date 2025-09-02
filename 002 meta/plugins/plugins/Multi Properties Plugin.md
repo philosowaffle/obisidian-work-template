@@ -1,25 +1,27 @@
 ---
-parent: "[[Plugins.base|Go to all Plugins]]"
+Navigate: "[[Plugins.base|Go to all Plugins]]"
 Note Type: meta_plugin
-Plugin Status: ✔️
+Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL:
-meta_plugin_style:
-meta_plugin_vault_management: true
+Plugin Style:
+Plugin Vault Management: true
 ---
 # 🔌 Multi Properties Plugin
 
-Used to bulk edit properties.
+> [!danger] Uninstalled
+> Didn't end up needing this. All I needed was a bulk rename which is supported by the `Show all Properties` native view in Obsidian.
+
+Used to bulk add/remove properties.
+
 ## 📝 Notes
 
-
-
 ## ⚙️ Settings
-
 
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
+
 ```dataview
 LIST
 from [[Multiproperties Plugin]]

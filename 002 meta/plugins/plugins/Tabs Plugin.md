@@ -4,8 +4,8 @@ Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL: true
-meta_plugin_style: true
-meta_plugin_vault_management:
+Plugin Style: true
+Plugin Vault Management:
 ---
 # 🔌 Tabs Plugin
 
