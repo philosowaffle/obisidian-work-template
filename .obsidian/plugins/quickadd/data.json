@@ -334,18 +334,6 @@
       },
       "fileExistsMode": "Increment the file name",
       "setFileExistsBehavior": false
-    },
-    {
-      "id": "55a80d32-1d1e-4388-b544-f81e558689fc",
-      "name": "adsfad",
-      "type": "Macro",
-      "command": false,
-      "runOnStartup": false,
-      "macro": {
-        "id": "7e4fdfdb-4aba-4233-b9ca-d66aa3fec40f",
-        "name": "adsfad",
-        "commands": []
-      }
     }
   ],
   "inputPrompt": "single-line",

@@ -3,33 +3,33 @@
   "hasMigratedDailyNoteSettings": false,
   "hasMigratedWeeklyNoteSettings": false,
   "daily": {
-    "format": "",
-    "template": "",
-    "folder": "",
-    "enabled": false
+    "format": "YYYY/[M]MM/[W]WW/YYYY-MM-DD",
+    "template": "002 meta/templates/periodic/daily_note_template.md",
+    "folder": "050 gitignore/journal",
+    "enabled": true
   },
   "weekly": {
     "format": "YYYY/[M]MM/[W]WW/YYYY-[W]WW",
     "template": "002 meta/templates/periodic/weekly_note_template.md",
-    "folder": "050 gitignore/000 journal 🪴",
+    "folder": "050 gitignore/journal",
     "enabled": true
   },
   "monthly": {
     "format": "YYYY/[M]MM/YYYY-[M]MM",
     "template": "002 meta/templates/periodic/monthly_note_template.md",
-    "folder": "050 gitignore/000 journal 🪴",
+    "folder": "050 gitignore/journal",
     "enabled": true
   },
   "quarterly": {
     "format": "YYYY/[Quarterly]/YYYY-[Q]Q",
     "template": "002 meta/templates/periodic/quarterly_note_template.md",
-    "folder": "050 gitignore/000 journal 🪴",
+    "folder": "050 gitignore/journal",
     "enabled": true
   },
   "yearly": {
     "format": "YYYY/YYYY",
     "template": "002 meta/templates/periodic/yearly_note_template.md",
-    "folder": "050 gitignore/000 journal 🪴",
+    "folder": "050 gitignore/journal",
     "enabled": true
   }
 }
