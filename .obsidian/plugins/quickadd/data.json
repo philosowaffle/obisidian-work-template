@@ -97,9 +97,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "010 projects/Architect",
-          "010 projects/Delivery",
-          "010 projects/Discovery"
+          "010 projects"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,

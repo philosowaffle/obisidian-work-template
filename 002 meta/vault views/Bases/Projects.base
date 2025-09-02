@@ -1,0 +1,13 @@
+filters:
+  and:
+    - file.tags.contains("project")
+    - '!file.folder.startsWith("002 meta")'
+views:
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - Description
+      - Project Next Steps
+      - Project Stakeholders
+      - Project Status

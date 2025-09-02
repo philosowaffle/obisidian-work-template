@@ -13,26 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/templates/project_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "project_template"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "7b013560784cae39",
+        "type": "tabs",
+        "children": [
           {
-            "id": "ad2eaa6b67d93b62",
+            "id": "109f23cafa7e54d9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "002 meta/vault specification/Feature Notes.md",
-                "mode": "source",
-                "source": false
+                "file": "002 meta/vault views/Bases/Projects.base",
+                "viewName": "Table"
               },
-              "icon": "lucide-file",
-              "title": "Feature Notes"
+              "icon": "lucide-table",
+              "title": "Projects"
             }
           }
         ]
@@ -202,7 +207,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/vault views/Bases/Projects.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -230,7 +235,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TODO"
+              "title": "Graph of Projects"
             }
           }
         ]
@@ -258,10 +263,14 @@
       "periodic-notes:Open this week": false
     }
   },
-  "active": "0b235993f0d6da83",
+  "active": "109f23cafa7e54d9",
   "lastOpenFiles": [
-    "002 meta/vault specification/Note Types.md",
+    "010 projects/The first thing/The first thing Project.md",
+    "002 meta/vault views/Bases/Projects.base",
+    "002 meta/templates/project_template.md",
+    "010 projects/The first thing",
     "000 inbox/TODO.md",
+    "002 meta/vault specification/Note Types.md",
     "002 meta/templates/meta_documentation_template.md",
     "030 resources/Another thing Feature.md",
     "002 meta/templates/feature_template.md",
@@ -270,7 +279,6 @@
     "030 resources/the last one Feature.md",
     "030 resources/My Cool Thing Feature.md",
     "002 meta/vault specification/Feature Notes.md",
-    "002 meta/templates/project_template.md",
     "030 resources/My First Feature.md",
     "002 meta/style/Icons.md",
     "002 meta/templates/plugin_template.md",
@@ -285,7 +293,6 @@
     "020 areas/codebases/000 codebases.md",
     "002 meta/shortcuts.md",
     "002 meta/000 meta.md",
-    "020 areas/people/000 people.md",
     "002 meta/templates/Templates.base",
     "020 areas/codebases/Codebases.base",
     "040 archives/meetings/Meetings.base",
@@ -293,8 +300,6 @@
     "050 gitignore/people/supplemental/1_1s/2025",
     "050 gitignore/people/supplemental/1_1s",
     "050 gitignore/people/supplemental",
-    "050 gitignore/people",
-    "040 archives/meetings/2025/09",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]
