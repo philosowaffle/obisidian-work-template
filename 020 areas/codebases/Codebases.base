@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.contains("codebase")
+views:
+  - type: table
+    name: Table

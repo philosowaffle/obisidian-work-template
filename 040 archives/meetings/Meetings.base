@@ -11,5 +11,8 @@ views:
       - Meeting Attendees
       - Related Projects
       - Meeting Datetime
+    sort:
+      - property: file.name
+        direction: DESC
     columnSize:
       note.Description: 394

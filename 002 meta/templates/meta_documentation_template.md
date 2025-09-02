@@ -22,7 +22,7 @@
 | ------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
 | Note Type                 | meta_plugin                            | Identifies this note as documenting an Obsidian Plugin                    |
 
-## 🪧Fields
+### 🪧Fields
 
 | Fields                        | Description                                         |
 | ----------------------------- | --------------------------------------------------- |
@@ -33,10 +33,10 @@
 |                               |                                                     |
 |                               |                                                     |
 
-## 🪟Dynamic Views
+### 🪟Dynamic Views
 
 A dynamic view of the plugin dependencies is used to show all notes that refer back to that specific plugin.
 
-## ⚠️ Dependencies
+### ⚠️ Dependencies
 
 - List

@@ -82,7 +82,7 @@
           }
         }
       ],
-      "collapsed": false
+      "collapsed": true
     },
     {
       "id": "ae1a8103-82d4-4005-9e86-d2460bf3d10f",
@@ -207,7 +207,7 @@
       "folder": {
         "enabled": true,
         "folders": [
-          "020 areas/Codebases 💾"
+          "020 areas/codebases"
         ],
         "chooseWhenCreatingNote": false,
         "createInSameFolderAsActiveFile": false,
