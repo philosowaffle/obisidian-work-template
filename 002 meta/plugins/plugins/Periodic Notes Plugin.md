@@ -1,11 +1,12 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality: true
 Plugin QoL: false
 Plugin Style:
 Plugin Vault Management:
+tags:
+  - plugin
 ---
 # 🔌 Periodic Notes Plugin
 

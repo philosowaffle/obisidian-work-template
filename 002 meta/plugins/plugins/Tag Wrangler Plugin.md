@@ -1,30 +1,32 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
-Plugin Status: ✔️
+Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL:
 Plugin Style:
-Plugin Vault Management:
+Plugin Vault Management: true
+tags:
+  - plugin
 ---
-# 🔌 <%tp.file.title%>
+# 🔌 Tag Wrangler Plugin
+
+Used for editing tags in bulk. Often left disabled until needed.
 
 ## 📝 Notes
 
-
 ## ⚙️ Settings
-
 
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
+
 ```dataview
 LIST
-from [[<%tp.file.title%>]]
+from [[Tag Wrangler Plugin]]
 sort file.name descending
 ```
 
 ## 🕒Log
 
-- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
+- [[2025-09-02]]
 	- Plugin Installed

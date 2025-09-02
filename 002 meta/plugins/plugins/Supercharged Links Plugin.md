@@ -1,11 +1,12 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
 Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL:
 Plugin Style: true
 Plugin Vault Management:
+tags:
+  - plugin
 ---
 # 🔌 Supercharged Links Plugin
 

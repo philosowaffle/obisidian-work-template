@@ -8,7 +8,7 @@ Person Team:
 Person Specialty:
 Person Time Zone: MST / MDT
 created: 2025-09-02 08:40
-tags: [people/bailey_belvis]
+tags: [person/bailey_belvis]
 aliases: []
 ---
 # 🧍 Bailey Belvis

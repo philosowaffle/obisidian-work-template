@@ -55,7 +55,7 @@
           "folder": {
             "enabled": true,
             "folders": [
-              "050 gitignore/People/Supplemental/1_1s"
+              "050 gitignore/people/supplemental/1_1s"
             ],
             "chooseWhenCreatingNote": false,
             "createInSameFolderAsActiveFile": false,
@@ -309,7 +309,7 @@
       "name": "🔌 Plugin",
       "type": "Template",
       "command": false,
-      "templatePath": "002 meta/templates/meta_plugin_template.md",
+      "templatePath": "002 meta/templates/plugin_template.md",
       "fileNameFormat": {
         "enabled": true,
         "format": "{{name}} Plugin"

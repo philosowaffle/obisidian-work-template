@@ -1,7 +1,7 @@
 <%* 
 	let filename = tp.file.title;
 	let alias = filename.split(" ")[0];
-	let tag = "people/" + filename.replaceAll(" ", "_").toLowerCase();
+	let tag = "person/" + filename.replaceAll(" ", "_").toLowerCase();
 %>---
 Navigate:
   - "[[People.base|Go to all People]]"

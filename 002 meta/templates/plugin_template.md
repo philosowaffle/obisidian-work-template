@@ -2,31 +2,29 @@
 Navigate: "[[Plugins.base|Go to all Plugins]]"
 Plugin Status: ✔️
 Pugin Core Functionality:
-Plugin QoL: true
+Plugin QoL:
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: plugin
 ---
-# 🔌 Paste Url Into Selection Plugin
-
-Using this to ease pasting in urls.
+# 🔌 <%tp.file.title%>
 
 ## 📝 Notes
 
+
 ## ⚙️ Settings
+
 
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
-
 ```dataview
 LIST
-from [[Paste Url Into Selection Plugin]]
+from [[<%tp.file.title%>]]
 sort file.name descending
 ```
 
 ## 🕒Log
 
-- [[2025-08-30]]
+- [[<% tp.file.creation_date("YYYY-MM-DD")%>]]
 	- Plugin Installed

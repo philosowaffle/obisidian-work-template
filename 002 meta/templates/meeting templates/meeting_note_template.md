@@ -17,3 +17,4 @@ tags:
 ## 📢 Agenda
 
 ## ✍ Notes
+[[2025-09-02 My first thing to do Meeting]]

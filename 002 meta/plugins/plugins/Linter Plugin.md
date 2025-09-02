@@ -1,11 +1,12 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
 Plugin Status: ✔️
 Pugin Core Functionality:
 Plugin QoL: false
 Plugin Style: true
 Plugin Vault Management: true
+tags:
+  - plugin
 ---
 # 🔌 Linter Plugin
 

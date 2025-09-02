@@ -1,6 +1,6 @@
 filters:
   and:
-    - note["Note Type"] == "meta_plugin"
+    - file.tags.contains("plugin")
     - file.folder != "002 meta/templates"
 properties:
   file.name:

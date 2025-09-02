@@ -1,6 +1,6 @@
 filters:
   and:
-    - file.tags.contains("people")
+    - file.tags.contains("person")
     - file.folder == "020 areas/people"
 properties:
   note.person_org:

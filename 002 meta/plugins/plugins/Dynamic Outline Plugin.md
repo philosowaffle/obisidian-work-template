@@ -1,11 +1,12 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
 Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
+tags:
+  - plugin
 ---
 # 🔌 Dynamic Outline Plugin
 

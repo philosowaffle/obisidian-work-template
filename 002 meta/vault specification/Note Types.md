@@ -2,15 +2,16 @@
 
 "Note Types" describe the different categories of notes that are created in the vault. These types can be used to help create filtered views, queries, and bases focusing on only certain categories.
 
-The type of a note is defined using the `note_type` property. A given Note Type may have additional properties for that categories, these properties should follow the naming convention of `<note_type_name>_<property>`.
+The type of a note is defined using a `tag`. A given Note Type may have additional properties for that categories, these properties should follow the naming convention of `<note_type_name>_<property>`.
 
 ## Defined Note Types
 
-| Note Type | Description                                                                          | Reference         |
-| --------- | ------------------------------------------------------------------------------------ | ----------------- |
-| Plugin    | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[Plugin Notes]]  |
-| Meeting   | A note capturing information from a meeting                                          | [[Meeting Notes]] |
-| Person    | A note representing a person                                                         | [[Person Notes]]  |
+| Note Type | Description                                                                          | Reference         | Tag        |
+| --------- | ------------------------------------------------------------------------------------ | ----------------- | ---------- |
+| Plugin    | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[Plugin Notes]]  | `#plugin`  |
+| Meeting   | A note capturing information from a meeting                                          | [[Meeting Notes]] | `#meeting` |
+| Person    | A note representing a person                                                         | [[Person Notes]]  | `#person`  |
+|           |                                                                                      |                   |            |
 
 ## ✨ Creating a New Note Type
 

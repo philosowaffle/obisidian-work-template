@@ -38,7 +38,7 @@ Start with the [[Plugins.base]].
 
 #### 📃Plugin Note Template
 
-See [[meta_plugin_template]].
+See [[plugin_template]].
 
 #### 🧪 Testing a Plugin
 
@@ -85,4 +85,4 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 ### ⚠️ Dependencies
 
 - [[Dataview Plugin]]
-- [[meta_plugin_template]]
+- [[plugin_template]]

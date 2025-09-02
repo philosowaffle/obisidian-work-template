@@ -3,4 +3,4 @@
 - [[2025-08-30 My test meeting Meeting]]
 - [[Bailey Belvis]] - hello
 
-- [ ] #people/bailey_belvis here is something to do
+- [ ] #person/bailey_belvis here is something to do

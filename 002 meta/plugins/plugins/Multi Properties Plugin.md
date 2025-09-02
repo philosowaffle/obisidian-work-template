@@ -1,11 +1,12 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Note Type: meta_plugin
 Plugin Status: ❌
 Pugin Core Functionality:
 Plugin QoL:
 Plugin Style:
 Plugin Vault Management: true
+tags:
+  - plugin
 ---
 # 🔌 Multi Properties Plugin
 
