@@ -1,19 +1,19 @@
----
-tags:
-  - periodic/quarterly_note
-created: <% tp.file.creation_date() %>
-cssclasses:
-  - HideProps
----
 <%* 
-	let currentDate = moment();
+	let currentDate = moment(tp.file.title, "YYYY-[Q]Q");
 	let start = currentDate.clone().startOf('quarter').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('quarter').format("YYYY-MM-DD");
 	let lastQuarter = currentDate.clone().subtract(1, 'Q').format("Q");
 	let nextQuarter = currentDate.clone().add(1, 'Q').format("Q");
 
 	let icon = '📂';
-%># <% icon %> <% tp.file.title %>
+%>---
+tags:
+  - periodic/quarterly_note
+created: <% end %>
+cssclasses:
+  - HideProps
+---
+# <% icon %> <% tp.file.title %>
 
 [[2025-Q<% lastQuarter %>|<< Q<% lastQuarter %>]] | **<% start %>** - **<% end %>** | [[2025-Q<% nextQuarter %>|Q<% nextQuarter %> >>]]
 
