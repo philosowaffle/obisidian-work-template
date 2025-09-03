@@ -4,6 +4,8 @@ Style Status: ✔️
 Style File: hide_file_properties.css
 cssclasses:
   - HideProps
+Navigate:
+  - "[[Custom CSS.base|Go to all Custom CSS]]"
 ---
 # Hide File Properties CSS
 

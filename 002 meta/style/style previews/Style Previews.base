@@ -1,0 +1,6 @@
+filters:
+  and:
+    - file.tags.contains("style/preview")
+views:
+  - type: table
+    name: Table

@@ -1,5 +1,7 @@
 ---
-tags: [style/preview]
+tags:
+  - style/preview
+Navigate:
 ---
 # Callout Style Preview
 
