@@ -27,12 +27,12 @@
 - [ ] Check for Broken Links (install plugin?)
 - [ ] Delete From Work
 - [ ] turn off vault management plugins
-- [ ] Delete meetings
-- [ ] delete people supplemental
-- [ ] delete codebases
-- [ ] delete teams
-- [ ] delete projects
-- [ ] delete features
+- [x] Delete meetings ✅ 2025-09-03
+- [x] delete people supplemental ✅ 2025-09-03
+- [x] delete codebases ✅ 2025-09-03
+- [x] delete teams ✅ 2025-09-03
+- [x] delete projects ✅ 2025-09-03
+- [x] delete features ✅ 2025-09-03
 - [x] sort Note Types ✅ 2025-09-03
 - [x] sort Icons ✅ 2025-09-03
 - [ ] re-organize Help Module
@@ -42,5 +42,5 @@
 - [ ] clean up properties
 - [x] add calendar widget ✅ 2025-09-03
 - [x] rename bases to All ✅ 2025-09-03
-- [ ] delete journal
+- [x] delete journal ✅ 2025-09-03
 - [ ] new canvases created in wrong spot

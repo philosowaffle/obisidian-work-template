@@ -229,6 +229,237 @@
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "NON_TASK"
+      },
+      {
+        "symbol": "x",
+        "name": "Regular",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": "X",
+        "name": "Checked",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "DONE"
+      },
+      {
+        "symbol": "-",
+        "name": "Dropped",
+        "nextStatusSymbol": " ",
+        "availableAsCommand": false,
+        "type": "CANCELLED"
+      },
+      {
+        "symbol": ">",
+        "name": "Forward",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "D",
+        "name": "Date",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "/",
+        "name": "Half Done",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
+      },
+      {
+        "symbol": "+",
+        "name": "Add",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "R",
+        "name": "Research",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "i",
+        "name": "Idea",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "B",
+        "name": "Brainstorm",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "P",
+        "name": "Pro",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "C",
+        "name": "Con",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "Q",
+        "name": "Quote",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "N",
+        "name": "Note",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "I",
+        "name": "Information",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "p",
+        "name": "Paraphrase",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "L",
+        "name": "Location",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "E",
+        "name": "Example",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "A",
+        "name": "Answer",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "r",
+        "name": "Reward",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "c",
+        "name": "Choice",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "d",
+        "name": "Doing",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "IN_PROGRESS"
+      },
+      {
+        "symbol": "T",
+        "name": "Time",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "@",
+        "name": "Character / Person",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "t",
+        "name": "Talk",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "O",
+        "name": "Outline / Plot",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "~",
+        "name": "Conflict",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "W",
+        "name": "World",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "f",
+        "name": "Clue / Find",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "F",
+        "name": "Foreshadow",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "H",
+        "name": "Favorite / Health",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "&",
+        "name": "Symbolism",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "s",
+        "name": "Secret",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
       }
     ]
   },

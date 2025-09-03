@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Tasks Plugin"
             }
           }
         ]
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Tasks Plugin"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Tasks Plugin"
             }
           }
         ]
@@ -257,12 +257,13 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
+    "002 meta/vault views/UI Modules/Help Module/Help.md",
+    "000 inbox/TODO.md",
+    "README.md",
     "020 areas/codebases/Some Api.md",
     "020 areas/teams/Bob.md",
     "030 resources/My First Feature.md",
     "030 resources/Another thing Feature.md",
-    "README.md",
-    "000 inbox/TODO.md",
     "002 meta/templates/Templates.base",
     "002 meta/vault views/Bases/All Vault Bases.base",
     "002 meta/style/style previews/Style Previews.base",
@@ -294,7 +295,6 @@
     "002 meta/vault specification/Team Notes.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Project Notes.md",
-    "002 meta/vault specification/Plugin Notes.md",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]
