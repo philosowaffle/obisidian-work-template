@@ -1,3 +1,6 @@
+filters:
+  and:
+    - Bookmark == true
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: All

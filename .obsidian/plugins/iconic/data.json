@@ -35,7 +35,19 @@
   "ribbonIcons": {},
   "fileRules": [
     {
-      "id": "pgchr"
+      "id": "pgchr",
+      "name": "Help Module",
+      "match": "all",
+      "conditions": [
+        {
+          "source": "name",
+          "operator": "is",
+          "value": "Help"
+        }
+      ],
+      "enabled": true,
+      "icon": "help",
+      "color": "blue"
     }
   ],
   "folderRules": []

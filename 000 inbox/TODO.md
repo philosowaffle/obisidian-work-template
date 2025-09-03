@@ -1,5 +1,6 @@
-# TODO
-
+---
+Bookmark: true
+---
 # TODO
 
 - [x] Test 1:1 meeting note ✅ 2025-09-02
@@ -35,8 +36,8 @@
 - [x] delete features ✅ 2025-09-03
 - [x] sort Note Types ✅ 2025-09-03
 - [x] sort Icons ✅ 2025-09-03
-- [ ] re-organize Help Module
-- [ ] Apply Help module
+- [x] re-organize Help Module ✅ 2025-09-03
+- [x] Apply Help module ✅ 2025-09-03
 - [ ] clean up 000 notes
 - [ ] clean up tags
 - [ ] clean up properties

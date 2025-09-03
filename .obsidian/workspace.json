@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "000 inbox/TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Help"
+              "title": "TODO"
             }
           }
         ]
@@ -33,7 +33,7 @@
       {
         "id": "2812962695a6263a",
         "type": "tabs",
-        "dimension": 78.2078853046595,
+        "dimension": 85.66308243727599,
         "children": [
           {
             "id": "098277fef74146a2",
@@ -42,7 +42,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -80,12 +80,11 @@
       {
         "id": "2c7d3800c2e7488f",
         "type": "tabs",
-        "dimension": 21.7921146953405,
+        "dimension": 14.336917562724013,
         "children": [
           {
             "id": "3e13336a7ba3ab15",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
@@ -93,7 +92,6 @@
                 "mode": "source",
                 "source": false
               },
-              "pinned": true,
               "icon": "lucide-file",
               "title": "Help"
             }
@@ -205,10 +203,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md"
+                "file": "000 inbox/TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Help"
+              "title": "File properties for TODO"
             }
           }
         ],
@@ -224,7 +222,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "000 inbox/TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -252,7 +250,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Help"
+              "title": "Graph of TODO"
             }
           }
         ]
@@ -279,11 +277,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cee23b2440bbec61",
+  "active": "30e24c1fb95f85e5",
   "lastOpenFiles": [
+    "002 meta/vault views/Bases/Bookmarks.base",
+    "000 inbox/TODO.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "002 meta/vault views/Bases/All Vault Bases.base",
+    "002 meta/templates/periodic/yearly_note_template.md",
+    "002 meta/templates/periodic/weekly_note_template.md",
+    "002 meta/templates/periodic/quarterly_note_template.md",
+    "002 meta/templates/periodic/monthly_note_template.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "050 gitignore/journal/2025/M09/W36",
+    "050 gitignore/journal/2025/M09",
+    "050 gitignore/journal/2025",
+    "002 meta/vault views/Vault Views.md",
+    "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/vault views/UI Modules/Help Module/Notes Help.md",
     "002 meta/vault views/UI Modules/Help Module/Style Help.md",
-    "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/style/style previews/Tasks Style Preview.md",
     "002 meta/style/themes/Minimal Theme.md",
     "002 meta/style/themes/Theme Notes.md",
@@ -293,31 +304,17 @@
     "002 meta/vault specification/Project Notes.md",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/vault specification/Periodic Notes.md",
-    "000 inbox/TODO.md",
     "README.md",
     "020 areas/codebases/Some Api.md",
     "020 areas/teams/Bob.md",
     "030 resources/My First Feature.md",
     "030 resources/Another thing Feature.md",
     "002 meta/templates/Templates.base",
-    "002 meta/vault views/Bases/All Vault Bases.base",
     "002 meta/style/style previews/Style Previews.base",
     "002 meta/vault data/recurring tasks/Recurring Tasks.base",
     "040 archives/meetings/Meetings.base",
-    "002 meta/vault views/Bases/Features.base",
-    "020 areas/codebases/Codebases.base",
     "002 meta/vault specification/Note Types.md",
-    "000 inbox/Test.md",
-    "002 meta/style/Vault Style.md",
-    "002 meta/plugins/Vault Plugins.md",
-    "002 meta/Meta.md",
-    "002 meta/vault specification/000 Vault Specification.md",
-    "002 meta/plugins/Plugins.base",
-    "002 meta/plugins/plugins/Calendar Plugin.md",
-    "002 meta/style/css/Custom CSS.base",
-    "002 meta/style/css/Canvas Disable Grid Dots CSS.md",
     "Untitled 1.canvas",
-    "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
     "Untitled.canvas",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"

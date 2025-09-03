@@ -14,7 +14,6 @@ cssclasses:
   - HideProps
 ---
 # <% icon %> <% tp.file.title %>
-
 [[2025-M<% lastMonth %>|<< M<% lastMonth %>]] | <%tp.file.title%> | [[2025-M<% nextMonth %>|M<% nextMonth %> >>]]
 
 ````tabs

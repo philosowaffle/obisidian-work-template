@@ -278,7 +278,8 @@
   "settingsConvertedToConfigKeyValues": true,
   "foldersToIgnore": [
     "002 meta/templates",
-    "002 meta/vault data"
+    "002 meta/vault data",
+    "050 gitignore/journal"
   ],
   "filesToIgnore": [
     {

@@ -36,6 +36,7 @@
     "Codebase SMEs": "multitext",
     "archived": "datetime",
     "Project Stakeholders": "multitext",
-    "Enabled": "checkbox"
+    "Enabled": "checkbox",
+    "Bookmark": "checkbox"
   }
 }

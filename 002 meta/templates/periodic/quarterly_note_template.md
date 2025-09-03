@@ -14,7 +14,6 @@ cssclasses:
   - HideProps
 ---
 # <% icon %> <% tp.file.title %>
-
 [[2025-Q<% lastQuarter %>|<< Q<% lastQuarter %>]] | **<% start %>** - **<% end %>** | [[2025-Q<% nextQuarter %>|Q<% nextQuarter %> >>]]
 
 ````tabs
