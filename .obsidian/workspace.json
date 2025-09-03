@@ -11,17 +11,10 @@
             "id": "3e13336a7ba3ab15",
             "type": "leaf",
             "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled 1.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled 1"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -56,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#plugin",
+                "query": "[\"Enabled\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,11 +176,9 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "Untitled 1.canvas"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for Untitled 1"
+              "title": "File properties"
             }
           }
         ],
@@ -203,7 +194,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Untitled 1.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -231,7 +221,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Untitled 1"
+              "title": "Graph view"
             }
           }
         ]
@@ -260,7 +250,16 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
+    "000 inbox/TODO.md",
+    "002 meta/style/Vault Style.md",
+    "README.md",
+    "002 meta/plugins/Vault Plugins.md",
+    "002 meta/Meta.md",
+    "002 meta/vault specification/000 Vault Specification.md",
+    "002 meta/plugins/Plugins.base",
+    "002 meta/plugins/plugins/Calendar Plugin.md",
     "002 meta/style/css/Custom CSS.base",
+    "002 meta/style/css/Canvas Disable Grid Dots CSS.md",
     "Untitled 1.canvas",
     "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
     "002 meta/style/css/MermaidJS CSS.md",
@@ -270,11 +269,8 @@
     "002 meta/style/css/Page Preview CSS.md",
     "002 meta/style/css/Hide File Properties CSS.md",
     "000 inbox/Test.md",
-    "README.md",
-    "002 meta/style/Vault Style.md",
     "002 meta/style/css/Custom CSS.md",
     "Untitled.canvas",
-    "000 inbox/TODO.md",
     "002 meta/vault specification/Team Notes.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Project Notes.md",
@@ -284,10 +280,6 @@
     "002 meta/templates/plugin_template.md",
     "002 meta/templates/meeting templates/meeting_person_sync.md",
     "002 meta/vault specification/Periodic Notes.md",
-    "002 meta/vault specification/Meeting Notes.md",
-    "002 meta/templates/meeting templates/meeting_note_template.md",
-    "002 meta/templates/codebase_template.md",
-    "002 meta/vault specification/Log Sections.md",
     "050 gitignore/journal/2025/M09/W38",
     "050 gitignore/journal/2025/M09/W37",
     "050 gitignore/journal/2025/Quarterly",
@@ -296,7 +288,6 @@
     "050 gitignore/journal/2025/M09",
     "050 gitignore/journal/2025",
     "050 gitignore/journal/2025/M08/W35",
-    "050 gitignore/journal/2025/M08",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

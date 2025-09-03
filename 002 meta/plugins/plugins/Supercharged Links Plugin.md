@@ -1,6 +1,6 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Plugin Status: ❌
+Enabled:
 Pugin Core Functionality:
 Plugin QoL:
 Plugin Style: true

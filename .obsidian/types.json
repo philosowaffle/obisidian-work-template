@@ -35,6 +35,7 @@
     "Codebase Owners": "multitext",
     "Codebase SMEs": "multitext",
     "archived": "datetime",
-    "Project Stakeholders": "multitext"
+    "Project Stakeholders": "multitext",
+    "Enabled": "checkbox"
   }
 }

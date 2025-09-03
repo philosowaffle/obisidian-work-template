@@ -1,12 +1,13 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
-Plugin Status: ✔️
+Enabled: true
 Pugin Core Functionality:
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
 created: 2025-09-02 19:06
-tags: [plugin]
+tags:
+  - plugin
 ---
 # 🔌 Footnote Shortcut Plugin
 

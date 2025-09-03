@@ -18,7 +18,7 @@
 - [x] Test people template ✅ 2025-09-02
 - [x] Finish Plugin Note ✅ 2025-09-02
 - [x] Clean up and or test all Quick adds ✅ 2025-09-03
-- [ ] Custom CSS
+- [x] Custom CSS ✅ 2025-09-03
 - [ ] Setup Excalidraw explaining how to use the vault
 - [ ] Clean up left hand ribbon
 - [ ] Install a theme

@@ -9,13 +9,13 @@
 		2. `- [-]` cancelled
 		3. `- [!]` importnat
 		4. `- [?]` question
-		5. A full list can be found in the [Tasks](plugins.md#Tasks) plugin settings page under `Custom Statuses`
-	3. The [Tasks](plugins.md#Tasks) plugin will provide auto-complete suggestions. 
+		5. A full list can be found in the [Tasks](Vault%20Plugins.md#Tasks) plugin settings page under `Custom Statuses`
+	3. The [Tasks](Vault%20Plugins.md#Tasks) plugin will provide auto-complete suggestions. 
 		1. The following **must** be specified when creating a task
 			1. `priority` - `[highest, high, medium, low, lowest]`
 		2. The following *may* be specified on a task
 			1. `due`
-	4. On completion, the [Tasks](plugins.md#Tasks) plugin will automatically add a Completed date to the task
+	4. On completion, the [Tasks](Vault%20Plugins.md#Tasks) plugin will automatically add a Completed date to the task
 2. A Task **must** be organized in one of the following ways
 	1. [[Daily Note]]
 		1. These are the tasks that come up every day and will require action or re-organization within the next 1-2weeks
