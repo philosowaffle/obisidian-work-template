@@ -1,0 +1,9 @@
+.cm-s-obsidian span.cm-link:not(:has(~ .external-link)) .cm-underline
+{
+  text-decoration: none !important;
+}
+
+span.cm-hmd-internal-link a
+{
+  text-decoration: none !important;
+}

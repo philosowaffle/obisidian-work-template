@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/style/css/Remove Link Underline CSS.md",
+                "file": "002 meta/style/css/Internal Link Style CSS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Remove Link Underline CSS"
+              "title": "Internal Link Style CSS"
             }
           }
         ]
@@ -181,10 +181,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/style/css/Remove Link Underline CSS.md"
+                "file": "002 meta/style/css/Internal Link Style CSS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Remove Link Underline CSS"
+              "title": "File properties for Internal Link Style CSS"
             }
           }
         ],
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/style/css/Remove Link Underline CSS.md",
+                "file": "002 meta/style/css/Internal Link Style CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Remove Link Underline CSS"
+              "title": "Graph of Internal Link Style CSS"
             }
           }
         ]
@@ -257,11 +257,12 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
-    "002 meta/style/css/Custom CSS.base",
-    "002 meta/style/css/Remove Link Underline CSS.md",
     "002 meta/style/css/Page Preview CSS.md",
+    "002 meta/style/css/Internal Link Style CSS.md",
     "002 meta/style/css/Hide File Properties CSS.md",
+    "000 inbox/Test.md",
     "README.md",
+    "002 meta/style/css/Custom CSS.base",
     "002 meta/style/Vault Style.md",
     "002 meta/style/css/Custom CSS.md",
     "Untitled.canvas",

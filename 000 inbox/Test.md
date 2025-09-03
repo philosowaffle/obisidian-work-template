@@ -12,3 +12,5 @@
 
 - [[2025-09-02]]
 	- **Log Section Created**
+
+![[README]]

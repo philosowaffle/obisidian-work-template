@@ -2,6 +2,7 @@
   "enabledCssSnippets": [
     "hide_file_properties",
     "page_preview",
-    "remove_link_underline"
+    "remove_link_underline",
+    "internal_link_style"
   ]
 }
