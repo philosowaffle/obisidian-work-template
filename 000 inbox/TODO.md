@@ -1,4 +1,4 @@
-# TODO
+ # TODO
 
 - [x] Test 1:1 meeting note ✅ 2025-09-02
 - [x] polish normal meeting ✅ 2025-09-02
@@ -31,13 +31,13 @@
 - [ ] delete teams
 - [ ] delete projects
 - [ ] delete features
-- [ ] sort Note Types
-- [ ] sort Icons
+- [x] sort Note Types ✅ 2025-09-03
+- [x] sort Icons ✅ 2025-09-03
 - [ ] re-organize Help Module
 - [ ] Apply Help module
 - [ ] clean up 000 notes
 - [ ] clean up tags
 - [ ] clean up properties
-- [ ] add calendar widget
-- [ ] rename bases to All
+- [x] add calendar widget ✅ 2025-09-03
+- [x] rename bases to All ✅ 2025-09-03
 - [ ] delete journal

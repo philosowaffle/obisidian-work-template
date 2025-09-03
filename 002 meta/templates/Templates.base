@@ -3,7 +3,7 @@ filters:
     - file.folder.startsWith("002 meta/templates")
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - tags

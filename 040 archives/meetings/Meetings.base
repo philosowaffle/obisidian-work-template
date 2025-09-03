@@ -4,7 +4,7 @@ filters:
     - '!file.folder.contains("002 meta")'
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - Description

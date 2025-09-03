@@ -3,7 +3,7 @@ filters:
     - file.tags.contains("task/recurring")
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - Enabled

@@ -2,5 +2,8 @@ filters:
   and:
     - file.tags.contains("style/preview")
 views:
-  - type: table
-    name: Table
+  - type: cards
+    name: All
+    cardSize: 200
+    imageFit: ""
+    imageAspectRatio: 1
