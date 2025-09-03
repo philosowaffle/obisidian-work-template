@@ -33,7 +33,6 @@ sort file.name ascending
 
 tab: 🕐 Log
 ```dataviewjs
-let year = 2025;
 let weekStart = "<% start %>";
 let weekEnd = "<% end %>";
 let days = dv
@@ -44,12 +43,12 @@ let days = dv
 	.where(p => !p.file.path.includes("004 meta"))
 	.where(p => p.file.lists)
 	.flatMap(p => p.file.lists)
-	.where(l => l.section.toString().includes("log"))
+	.where(l => l.section.toString().includes("Log"))
 	.where(l => l.children && !l.parent)
 	.groupBy(d => d.text);
 
 let journalDays = dv
-			.pages('"050 gitignore/journal/" + year')
+			.pages('"050 gitignore/journal/2025"')
 			//.limit(10)
 			.groupBy(p => p.file.link);
 
@@ -103,16 +102,16 @@ sort file.name ascending
 ```
 ````
 
-# Summary of the Week
+## 🌳 Summary of the Week
 
 
-# Notes & Reflections
+## 🪞 Notes & Reflections
 
   
-# Plan for Next Week
+## 🌱 Plan for Next Week
 
 
-# Cleanup
+## 🧹 Cleanup
 
 - [l] Clean up Browser tabs
 - [l] Clean up Todo's 
