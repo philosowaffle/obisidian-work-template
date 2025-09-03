@@ -6,9 +6,9 @@ views:
     name: All
     order:
       - file.name
-      - Style Status
+      - Enabled
       - cssclasses
-      - Style File
+      - Source File
     columnSize:
       note.cssclasses: 445
   - type: table

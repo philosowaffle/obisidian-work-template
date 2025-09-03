@@ -8,10 +8,9 @@
 - [[Style Previews.base|Style Previews Base]]
 - [[Theme Notes]]
 
-## One time Setup
+## Initial Setup
 
-1. Navigate to `Settings > Appearance > CSS Snippets`
-2. Enable all snippets that are enabled in [[Custom CSS.base#Enabled|Enabled Custom CSS]]
+1. [[Custom CSS#Initial Setup|Custom CSS Initial Setup]]
 
 ## Old
 

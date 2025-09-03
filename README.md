@@ -21,4 +21,5 @@ If you plan to use this vault or adopt portions of this workflow then here is wh
 
 > [!warning] TODO
 
-1. Meetings / Projects / Periodics
+1. [[Vault Style#Initial Setup|Setup Style]]
+2. Meetings / Projects / Periodics

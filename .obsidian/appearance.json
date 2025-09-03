@@ -1,6 +1,7 @@
 {
   "enabledCssSnippets": [
     "hide_file_properties",
-    "page_preview"
+    "page_preview",
+    "remove_link_underline"
   ]
 }
