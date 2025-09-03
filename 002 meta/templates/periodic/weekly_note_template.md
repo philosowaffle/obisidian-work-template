@@ -2,6 +2,8 @@
 	let currentDate = moment();
 	let start = currentDate.clone().startOf('week').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('week').format("YYYY-MM-DD");
+	let lastWeek = tp.date.now("WW", -7);
+	let nextWeek = tp.date.now("WW", 7);
 
 	let icon = '📂';
 %>---
@@ -12,6 +14,9 @@ cssclasses:
   - HideProps
 ---
 # <% icon %> <% tp.file.title %>
+
+[[2025-W<% lastWeek %>|<< W<% lastWeek %>]] | <%tp.file.title%> | [[2025-W<% nextWeek %>|W<% nextWeek %> >>]]
+
 ````tabs
 top,one
 tab: ___

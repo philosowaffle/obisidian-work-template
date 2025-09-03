@@ -21,7 +21,7 @@ cssclasses:
   - HideProps
 ---
 # <% icon %> <% tp.date.now("dddd") %>
-[[<% yesterday %>|<< <% yesterday %>]] | <%tp.file.title%> | [[<% tomorrow %>|<% tomorrow %>>>]] 
+[[<% yesterday %>|<< <% yesterday %>]] | <%tp.file.title%> | [[<% tomorrow %>|<% tomorrow %> >>]] 
 
 ````tabs
 top,one

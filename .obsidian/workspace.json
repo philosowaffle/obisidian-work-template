@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
+                "file": "002 meta/templates/periodic/quarterly_note_template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "daily_note_template"
+              "title": "quarterly_note_template"
             }
           }
         ]
@@ -201,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/templates/periodic/monthly_note_template.md"
+                "file": "002 meta/templates/periodic/quarterly_note_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for monthly_note_template"
+              "title": "File properties for quarterly_note_template"
             }
           }
         ],
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/periodic/monthly_note_template.md",
+                "file": "002 meta/templates/periodic/quarterly_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of monthly_note_template"
+              "title": "Graph of quarterly_note_template"
             }
           }
         ]
@@ -275,16 +275,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e13336a7ba3ab15",
+  "active": "b303387dd731c3df",
   "lastOpenFiles": [
-    "050 gitignore/journal/2025/M09/2025-M09.md",
     "002 meta/templates/periodic/monthly_note_template.md",
-    "002 meta/templates/periodic/daily_note_template.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "002 meta/templates/periodic/quarterly_note_template.md",
+    "050 gitignore/journal/2025/M09/2025-M09.md",
     "002 meta/templates/periodic/weekly_note_template.md",
-    "050 gitignore/journal/2025/M08/W35/2025-W35.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
     "050 gitignore/journal/2025/M09/W36/2025-W36.md",
+    "050 gitignore/journal/2025/M08/W35/2025-W35.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
     "050 gitignore/journal/2025/M08/W35",
     "050 gitignore/journal/2025/M08",
     "000 inbox/TODO.md",
@@ -309,7 +310,6 @@
     "002 meta/vault data/recurring tasks/Task - 01 Daily Slack Check.md",
     "002 meta/vault data/recurring tasks/Task - 00 Daily Email Check.md",
     "002 meta/style/Icons.md",
-    "002 meta/style/themes/Theme Notes.md",
     "002 meta/style/style previews/Style Previews.base",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/style/themes",

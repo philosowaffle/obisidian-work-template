@@ -14,16 +14,18 @@ cssclasses:
 
 	let icon = '📂';
 %># <% icon %> <% tp.file.title %>
-[[2025-M<% lastMonth %>|<< M<% lastMonth %>]] | <%tp.file.title%> | [[2025-M<% nextMonth %>|M<% nextMonth %>>>]]
+
+[[2025-M<% lastMonth %>|<< M<% lastMonth %>]] | <%tp.file.title%> | [[2025-M<% nextMonth %>|M<% nextMonth %> >>]]
+
 ````tabs
 top,one
 tab: ___
 
 tab: ⭐ All Projects
 ```dataview
-TABLE WITHOUT ID file.link AS "Project", project-status as "Status", join(project-stakeholders, ", ") as "Stakeholder", created as "Started"
+TABLE WITHOUT ID file.link AS "Project", project-status as "Status", join(project-stakeholders, ", ") as "Stakeholder", created as "Started", archived as "Archived"
 FROM #project
-WHERE (created >= date(<% start %>) and created <= date(<% end %>)) or (archived >= date(<% start %>) and arcphived <= date(<% end %>))
+WHERE (created >= date(<% start %>) and created <= date(<% end %>)) or (archived >= date(<% start %>) and arcphived <= date(<% end %>)) or (project-status = "In Progress" or project-status = "Blocked"  or (project-status = "Standby"))
 ```
 
 tab: 🔄 Weeklies
@@ -33,6 +35,7 @@ FROM #periodic/weekly_note
 WHERE file.ctime >= date(<% start %>) and file.ctime <= date(<% end %>)
 ```
 ````
+
 ## 🌳Summary of the Month
 
 
