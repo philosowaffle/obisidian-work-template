@@ -1,12 +1,12 @@
 <%*
-	let thisToday = moment(tp.file.title, "YYYY-MM-DD").format('YYYY-MM-DD');
-	let yesterday = thisToday.clone().subtract(1, 'd').format("YYYY-MM-DD");
-	
-	let tomorrow = tp.date.tomorrow("YYYY-MM-DD");
-
+	let now = moment(tp.file.title, "YYYY-MM-DD");
+	let yesterday = now.clone().subtract(1, 'd').format("YYYY-MM-DD");
+	let tomorrow = now.clone().add(1, 'd').format("YYYY-MM-DD");
+	let today = now.clone().format('YYYY-MM-DD');
+	let todayWord = now.clone().format('dddd');
 	let icon = '🪴';
 
-	const dow = moment(tp.file.title, "YYYY-MM-DD").format("dd");
+	const dow = now.clone().format("dd");
 	if (dow == 'Su') icon = '🌞';
 	if (dow == 'Mo') icon = '⛰️';
 	if (dow == 'Tu') icon = '🏃‍♀️‍➡️';
@@ -17,12 +17,13 @@
 %>---
 tags:
   - periodic/daily_note
-created: <% thisToday %>
+created: <% today %>
 cssclasses:
   - HideProps
 ---
-# <% icon %> <% tp.date.now("dddd") %>
-[[<% yesterday %>|<< <% yesterday %>]] | <%tp.file.title%> | [[<% tomorrow %>|<% tomorrow %> >>]] 
+# <% icon %> <% todayWord %>
+
+[[<% yesterday %>|<< <% yesterday %>]] | <% today %> | [[<% tomorrow %>|<% tomorrow %> >>]] 
 
 ````tabs
 top,one
@@ -73,13 +74,13 @@ tab: 📆 Meetings
 ```dataview
 LIST
 from #meeting 
-where contains(file.name, "<% thisToday %>") 
+where contains(file.name, "<% today %>") 
 sort file.name ascending
 ```
 
 tab: 🕐 Log
 ```dataviewjs
-let today = "<% thisToday %>";
+let today = "<% today %>";
 let days = dv
 	.pages()
 	//.pages('"010 projects"')
@@ -138,7 +139,8 @@ allDailyNotes.forEach(dailyNote =>
 
 ```
 ````
-### ✨ New Tasks
+
+## ✨ New Tasks
 
 ## 📝 Notes
 

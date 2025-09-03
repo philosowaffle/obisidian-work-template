@@ -1,5 +1,5 @@
 <%*
-	let currentDate = moment();
+	let currentDate = moment(tp.file.title, "YYYY-[W]WW");
 	let start = currentDate.clone().startOf('week').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('week').format("YYYY-MM-DD");
 	let lastWeek = tp.date.now("WW", -7);
@@ -9,7 +9,7 @@
 %>---
 tags:
   - periodic/weekly_note
-created: <% tp.file.creation_date() %>
+created: <% end %>
 cssclasses:
   - HideProps
 ---
@@ -32,7 +32,7 @@ tab: 🔄 Daylies
 ```dataview
 LIST WITHOUT ID file.link
 FROM #periodic/daily_note 
-WHERE file.ctime >= date("<% start %>") and file.ctime <= date("<% end %>")
+WHERE created >= date("<% start %>") and created <= date("<% end %>")
 sort file.name ascending
 ```
 

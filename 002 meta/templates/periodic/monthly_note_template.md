@@ -1,19 +1,19 @@
----
-tags:
-  - periodic/monthly_note
-created: <% tp.file.creation_date() %>
-cssclasses:
-  - HideProps
----
 <%* 
-	let currentDate = moment();
+	let currentDate = moment(tp.file.title, "YYYY-[M]MM");
 	let start = currentDate.clone().startOf('month').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('month').format("YYYY-MM-DD");
 	let lastMonth = tp.date.now("MM", "P-1M");
 	let nextMonth = tp.date.now("MM", "P+1M");
 
 	let icon = '📂';
-%># <% icon %> <% tp.file.title %>
+%>---
+tags:
+  - periodic/monthly_note
+created: <% end %>
+cssclasses:
+  - HideProps
+---
+# <% icon %> <% tp.file.title %>
 
 [[2025-M<% lastMonth %>|<< M<% lastMonth %>]] | <%tp.file.title%> | [[2025-M<% nextMonth %>|M<% nextMonth %> >>]]
 
@@ -32,7 +32,7 @@ tab: 🔄 Weeklies
 ```dataview
 LIST WITHOUT ID file.link
 FROM #periodic/weekly_note 
-WHERE file.ctime >= date(<% start %>) and file.ctime <= date(<% end %>)
+WHERE created >= date(<% start %>) and created <= date(<% end %>)
 ```
 ````
 
