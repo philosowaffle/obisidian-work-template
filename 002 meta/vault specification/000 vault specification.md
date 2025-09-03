@@ -3,16 +3,10 @@
 > [!info]-
 > The standards and practices to follow for maintaining this vault.
 
-1. [[Creating Note Files]]
-	1. [[Callouts]]
-	2. [[Log Sections]]
-	3. [[Note Properties]]
-	4. [[Note Tags]]
-	5. [[Note Types]]
+1. [[Creating Notes]]
 2. [[Folder Organization]]
 3. [[Note Discoverability]]
-4. [[Recurring Meetings]]
-5. [[Todo Tasks]]
+4. [[Todo Tasks]]
 
 ## Proposed
 
