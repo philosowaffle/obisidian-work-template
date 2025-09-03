@@ -4,13 +4,13 @@ Navigate:
 Enabled: ✔️
 Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\notebook-backgrounds.css
 tags: [style/css]
+cssclasses:
 ---
 # Notebook Backgrounds CSS
 
 Notebook Background Color Schemes by CyanVoxel v2.2.3
 
 - [Source 1](C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\notebook-backgrounds.css)
-- [Source 2](C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\cyanvoxel-general-tweaks.css)
 
 These a few CSS classes that mimic a few of my real-world pages and pen colors. Go ahead and try it out! You can change or add new color variables or entire new classes and combinations. 
 

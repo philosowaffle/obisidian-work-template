@@ -11,14 +11,17 @@
             "id": "3e13336a7ba3ab15",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "002 meta/style/css/Notebook Background CSS Class Hydration.md",
-                "mode": "source",
-                "source": false
+                "file": "Untitled 1.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
               },
-              "icon": "lucide-file",
-              "title": "Notebook Background CSS Class Hydration"
+              "icon": "lucide-layout-dashboard",
+              "title": "Untitled 1"
             }
           }
         ]
@@ -181,10 +184,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/style/css/Notebook Background CSS Class Hydration.md"
+                "file": "Untitled 1.canvas"
               },
               "icon": "lucide-info",
-              "title": "File properties for Notebook Background CSS Class Hydration"
+              "title": "File properties for Untitled 1"
             }
           }
         ],
@@ -200,7 +203,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/style/css/Notebook Background CSS Class Hydration.md",
+                "file": "Untitled 1.canvas",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +231,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Notebook Background CSS Class Hydration"
+              "title": "Graph of Untitled 1"
             }
           }
         ]
@@ -257,15 +260,17 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
+    "002 meta/style/css/Custom CSS.base",
+    "Untitled 1.canvas",
+    "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
+    "002 meta/style/css/MermaidJS CSS.md",
     "002 meta/style/css/Notebook Backgrounds CSS.md",
     "002 meta/style/css/Notebook Background CSS Class Hydration.md",
-    "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
     "002 meta/style/css/Internal Link Style CSS.md",
     "002 meta/style/css/Page Preview CSS.md",
     "002 meta/style/css/Hide File Properties CSS.md",
     "000 inbox/Test.md",
     "README.md",
-    "002 meta/style/css/Custom CSS.base",
     "002 meta/style/Vault Style.md",
     "002 meta/style/css/Custom CSS.md",
     "Untitled.canvas",
@@ -283,8 +288,6 @@
     "002 meta/templates/meeting templates/meeting_note_template.md",
     "002 meta/templates/codebase_template.md",
     "002 meta/vault specification/Log Sections.md",
-    "002 meta/vault specification/Codebase Notes.md",
-    "002 meta/vault specification/Creating Notes.md",
     "050 gitignore/journal/2025/M09/W38",
     "050 gitignore/journal/2025/M09/W37",
     "050 gitignore/journal/2025/Quarterly",

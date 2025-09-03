@@ -4,6 +4,9 @@
     "page_preview",
     "remove_link_underline",
     "internal_link_style",
-    "notebook-backgrounds"
+    "notebook-backgrounds",
+    "mermaidjs_tweaks",
+    "cyanvoxel-general-tweaks",
+    "canvas_disable_grid_dots"
   ]
 }
