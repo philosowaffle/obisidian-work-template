@@ -5,8 +5,7 @@ Pugin Core Functionality: true
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Tasks Plugin
 

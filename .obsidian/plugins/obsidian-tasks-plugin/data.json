@@ -63,90 +63,6 @@
         "type": "DONE"
       },
       {
-        "symbol": "!",
-        "name": "Important",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "TODO"
-      },
-      {
-        "symbol": "?",
-        "name": "Question",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "0",
-        "name": "Speech bubble 0",
-        "nextStatusSymbol": "0",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "1",
-        "name": "Speech bubble 1",
-        "nextStatusSymbol": "1",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "2",
-        "name": "Speech bubble 2",
-        "nextStatusSymbol": "2",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "3",
-        "name": "Speech bubble 3",
-        "nextStatusSymbol": "3",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "4",
-        "name": "Speech bubble 4",
-        "nextStatusSymbol": "4",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "5",
-        "name": "Speech bubble 5",
-        "nextStatusSymbol": "5",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "6",
-        "name": "Speech bubble 6",
-        "nextStatusSymbol": "6",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "7",
-        "name": "Speech bubble 7",
-        "nextStatusSymbol": "7",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "8",
-        "name": "Speech bubble 8",
-        "nextStatusSymbol": "8",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "9",
-        "name": "Speech bubble 9",
-        "nextStatusSymbol": "9",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
         "symbol": ">",
         "name": "Rescheduled",
         "nextStatusSymbol": "x",
@@ -156,6 +72,20 @@
       {
         "symbol": "<",
         "name": "Scheduled",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "!",
+        "name": "Important",
+        "nextStatusSymbol": "x",
+        "availableAsCommand": false,
+        "type": "NON_TASK"
+      },
+      {
+        "symbol": "?",
+        "name": "Question",
         "nextStatusSymbol": "x",
         "availableAsCommand": false,
         "type": "NON_TASK"
@@ -231,233 +161,72 @@
         "type": "NON_TASK"
       },
       {
-        "symbol": "x",
-        "name": "Regular",
-        "nextStatusSymbol": " ",
-        "availableAsCommand": false,
-        "type": "DONE"
-      },
-      {
-        "symbol": "X",
-        "name": "Checked",
-        "nextStatusSymbol": " ",
-        "availableAsCommand": false,
-        "type": "DONE"
-      },
-      {
-        "symbol": "-",
-        "name": "Dropped",
-        "nextStatusSymbol": " ",
-        "availableAsCommand": false,
-        "type": "CANCELLED"
-      },
-      {
-        "symbol": ">",
-        "name": "Forward",
-        "nextStatusSymbol": "x",
+        "symbol": "0",
+        "name": "Speech bubble 0",
+        "nextStatusSymbol": "0",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "D",
-        "name": "Date",
-        "nextStatusSymbol": "x",
+        "symbol": "1",
+        "name": "Speech bubble 1",
+        "nextStatusSymbol": "1",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "/",
-        "name": "Half Done",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "IN_PROGRESS"
-      },
-      {
-        "symbol": "+",
-        "name": "Add",
-        "nextStatusSymbol": "x",
+        "symbol": "2",
+        "name": "Speech bubble 2",
+        "nextStatusSymbol": "2",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "R",
-        "name": "Research",
-        "nextStatusSymbol": "x",
+        "symbol": "3",
+        "name": "Speech bubble 3",
+        "nextStatusSymbol": "3",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "i",
-        "name": "Idea",
-        "nextStatusSymbol": "x",
+        "symbol": "4",
+        "name": "Speech bubble 4",
+        "nextStatusSymbol": "4",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "B",
-        "name": "Brainstorm",
-        "nextStatusSymbol": "x",
+        "symbol": "5",
+        "name": "Speech bubble 5",
+        "nextStatusSymbol": "5",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "P",
-        "name": "Pro",
-        "nextStatusSymbol": "x",
+        "symbol": "6",
+        "name": "Speech bubble 6",
+        "nextStatusSymbol": "6",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "C",
-        "name": "Con",
-        "nextStatusSymbol": "x",
+        "symbol": "7",
+        "name": "Speech bubble 7",
+        "nextStatusSymbol": "7",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "Q",
-        "name": "Quote",
-        "nextStatusSymbol": "x",
+        "symbol": "8",
+        "name": "Speech bubble 8",
+        "nextStatusSymbol": "8",
         "availableAsCommand": false,
         "type": "NON_TASK"
       },
       {
-        "symbol": "N",
-        "name": "Note",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "I",
-        "name": "Information",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "p",
-        "name": "Paraphrase",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "L",
-        "name": "Location",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "E",
-        "name": "Example",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "A",
-        "name": "Answer",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "r",
-        "name": "Reward",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "c",
-        "name": "Choice",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "d",
-        "name": "Doing",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "IN_PROGRESS"
-      },
-      {
-        "symbol": "T",
-        "name": "Time",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "@",
-        "name": "Character / Person",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "t",
-        "name": "Talk",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "O",
-        "name": "Outline / Plot",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "~",
-        "name": "Conflict",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "W",
-        "name": "World",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "f",
-        "name": "Clue / Find",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "F",
-        "name": "Foreshadow",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "H",
-        "name": "Favorite / Health",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "&",
-        "name": "Symbolism",
-        "nextStatusSymbol": "x",
-        "availableAsCommand": false,
-        "type": "NON_TASK"
-      },
-      {
-        "symbol": "s",
-        "name": "Secret",
-        "nextStatusSymbol": "x",
+        "symbol": "9",
+        "name": "Speech bubble 9",
+        "nextStatusSymbol": "9",
         "availableAsCommand": false,
         "type": "NON_TASK"
       }
