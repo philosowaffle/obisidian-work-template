@@ -1,5 +1,6 @@
 {
   "enabledCssSnippets": [
-    "hide_file_properties"
+    "hide_file_properties",
+    "page_preview"
   ]
 }

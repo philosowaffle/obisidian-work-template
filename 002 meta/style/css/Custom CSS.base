@@ -3,7 +3,7 @@ filters:
     - file.tags.contains("style/css")
 views:
   - type: table
-    name: Table
+    name: All
     order:
       - file.name
       - Style Status
@@ -11,3 +11,11 @@ views:
       - Style File
     columnSize:
       note.cssclasses: 445
+  - type: table
+    name: Enabled
+    filters:
+      and:
+        - Enabled == "✔️"
+    order:
+      - file.name
+      - Enabled

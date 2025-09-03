@@ -1,6 +1,7 @@
 ---
-tags: [style/css]
-Style Status: ✔️
+tags:
+  - style/css
+Enabled: ✔️
 Style File: hide_file_properties.css
 cssclasses:
   - HideProps

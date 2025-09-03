@@ -4,11 +4,11 @@
 - [x] polish normal meeting ✅ 2025-09-02
 - [ ] Test recurring meeting note
 - [x] inline templates ✅ 2025-09-02
-- [ ] periodic templates
+- [x] periodic templates ✅ 2025-09-03
 	- [x] Daily Note ✅ 2025-09-02
-	- [ ] Weekly Note
-	- [ ] Monthly Note
-	- [ ] Yearly Note
+	- [x] Weekly Note ✅ 2025-09-03
+	- [x] Monthly Note ✅ 2025-09-03
+	- [x] Yearly Note ✅ 2025-09-03
 - [x] feature template ✅ 2025-09-02
 - [x] project template ✅ 2025-09-02
 - [ ] prompt template
@@ -17,7 +17,7 @@
 - [x] Test codebase template ✅ 2025-09-02
 - [x] Test people template ✅ 2025-09-02
 - [x] Finish Plugin Note ✅ 2025-09-02
-- [ ] Clean up and or test all Quick adds
+- [x] Clean up and or test all Quick adds ✅ 2025-09-03
 - [ ] Custom CSS
 - [ ] Setup Excalidraw explaining how to use the vault
 - [ ] Clean up left hand ribbon

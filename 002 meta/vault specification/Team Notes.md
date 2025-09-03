@@ -45,4 +45,5 @@ Notes describing tools, processes, and information around a team of people.
 ### ⚠️ Dependencies
 
 - [[Dataview Plugin]]
+- [[Templater Plugin]]
 - [[team_template]]

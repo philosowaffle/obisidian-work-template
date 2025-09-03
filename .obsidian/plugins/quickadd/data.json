@@ -4,7 +4,7 @@
       "id": "89766388-68ef-48ee-bba5-1aa1266933fd",
       "name": "📆 Meeting",
       "type": "Multi",
-      "command": false,
+      "command": true,
       "choices": [
         {
           "id": "e4aede18-fb2c-4c79-b72b-8d386a327fa0",
@@ -124,7 +124,7 @@
       "id": "8eecb0ec-e03b-4cb7-a9b9-b12b19a31acd",
       "name": "🧱 Feature",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "002 meta/templates/feature_template.md",
       "fileNameFormat": {
         "enabled": true,
@@ -160,7 +160,7 @@
       "id": "e499c88f-d3b9-4f9c-9607-603ea2d2df17",
       "name": "🧍Person",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "002 meta/templates/person_template.md",
       "fileNameFormat": {
         "enabled": true,
@@ -196,7 +196,7 @@
       "id": "80aa19c9-2dbf-4ff8-827a-d0073105b3e4",
       "name": "💾 Codebase",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "002 meta/templates/codebase_template.md",
       "fileNameFormat": {
         "enabled": true,
@@ -232,7 +232,7 @@
       "id": "5a8a8fae-067f-4461-9e47-ad44ed70b900",
       "name": "⚽ Team",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "002 meta/templates/team_template.md",
       "fileNameFormat": {
         "enabled": true,
@@ -273,7 +273,7 @@
       "captureTo": "030 resources/Kudos.md",
       "captureToActiveFile": false,
       "createFileIfItDoesntExist": {
-        "enabled": false,
+        "enabled": true,
         "createWithTemplate": false,
         "template": ""
       },
