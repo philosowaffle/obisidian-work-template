@@ -1,47 +1,26 @@
----
+<%*
+	let currentDate = tp.date.now();
+	let start = currentDate.clone().startOf('week').format("YYYY-MM-DD");
+	let end = currentDate.clone().endOf('week').format("YYYY-MM-DD");
+
+	let icon = '📂';
+%>---
 tags:
   - periodic/weekly_note
 created: <% tp.file.creation_date() %>
 cssclasses:
   - HideProps
 ---
-<%* 
-	let currentDate = moment();
-	let start = currentDate.clone().startOf('week').format("YYYY-MM-DD");
-	let end = currentDate.clone().endOf('week').format("YYYY-MM-DD");
-
-	let icon = '📂';
-%># <% icon %> <% tp.file.title %>
+# <% icon %> <% tp.file.title %>
 ````tabs
 top,one
 tab: ___
 
 tab: ⭐ All Projects
 ```dataview
-TABLE WITHOUT ID file.link AS "Project", project_status as "Status", project_aor as "AOR", join(project_stakeholder, ", ") as "Stakeholder", project_started as "Started"
+TABLE WITHOUT ID file.link AS "Project", project-status as "Status", join(project-stakeholders, ", ") as "Stakeholder", created as "Started"
 FROM #project
-WHERE (project_started >= date(<% start %>) and project_started <= date(<% end %>)) or (project_archived >= date(<% start %>) and project_archived <= date(<% end %>)) or (project_status = "In Progress" or project_status = "Blocked"  or (project_status = "Standby"))
-```
-
-tab: 🆕 Started Projects
-```dataview
-TABLE WITHOUT ID file.link AS "Project", project_next_steps as "Next Steps", project_status as "Status", project_aor as "AOR", join(project_stakeholder, ", ") as "Stakeholder", dateformat(project_started, "yyyy-MM-dd") as "Started"
-FROM #project
-WHERE project_started >= date("<% start %>") and project_started <= date("<% end %>")
-```
-
-tab: 🛸 Inflight Projects
-```dataview
-TABLE WITHOUT ID file.link AS "Project", project_next_steps as "Next Steps", project_status as "Status", project_aor as "AOR", join(project_stakeholder, ", ") as "Stakeholder", dateformat(project_started, "yyyy-MM-dd") as "Started"
-FROM #project
-WHERE (project_status = "In Progress" or project_status = "Blocked"  or (project_status = "Standby"))
-```
-
-tab: 🛑 Stopped Projects
-```dataview
-TABLE WITHOUT ID file.link AS "Project", project_aor as "AOR", join(project_stakeholder, ", ") as "Stakeholder", dateformat(project_started, "yyyy-MM-dd") as "Started", dateformat(project_archived, "yyyy-MM-dd") as "Archived"
-FROM #project
-WHERE project_archived >= date("<% start %>") and project_archived <= date("<% end %>")
+WHERE (created >= date(<% start %>) and created <= date(<% end %>)) or (archived >= date(<% start %>) and archived <= date(<% end %>)) or (project-status = "In Progress" or project-status = "Blocked"  or (project-status = "Standby"))
 ```
 
 tab: 🔄 Daylies
@@ -69,7 +48,7 @@ let days = dv
 	.groupBy(d => d.text);
 
 let journalDays = dv
-			.pages('"020 areas/000 journal 🪴"')
+			.pages('"050 gitignore/journal"')
 			//.limit(10)
 			.groupBy(p => p.file.link);
 
@@ -124,7 +103,7 @@ sort file.name ascending
 ````
 
 # Summary of the Week
-<%tp.file.cursor()%>
+
 
 # Notes & Reflections
 
@@ -139,4 +118,3 @@ sort file.name ascending
 - [l] Clean up Projects 
 - [l] Clean up Inbox
 - [l] Clean local Git branches
-- [l] Send [[Kudos]]

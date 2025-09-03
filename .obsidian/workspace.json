@@ -13,32 +13,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/Meta.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Meta"
+              "title": "daily_note_template"
             }
           }
         ]
       },
       {
-        "id": "2eef77b8e91a0b77",
+        "id": "7427db8072435465",
         "type": "tabs",
         "children": [
           {
-            "id": "a87b4d7182b57c1c",
+            "id": "b303387dd731c3df",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/style/Vault Style.md",
+                "file": "002 meta/templates/periodic/weekly_note_template.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Vault Style"
+              "title": "weekly_note_template"
             }
           }
         ]
@@ -201,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/Meta.md"
+                "file": "002 meta/templates/periodic/weekly_note_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Meta"
+              "title": "File properties for weekly_note_template"
             }
           }
         ],
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/Meta.md",
+                "file": "002 meta/templates/periodic/weekly_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Meta"
+              "title": "Graph of weekly_note_template"
             }
           }
         ]
@@ -275,12 +275,21 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "3e13336a7ba3ab15",
+  "active": "b303387dd731c3df",
   "lastOpenFiles": [
-    "002 meta/vault specification/Folder Organization.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "002 meta/templates/periodic/weekly_note_template.md",
+    "000 inbox/TODO.md",
     "002 meta/Meta.md",
-    "002 meta/vault data/Vault Data.md",
+    "002 meta/vault views/Bases/All Vault Bases.base",
+    "002 meta/vault views/Bases/Bookmarks.base",
+    "002 meta/vault views/Bases/Features.base",
+    "002 meta/vault views/Bases/Projects.base",
+    "002 meta/vault specification/Callouts.md",
+    "002 meta/vault specification/Shortcuts.md",
     "002 meta/style/Vault Style.md",
+    "002 meta/vault specification/Folder Organization.md",
+    "002 meta/vault data/Vault Data.md",
     "002 meta/vault data/recurring tasks/Recurring Tasks.base",
     "002 meta/vault data/recurring tasks/Task - 103 Yearly Review.md",
     "002 meta/vault data/recurring tasks/Task - 102 Quarterly Review.md",
@@ -301,17 +310,8 @@
     "002 meta/style/css/Custom CSS.md",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/vault specification/000 Vault Specification.md",
-    "050 gitignore/journal/2025/M09/2025-M09.md",
-    "002 meta/Style Preview.md",
     "002 meta/style/themes",
     "002 meta/style/style previews",
-    "002 meta/shortcuts.md",
-    "002 meta/vault views/Bases/Projects.base",
-    "002 meta/vault views/Bases/Features.base",
-    "002 meta/vault views/Bases/Bookmarks.base",
-    "002 meta/vault views/Bases/All Vault Bases.base",
-    "000 inbox/TODO.md",
-    "README.md",
     "002 meta/plugins/Plugins.base",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
