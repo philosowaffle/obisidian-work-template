@@ -285,6 +285,11 @@
       "label": "",
       "match": "Default Style Preview.md",
       "flags": "i"
+    },
+    {
+      "match": "^002 meta/vault views/UI Modules/Help Module/Help\\.md$",
+      "flags": "",
+      "label": ""
     }
   ],
   "linterLocale": "system-default",

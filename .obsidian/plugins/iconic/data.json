@@ -33,6 +33,10 @@
   "tagIcons": {},
   "propertyIcons": {},
   "ribbonIcons": {},
-  "fileRules": [],
+  "fileRules": [
+    {
+      "id": "pgchr"
+    }
+  ],
   "folderRules": []
 }

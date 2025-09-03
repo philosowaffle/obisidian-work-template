@@ -9,10 +9,12 @@ tags: [plugin]
 ---
 # 🔌 Tasks Plugin
 
-Provides auto-complete and metadata for Task items such as `Due Date`, `Start Date`, and `Priority`. Additionally, provides a query language for Tasks across your vault.
-
+- Provides auto-complete and metadata for Task items such as `Due Date`, `Start Date`, and `Priority`. 
+- Provides a query language for Tasks across your vault.
+- Provides custom task definitions that can be styled by the theme
 - [Docs](https://publish.obsidian.md/tasks/Quick+Reference)
 - [[Todo Tasks]]
+- [[Tasks Style Preview]]
 
 ## 📝 Notes
 

@@ -5,16 +5,16 @@ Navigate:
 ---
 # Tasks Style Preview
 
-Custom Task definition is provided by the [[Tasks Plugin]].  The chosen theme is responsible for
+Custom Task definition is provided by the [[Tasks Plugin]]. The chosen theme is responsible for styling the custom tasks differently.
 
 - [ ] #task `space` Unchecked #ignore
 - [x] #task `x` Checked #ignore
+- [-] #task `-` Cancelled #ignore
 
 **Non_Tasks**
 - [>] #task `>` Rescheduled
 - [<] #task `<` Scheduled
 - [!] #task `!` Important
-- [-] #task `-` Cancelled
 - [/] #task `/` In Progress
 - [?] #task `?` Question
 - [*] #task `*` Star
@@ -37,4 +37,3 @@ Custom Task definition is provided by the [[Tasks Plugin]].  The chosen theme is
 - [7] #task `7` Speech bubble 7
 - [8] #task `8` Speech bubble 8
 - [9] #task `9` Speech bubble 9
-

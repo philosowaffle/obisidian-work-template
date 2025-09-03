@@ -56,4 +56,5 @@ Person notes represent people, there is one note created per person. This note m
 - [[Dataview Plugin]]
 - [[QuickAdd Plugin]]
 - [[Templater Plugin]]
+- [[Tasks Plugin]]
 - [[person_template]]

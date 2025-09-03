@@ -8,5 +8,6 @@
     "mermaidjs_tweaks",
     "cyanvoxel-general-tweaks",
     "canvas_disable_grid_dots"
-  ]
+  ],
+  "cssTheme": "Minimal"
 }

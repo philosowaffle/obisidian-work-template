@@ -1,0 +1,3 @@
+# Minimal Theme
+
+Currently installed.
