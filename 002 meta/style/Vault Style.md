@@ -6,6 +6,7 @@
 - [[Custom CSS]] | [[Custom CSS.base|Custom CSS Base]]
 - [[Icons]]
 - [[Style Previews.base|Style Previews Base]]
+- [[Theme Notes]]
 
 ## Old
 

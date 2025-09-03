@@ -1,5 +1,8 @@
 ---
-tags: [style/preview]
+tags:
+  - style/preview
+Navigate:
+  - "[[Style Previews.base|Go to all Style Previews]]"
 ---
 # Default Style Preview
 

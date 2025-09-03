@@ -1,5 +1,7 @@
 ---
 tags: [style/preview]
+Navigate:
+  - "[[Style Previews.base|Go to all Style Previews]]"
 ---
 # Tasks Style Preview
 

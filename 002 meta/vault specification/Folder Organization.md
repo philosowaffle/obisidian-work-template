@@ -29,6 +29,9 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 > 
 > I think there's a lot of value in trying to concretely describe how and why you do something. It can be very revealing as in introspective exercise and you might be surprised at what you find when you start retro-ing on your own perception of things.
 
+> [!tip]
+> [[Meta|Read more...]]
+
 ## 010 Projects
 
 1. Active [Project Note](Project%20Note.md)'s **must** be organized here
