@@ -9,13 +9,13 @@ cssclasses:
 	let currentDate = moment();
 	let start = currentDate.clone().startOf('quarter').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('quarter').format("YYYY-MM-DD");
-	let lastMonth = tp.date.now("MM", "P-1M");
-	let nextMonth = tp.date.now("MM", "P+1M");
+	let lastQuarter = currentDate.clone().subtract(1, 'Q').format("Q");
+	let nextQuarter = currentDate.clone().add(1, 'Q').format("Q");
 
 	let icon = '📂';
 %># <% icon %> <% tp.file.title %>
 
-**<% start %>** - **<% end %>**
+[[2025-Q<% lastQuarter %>|<< Q<% lastQuarter %>]] | **<% start %>** - **<% end %>** | [[2025-Q<% nextQuarter %>|Q<% nextQuarter %> >>]]
 
 ````tabs
 top,one
