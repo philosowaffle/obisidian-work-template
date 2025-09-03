@@ -29,3 +29,4 @@
 - [[QuickAdd Plugin]]
 - [[Tabs Plugin]]
 - [[feature_template]]
+	- [[Templater Plugin]]

@@ -47,3 +47,4 @@ Notes describing tools, processes, and information around a deployable unit of c
 
 - [[Dataview Plugin]]
 - [[codebase_template]]
+	- [[Templater Plugin]]

@@ -32,7 +32,7 @@ tab: 🔄 Monthlies
 ```dataview
 LIST WITHOUT ID file.link
 FROM #periodic/monthly_note 
-WHERE file.ctime >= date(<% start %>) and file.ctime <= date(<% end %>)
+WHERE created >= date(<% start %>) and created <= date(<% end %>)
 ```
 ````
 

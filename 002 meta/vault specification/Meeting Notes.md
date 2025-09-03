@@ -57,5 +57,6 @@ There are currently three types of meeting notes:
 ### ⚠️ Dependencies
 
 - [[QuickAdd Plugin]]
+- [[Templater Plugin]]
 - [[meeting_note_template]]
 - [[meeting_person_sync]]

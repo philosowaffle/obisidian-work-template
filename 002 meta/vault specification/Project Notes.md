@@ -59,4 +59,5 @@ Project notes are used to track deliverable items. These can be large projects s
 
 - [[Dataview Plugin]]
 - [[Tabs Plugin]]
+- [[Templater Plugin]]
 - [[project_template]]

@@ -40,3 +40,4 @@
 - [ ] clean up properties
 - [ ] add calendar widget
 - [ ] rename bases to All
+- [ ] delete journal

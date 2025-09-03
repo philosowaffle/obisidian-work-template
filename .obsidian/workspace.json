@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-W36.md",
+                "file": "002 meta/vault specification/Team Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-W36"
+              "title": "Team Notes"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/periodic/weekly_note_template.md",
+                "file": "002 meta/templates/person_template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "weekly_note_template"
+              "title": "person_template"
             }
           }
         ]
@@ -201,10 +201,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-W36.md"
+                "file": "002 meta/vault specification/Team Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 2025-W36"
+              "title": "File properties for Team Notes"
             }
           }
         ],
@@ -220,7 +220,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-W36.md",
+                "file": "002 meta/vault specification/Team Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -248,7 +248,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 2025-W36"
+              "title": "Graph of Team Notes"
             }
           }
         ]
@@ -277,42 +277,42 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
-    "050 gitignore/journal/2025/M09/2025-M09.md",
+    "002 meta/vault specification/Recurring Meetings.md",
+    "002 meta/vault specification/Project Notes.md",
+    "002 meta/vault specification/Plugin Notes.md",
+    "002 meta/vault specification/Person Notes.md",
+    "002 meta/templates/person_template.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/templates/meeting templates/meeting_person_sync.md",
+    "002 meta/vault specification/Periodic Notes.md",
+    "002 meta/vault specification/Meeting Notes.md",
+    "002 meta/templates/meeting templates/meeting_note_template.md",
+    "002 meta/templates/codebase_template.md",
+    "002 meta/vault specification/Log Sections.md",
+    "002 meta/vault specification/Codebase Notes.md",
+    "002 meta/vault specification/Creating Notes.md",
+    "002 meta/vault specification/Folder Organization.md",
+    "002 meta/vault specification/Feature Notes.md",
     "050 gitignore/journal/2025/M09/W36/2025-W36.md",
-    "002 meta/templates/periodic/monthly_note_template.md",
+    "000 inbox/TODO.md",
     "002 meta/templates/periodic/weekly_note_template.md",
+    "050 gitignore/journal/2025/M09/2025-M09.md",
+    "050 gitignore/journal/2025/Quarterly/2025-Q3.md",
+    "050 gitignore/journal/2025/2025.md",
+    "050 gitignore/journal/2025/M09/W37/2025-W37.md",
     "050 gitignore/journal/2025/M09/W39/2025-W39.md",
-    "002 meta/templates/periodic/daily_note_template.md",
-    "050 gitignore/journal/2025/M09/W38/2025-09-19.md",
-    "050 gitignore/journal/2025/M09/W39/2025-09-24.md",
-    "050 gitignore/journal/2025/M09/W39/2025-09-25.md",
-    "050 gitignore/journal/2025/M09/W38/2025-09-15.md",
-    "050 gitignore/journal/2025/M09/W39",
-    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "050 gitignore/journal/2025/M09/W38/2025-W38.md",
     "050 gitignore/journal/2025/M09/W38",
-    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-01.md",
+    "050 gitignore/journal/2025/M09/W37",
     "002 meta/templates/periodic/quarterly_note_template.md",
+    "050 gitignore/journal/2025/Quarterly",
+    "050 gitignore/journal/2025/M09/W39",
     "050 gitignore/journal/2025/M09/W36",
     "050 gitignore/journal/2025/M09",
     "050 gitignore/journal/2025",
-    "050 gitignore/journal/2025/M09/W36/2025-09-06.md",
-    "050 gitignore/journal/2025/Quarterly/2025-Q3.md",
-    "002 meta/templates/periodic/yearly_note_template.md",
-    "050 gitignore/journal/2025/2025.md",
-    "050 gitignore/journal/2025/Quarterly",
-    "050 gitignore/journal/2025/M08/W35/2025-W35.md",
     "050 gitignore/journal/2025/M08/W35",
     "050 gitignore/journal/2025/M08",
-    "000 inbox/TODO.md",
-    "002 meta/Meta.md",
     "002 meta/vault views/Bases/All Vault Bases.base",
-    "002 meta/vault views/Bases/Bookmarks.base",
-    "002 meta/vault specification/Callouts.md",
-    "002 meta/vault specification/Shortcuts.md",
-    "002 meta/style/Vault Style.md",
-    "002 meta/vault specification/Folder Organization.md",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

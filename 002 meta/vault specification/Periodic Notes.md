@@ -59,6 +59,7 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 - [[Tabs Plugin]]
 - [[Periodic Notes]]
 - [[Calendar Plugin]]
+- [[Templater Plugin]]
 - [[daily_note_template]]
 - [[weekly_note_template]]
 - [[monthly_note_template]]

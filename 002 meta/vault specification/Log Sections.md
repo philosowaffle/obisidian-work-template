@@ -25,6 +25,10 @@ Sample template for Published notes.
 	- **Log Section Created**
 ```
 
+### ⚠️ Dependencies
+
+- [[Log Section Template]]
+
 ## 🕒 Log
 
 - [[06-11-2025]]

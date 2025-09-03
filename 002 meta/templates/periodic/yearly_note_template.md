@@ -1,19 +1,19 @@
----
-tags:
-  - periodic/yearly_note
-created: <% tp.file.creation_date() %>
-cssclasses:
-  - HideProps
----
 <%* 
-	let currentDate = moment();
+	let currentDate = moment(tp.file.title, "YYYY");
 	let start = currentDate.clone().startOf('year').format("YYYY-MM-DD");
 	let end = currentDate.clone().endOf('year').format("YYYY-MM-DD");
 	let lastYear = currentDate.clone().subtract(1, 'Y').format("YYYY");
 	let nextYear = currentDate.clone().add(1, 'Y').format("YYYY");
 
 	let icon = '📂';
-%># <% icon %> <% tp.file.title %>
+%>---
+tags:
+  - periodic/yearly_note
+created: <% end %>
+cssclasses:
+  - HideProps
+---
+# <% icon %> <% tp.file.title %>
 
 [[<% lastYear %>|<< <% lastYear %>]] | <%tp.file.title%> | [[<% nextYear %>|<% nextYear %> >>]]
 
@@ -32,14 +32,14 @@ tab: 🔄 Quarerlies
 ```dataview
 LIST WITHOUT ID file.link
 FROM #periodic/quarterly_note 
-WHERE file.ctime >= date(<% start %>) and file.ctime <= date(<% end %>)
+WHERE created >= date(<% start %>) and created <= date(<% end %>)
 ```
 
 tab: 🔄 Monthlies
 ```dataview
 LIST WITHOUT ID file.link
 FROM #periodic/monthly_note 
-WHERE file.ctime >= date(<% start %>) and file.ctime <= date(<% end %>)
+WHERE created >= date(<% start %>) and created <= date(<% end %>)
 ```
 
 ````
