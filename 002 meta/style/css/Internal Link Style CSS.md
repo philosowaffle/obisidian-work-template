@@ -29,8 +29,8 @@ span.cm-hmd-internal-link a
 - [[README]] - local link
 - [Google](https://www.google.com)
 
+## From Old Mac
 
-## from old mac
 ```css
 .markdown-preview-view .external-link {
     text-decoration: none;
