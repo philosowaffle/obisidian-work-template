@@ -1,0 +1,29 @@
+---
+tags: [style/preview]
+---
+# Default Style Preview
+
+Provided by Theme configuration.
+
+**bold**
+*italics*
+
+# H1
+
+Provided by Theme configuration.
+
+## H2
+
+### H3
+
+#### H4
+
+##### H5
+
+###### H6
+
+# Link Styles
+
+Provided by `remove_link_underline.css`
+
+[preview example](vault%20plugins/plugins.md)

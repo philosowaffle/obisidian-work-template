@@ -36,9 +36,9 @@ Testing out for visually time blocking my day, especially for cases where I don'
 
 #### 🧪 List Callouts
 
-Adds callout highlighting to a list item based on the first character. See [list callouts](style.md#list%20callouts) style guide.
+Adds callout highlighting to a list item based on the first character. See [list callouts](Style%20Preview.md#list%20callouts) style guide.
 
-![list callouts](style.md#list%20callouts)
+![list callouts](Style%20Preview.md#list%20callouts)
 
 #### Meta Bind
 

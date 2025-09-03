@@ -13,44 +13,35 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "050 gitignore/journal/2025/M09/2025-M09.md",
+                "file": "002 meta/Style Preview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-M09"
+              "title": "Style Preview"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "2eef77b8e91a0b77",
+        "type": "tabs",
+        "children": [
           {
             "id": "a87b4d7182b57c1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/style.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "style"
-            }
-          },
-          {
-            "id": "6bc3d9a0d6bc925d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Footnote Shortcut Plugin"
+              "title": "Default Style Preview"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -82,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#project",
+                "query": "tag:#plugin",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -217,7 +208,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
+                "file": "002 meta/Style Preview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -245,7 +236,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Footnote Shortcut Plugin"
+              "title": "Graph of Style Preview"
             }
           }
         ]
@@ -272,11 +263,24 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "6bc3d9a0d6bc925d",
+  "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
-    "002 meta/style.md",
-    "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
+    "002 meta/style/style previews/Default Style Preview.md",
+    "002 meta/Style Preview.md",
+    "002 meta/style/style previews/Tasks Style Preview.md",
+    "002 meta/style/style previews/Callout Style Preview.md",
+    "050 gitignore/journal/2025/M09/2025-M09.md",
+    "002 meta/style/style previews",
     "002 meta/shortcuts.md",
+    "002 meta/vault views/Bases/Projects.base",
+    "002 meta/vault views/Bases/Features.base",
+    "002 meta/vault views/Bases/Bookmarks.base",
+    "002 meta/vault views/Bases/All Vault Bases.base",
+    "000 inbox/TODO.md",
+    "README.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
+    "002 meta/plugins/Plugins.base",
+    "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
     "002 meta/000 meta.md",
     "002 meta/style/000 style.md",
     "002 meta/vault specification/000 Vault Specification.md",
@@ -292,24 +296,11 @@
     "002 meta/vault specification/Log Sections.md",
     "002 meta/vault specification/Folder Organization.md",
     "002 meta/vault specification/050 gitignore Specification.md",
-    "002 meta/plugins/Plugins.base",
-    "000 inbox/TODO.md",
     "002 meta/templates/Templates.base",
     "002 meta/templates/team_template.md",
-    "002 meta/templates/plugin_template.md",
-    "002 meta/templates/person_template.md",
-    "002 meta/templates/meta_documentation_template.md",
-    "002 meta/templates/feature_template.md",
-    "002 meta/templates/periodic/daily_note_template.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/style/css",
     "050 gitignore/journal/2025/M09/W36",
-    "050 gitignore/journal/2025/M09",
-    "050 gitignore/journal/2025",
-    "050 gitignore/journal",
-    "020 areas/teams/Teams.base",
-    "002 meta/vault views/Bases/Projects.base",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

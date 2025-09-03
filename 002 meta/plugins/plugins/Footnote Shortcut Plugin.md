@@ -6,21 +6,22 @@ Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
 created: 2025-09-02 19:06
-tags: plugin
+tags: [plugin]
 ---
 # 🔌 Footnote Shortcut Plugin
 
-Use a shortcut to quickly add a Footnote, the
+Use a shortcut to quickly add a Footnote, then navigate back to text.
 
 ## 📝 Notes
 
-
 ## ⚙️ Settings
 
+**Hotkey:** `ctrl+shft+6`
 
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
+
 ```dataview
 LIST
 from [[Footnote Shortcut Plugin]]

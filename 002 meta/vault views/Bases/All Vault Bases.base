@@ -1,0 +1,9 @@
+filters:
+  and:
+    - file.ext == "base"
+views:
+  - type: table
+    name: All
+    order:
+      - file.name
+      - file.path

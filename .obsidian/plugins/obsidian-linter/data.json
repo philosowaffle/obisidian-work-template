@@ -280,7 +280,13 @@
     "002 meta/templates",
     "002 meta/vault data"
   ],
-  "filesToIgnore": [],
+  "filesToIgnore": [
+    {
+      "label": "",
+      "match": "Default Style Preview.md",
+      "flags": "i"
+    }
+  ],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
   "lintCommands": [],

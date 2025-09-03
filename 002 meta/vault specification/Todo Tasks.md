@@ -4,7 +4,7 @@
 	1. A native Task can have the following statuses:
 		1. `- [ ]` todo
 		2. `- [x]` done
-	2. The theme [AnuPpucin](style.md#AnuPpucin) provides additional statuses:
+	2. The theme [AnuPpucin](Style%20Preview.md#AnuPpucin) provides additional statuses:
 		1. `- [/]` in progress
 		2. `- [-]` cancelled
 		3. `- [!]` importnat

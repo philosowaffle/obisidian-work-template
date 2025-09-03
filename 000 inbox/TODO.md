@@ -5,7 +5,7 @@
 - [ ] Test recurring meeting note
 - [x] inline templates ✅ 2025-09-02
 - [ ] periodic templates
-	- [ ] Daily Note 
+	- [x] Daily Note ✅ 2025-09-02
 	- [ ] Weekly Note
 	- [ ] Monthly Note
 	- [ ] Yearly Note
@@ -39,3 +39,4 @@
 - [ ] clean up tags
 - [ ] clean up properties
 - [ ] add calendar widget
+- [ ] rename bases to All
