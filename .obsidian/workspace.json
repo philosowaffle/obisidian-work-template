@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "README"
             }
           }
         ]
@@ -181,14 +181,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 inbox/TODO.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for TODO"
+              "title": "File properties for README"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "017a578b8bc47b38",
@@ -200,7 +200,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -228,7 +228,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TODO"
+              "title": "Graph of README"
             }
           }
         ]
@@ -257,6 +257,12 @@
   },
   "active": "3e13336a7ba3ab15",
   "lastOpenFiles": [
+    "020 areas/codebases/Some Api.md",
+    "020 areas/teams/Bob.md",
+    "030 resources/My First Feature.md",
+    "030 resources/Another thing Feature.md",
+    "README.md",
+    "000 inbox/TODO.md",
     "002 meta/templates/Templates.base",
     "002 meta/vault views/Bases/All Vault Bases.base",
     "002 meta/style/style previews/Style Previews.base",
@@ -265,11 +271,9 @@
     "040 archives/meetings/Meetings.base",
     "002 meta/vault views/Bases/Features.base",
     "020 areas/codebases/Codebases.base",
-    "000 inbox/TODO.md",
     "002 meta/vault specification/Note Types.md",
     "000 inbox/Test.md",
     "002 meta/style/Vault Style.md",
-    "README.md",
     "002 meta/plugins/Vault Plugins.md",
     "002 meta/Meta.md",
     "002 meta/vault specification/000 Vault Specification.md",
@@ -291,10 +295,6 @@
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/vault specification/Project Notes.md",
     "002 meta/vault specification/Plugin Notes.md",
-    "002 meta/vault specification/Person Notes.md",
-    "002 meta/templates/person_template.md",
-    "002 meta/templates/plugin_template.md",
-    "050 gitignore/journal/2025/M09/W38",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
     "Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas"
   ]

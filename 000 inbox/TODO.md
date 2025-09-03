@@ -1,4 +1,6 @@
- # TODO
+# TODO
+
+# TODO
 
 - [x] Test 1:1 meeting note ✅ 2025-09-02
 - [x] polish normal meeting ✅ 2025-09-02
@@ -41,3 +43,4 @@
 - [x] add calendar widget ✅ 2025-09-03
 - [x] rename bases to All ✅ 2025-09-03
 - [ ] delete journal
+- [ ] new canvases created in wrong spot
