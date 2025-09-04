@@ -193,6 +193,36 @@
       }
     },
     {
+      "id": "21e54475-e622-47fe-9f29-c1002dd0e0a8",
+      "name": "🤖 AI Prompt",
+      "type": "Template",
+      "command": false,
+      "templatePath": "002 meta/templates/prompt_template.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{name}} Prompt"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "030 resources"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFile": true,
+      "fileOpening": {
+        "location": "tab",
+        "direction": "vertical",
+        "mode": "default",
+        "focus": true
+      },
+      "fileExistsMode": "Increment the file name",
+      "setFileExistsBehavior": false
+    },
+    {
       "id": "80aa19c9-2dbf-4ff8-827a-d0073105b3e4",
       "name": "💾 Codebase",
       "type": "Template",
