@@ -15,7 +15,10 @@ views:
     name: Enabled
     filters:
       and:
-        - Enabled == "✔️"
+        - Enabled == true
     order:
       - file.name
       - Enabled
+    sort:
+      - property: Enabled
+        direction: ASC

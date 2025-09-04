@@ -50,6 +50,7 @@ tags:
 created: <% today %>
 cssclasses:
   - HideProps
+  - wide
 banner: <% banner %>
 banner-x: 52
 banner-y: 53

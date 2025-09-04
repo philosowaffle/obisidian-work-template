@@ -1,7 +1,7 @@
 ---
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
-Enabled: ✔️
+Enabled: true
 Source File: .obsidian\snippets\canvas_disable_grid_dots.css
 tags: [style/css]
 ---

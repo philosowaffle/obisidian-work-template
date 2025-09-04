@@ -6,7 +6,9 @@ Project notes are used to track deliverable items. These can be large projects s
 
 ### 🔍 Discovery
 
-- [[Projects.base|Projects Base]]
+- Active Projects can be found in `010 projects/`
+- Inactive Projects can be found in `040 archives/`
+- All projects in the vault can be discovered in the [[Projects.base|Projects Base]]
 
 ### ✨ Creating
 

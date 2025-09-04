@@ -226,7 +226,8 @@
               "title": "File properties for README"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "017a578b8bc47b38",
@@ -274,7 +275,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 371.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,19 +298,23 @@
   },
   "active": "b52ffe5be0989642",
   "lastOpenFiles": [
-    "002 meta/vault specification/Note Discoverability.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
     "README.md",
+    "002 meta/style/css/Custom CSS.md",
+    "002 meta/style/css/Custom CSS.base",
+    "002 meta/style/css/Canvas Disable Grid Dots CSS.md",
+    "002 meta/plugins/Vault Plugins.md",
+    "002 meta/plugins/Plugins.base",
+    "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Folder Organization.md",
     "002 meta/vault specification/050 gitignore Specification.md",
     "000 inbox/TODO.md",
     "000 inbox/000 inbox.md",
     "020 areas/people/Bailey Belvis.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
     "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
     "002 meta/plugins/plugins/Tasks Plugin.md",
-    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/style/style previews/Tasks Style Preview.md",
-    "002 meta/plugins/Plugins.base",
     "002 meta/style/themes/Minimal Theme.md",
     "002 meta/style/style previews/Default Style Preview.md",
     "002 meta/plugins/plugins/Style Settings Plugin.md",
@@ -321,7 +326,6 @@
     "050 gitignore/journal/2025/M09/W36/2025-09-07.md",
     "050 gitignore/journal/2025/M09/W36/2025-09-06.md",
     "050 gitignore/journal/2025/M09/W36/2025-09-05.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
     "001 attachments/Fall/monday-fall-banner.jpg",
     "001 attachments/default-banner.jpg",
     "001 attachments/Fall/thursday-fall-banner.jpg",
@@ -330,15 +334,11 @@
     "001 attachments/pine tree.png",
     "001 attachments/Fall/tuesday-fall-banner.jpg",
     "001 attachments/Fall",
-    "002 meta/vault specification/Recurring Meetings.md",
     "001 attachments/campfire.svg",
-    "002 meta/vault specification/000 Vault Specification.md",
-    "010 projects/000 projects.md",
     "000 inbox/Untitled.canvas",
     "002 meta/vault views/Bases/Orphaned Image Report.base",
     "002 meta/vault views/Bases/Orphans.base",
     "002 meta/templates/style",
-    "002 meta/style/css/Custom CSS.base",
     "002 meta/vault views/Bases/Bookmarks.base",
     "002 meta/vault views/Bases/All Vault Bases.base",
     "050 gitignore/journal/2025/M09/W36",
