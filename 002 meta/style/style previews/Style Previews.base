@@ -1,6 +1,7 @@
 filters:
   and:
     - file.tags.contains("style/preview")
+    - '!file.folder.startsWith("002 meta/templates")'
 views:
   - type: cards
     name: All

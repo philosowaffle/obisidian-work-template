@@ -16,6 +16,12 @@ Provides nice banner images added to the top of notes.
 
 Use command palette to open the Pixel Banner Settings for any given note.
 
+Images are all saved to `001 attachments`. Currently in use by [[daily_note_template]].
+
+Best to use this on notes with Properties hidden since this plugin adds a lot of properties which are ugly to look at and make it hard to find the properties I need.
+
+💡I may look into doing something like [this custom css](https://forum.obsidian.md/t/hide-certain-properties/74777) to hide the Banner properties if I end up using this plugin a lot.
+
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations

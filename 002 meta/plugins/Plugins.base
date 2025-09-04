@@ -44,3 +44,15 @@ views:
       - Plugin QoL
       - Plugin Style
       - Plugin Vault Management
+  - type: table
+    name: Vault Management Plugins
+    filters:
+      and:
+        - note["Plugin Vault Management"] == true
+    order:
+      - file.name
+      - Enabled
+      - Plugin QoL
+      - Plugin Style
+      - Plugin Vault Management
+      - Pugin Core Functionality

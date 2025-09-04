@@ -13,34 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
-                "mode": "source",
-                "source": true,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "daily_note_template"
-            }
-          }
-        ]
-      },
-      {
-        "id": "72a231d543e98077",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1c637ddd3cc4dd94",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "2025-09-04"
+              "title": "Default Style Preview"
+            }
+          }
+        ]
+      },
+      {
+        "id": "3626435546fb378d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7168347af3693c09",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -122,7 +117,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 313.5
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -138,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,7 +142,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for daily_note_template"
+              "title": "Backlinks"
             }
           },
           {
@@ -157,12 +151,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from daily_note_template"
+              "title": "Outgoing links"
             }
           },
           {
@@ -224,15 +217,13 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md"
-              },
+              "state": {},
               "icon": "lucide-info",
-              "title": "File properties for daily_note_template"
+              "title": "File properties"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 5
       },
       {
         "id": "017a578b8bc47b38",
@@ -244,7 +235,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -272,7 +262,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of daily_note_template"
+              "title": "Graph view"
             }
           }
         ]
@@ -300,22 +290,30 @@
       "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
-  "active": "b52ffe5be0989642",
+  "active": "7168347af3693c09",
   "lastOpenFiles": [
-    "001 attachments/default-banner.jpg",
-    "002 meta/templates/periodic/daily_note_template.md",
-    "001 attachments/Fall/thursday-fall-banner.jpg",
+    "002 meta/style/style previews/Default Style Preview.md",
+    "002 meta/style/style previews/Style Previews.base",
     "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+    "002 meta/plugins/Plugins.base",
+    "001 attachments/000 attachments.md",
+    "002 meta/plugins/plugins/Pixel Banner Plugin.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-01.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-07.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-06.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-05.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "050 gitignore/journal/2025/M09/W36/2025-09-02.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "001 attachments/Fall/monday-fall-banner.jpg",
+    "001 attachments/default-banner.jpg",
+    "001 attachments/Fall/thursday-fall-banner.jpg",
     "001 attachments/Fall/friday-fall-banner.jpg",
     "001 attachments/Fall/wednesday-fall-banner.jpg",
     "001 attachments/pine tree.png",
     "001 attachments/Fall/tuesday-fall-banner.jpg",
-    "001 attachments/Fall/monday-fall-banner.jpg",
-    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
     "001 attachments/Fall",
-    "002 meta/plugins/plugins/Pixel Banner Plugin.md",
     "002 meta/vault specification/Recurring Meetings.md",
-    "001 attachments/000 attachments.md",
     "001 attachments/campfire.svg",
     "000 inbox/TODO.md",
     "000 inbox/000 inbox.md",
@@ -331,11 +329,6 @@
     "002 meta/plugins/plugins/Find Orphaned Files and Broken Links Plugin.md",
     "000 inbox/Test.md",
     "002 meta/templates/style/Style Preview Documentation Template.md",
-    "002 meta/templates/style/CSS Style Documentation Template.md",
-    "002 meta/templates/plugin_template.md",
-    "002 meta/vault views/Broken Links Output.md",
-    "002 meta/vault views/Empty Files.md",
-    "002 meta/vault views/Orphaned Files Output.md",
     "000 inbox/Untitled.canvas",
     "002 meta/vault views/Bases/Orphaned Image Report.base",
     "002 meta/vault views/Bases/Orphans.base",
@@ -344,8 +337,6 @@
     "002 meta/vault views/Bases/Bookmarks.base",
     "002 meta/vault views/Bases/All Vault Bases.base",
     "050 gitignore/journal/2025/M09/W36",
-    "050 gitignore/journal/2025/M09",
-    "050 gitignore/journal/2025",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",
