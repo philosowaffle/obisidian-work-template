@@ -2,12 +2,12 @@
 tags: [style/css]
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
-Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\mermaidjs_tweaks.css
+Source File: .obsidian\snippets\mermaidjs_tweaks.css
 Enabled: true
 ---
 # MermaidJS CSS
 
-[Source](C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\mermaidjs_tweaks.css)
+[Source](.obsidian\snippets\mermaidjs_tweaks.css)
 
 ```mermaid
 pie title NETFLIX

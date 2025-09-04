@@ -2,7 +2,7 @@
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
 Enabled: true
-Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\internal_link_style.css
+Source File: .obsidian\snippets\internal_link_style.css
 tags: [style/css]
 ---
 # Internal Link Style CSS

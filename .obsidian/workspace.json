@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/style/css/Page Preview CSS.md",
+                "file": "002 meta/style/css/Notebook Backgrounds CSS.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -48,7 +48,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Page Preview CSS"
+              "title": "Notebook Backgrounds CSS"
             }
           }
         ]
@@ -233,10 +233,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/style/css/Page Preview CSS.md"
+                "file": "002 meta/style/css/Notebook Backgrounds CSS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Page Preview CSS"
+              "title": "File properties for Notebook Backgrounds CSS"
             }
           }
         ],
@@ -252,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/style/css/Page Preview CSS.md",
+                "file": "002 meta/style/css/Notebook Backgrounds CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Page Preview CSS"
+              "title": "Graph of Notebook Backgrounds CSS"
             }
           }
         ]
@@ -309,11 +309,11 @@
   },
   "active": "cd7b08c0552408cf",
   "lastOpenFiles": [
-    "002 meta/templates/Style Documentation Templates.md",
-    "002 meta/style/css/Page Preview CSS.md",
     "002 meta/style/css/Properties CSS.md",
-    "020 areas/people/Bailey Belvis.md",
     "002 meta/style/css/Notebook Backgrounds CSS.md",
+    "002 meta/style/css/Page Preview CSS.md",
+    "002 meta/templates/Style Documentation Templates.md",
+    "020 areas/people/Bailey Belvis.md",
     "002 meta/style/css/Notebook Background CSS Class Hydration.md",
     "002 meta/style/css/MermaidJS CSS.md",
     "002 meta/style/css/Internal Link Style CSS.md",

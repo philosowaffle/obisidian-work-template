@@ -2,7 +2,7 @@
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
 Enabled: true
-Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\notebook-backgrounds.css
+Source File: .obsidian\snippets\notebook-backgrounds.css
 tags: [style/css]
 cssclasses:
 ---
@@ -10,7 +10,7 @@ cssclasses:
 
 Notebook Background Color Schemes by CyanVoxel v2.2.3
 
-- [Source 1](C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\notebook-backgrounds.css)
+- [Source 1](.obsidian\snippets\notebook-backgrounds.css)
 
 These a few CSS classes that mimic a few of my real-world pages and pen colors. Go ahead and try it out! You can change or add new color variables or entire new classes and combinations. 
 

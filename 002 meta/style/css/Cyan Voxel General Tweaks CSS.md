@@ -2,7 +2,7 @@
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
 Enabled: true
-Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\cyanvoxel-general-tweaks.css
+Source File: .obsidian\snippets\cyanvoxel-general-tweaks.css
 cssclasses:
   - center-images
   - center-tiles
@@ -12,7 +12,7 @@ tags: [style/css]
 ---
 # Cyan Voxel General Tweaks CSS
 
-[Source](C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\cyanvoxel-general-tweaks.css)
+[Source](.obsidian\snippets\cyanvoxel-general-tweaks.css)
 
 See [[Notebook Backgrounds CSS]] for more info on where this came from
 
