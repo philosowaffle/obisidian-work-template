@@ -1,6 +1,5 @@
 ---
-aliases:
-  - Meeting Note
+aliases: [Meeting Note]
 ---
 # Meeting Notes
 
@@ -18,12 +17,15 @@ There are currently three types of meeting notes:
 
 ### 🔍 Discovery
 
-- [[Meetings.base|Meetings Base]]
+- To browse all meetings across the vault use the [[Meetings.base|Meetings Base]]
+- On a given [[Project Notes|Project Note]] there is a `Meetings` tab where you can find all linked Meetings
+- On the [[Periodic Notes|Daily Note]] there is a `Meetings` tab where you can find all Meetings that happened on that day
 
 ### ✨Creating A New Generic Meeting
 
 1. If this meeting is related to an ongoing Project or other Note, then navigate to that Notes [[Log Sections|Log Section]] and place your cursor on a new log entry
 2. Use `ctrl+shft+n` to launch the [[QuickAdd Plugin]] Wizard
+	1. 🔥Or use slash command `/meeting`
 3. Choose `Meeting > Generic`
 4. Enter the name of the meeting, do not add `Meeting` to the end
 5. The meeting will be created in `040 archives/meetings` and a link to the note will be created at the current position of your cursor (see step 1)
@@ -31,6 +33,7 @@ There are currently three types of meeting notes:
 ### ✨Creating A New 1:1 Meeting
 
 1. Use `ctrl+shft+n` to launch the [[QuickAdd Plugin]] Wizard
+	1. 🔥Or use slash command `/meeting`
 2. Choose `Meeting > 1:1`
 3. Enter the first and last name of the person you are meeting with
 4. The meeting will be created in `050 gitignore/people/supplemental/1_1s`

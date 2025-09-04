@@ -14,6 +14,7 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 | Person    | A note representing a person                                                         | [[Person Notes]]   | `#person`   |
 | Plugin    | A Plugin note for documenting settings and other information about Obsidian Plugins. | [[Plugin Notes]]   | `#plugin`   |
 | Project   | A note representing a project or deliverable                                         | [[Project Notes]]  | `#project`  |
+| Resource  | A generic wiki style note capturing any information                                  | [[Resource Notes]] | none        |
 | Team      | A note representing a team of people                                                 | [[Team Notes]]     | `#team`     |
 
 ## ✨ Creating a New Note Type

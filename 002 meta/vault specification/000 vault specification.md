@@ -1,6 +1,6 @@
 # Vault Specification
 
-> [!info]-
+> [!info]
 > The standards and practices to follow for maintaining this vault.
 
 1. [[Creating Notes]]

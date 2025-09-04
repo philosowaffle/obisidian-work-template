@@ -18,6 +18,7 @@ Standard Icons used in this vault to represent certain ideas and concepts.
 | ⚽    | Team                         | soccer ball                  |
 | 📃   | Template, Code, Sample       | page with curl               |
 | 🧪   | Testing, Experiment          | test tube                    |
+| 🔥   | Tip                          | fire                         |
 | 🪟   | View, Dynamic View           | window                       |
 | ⚠️   | Warning, Caution, Dependency | warning                      |
 | 🔃   | Workflow                     | clockwise vertical arrows    |

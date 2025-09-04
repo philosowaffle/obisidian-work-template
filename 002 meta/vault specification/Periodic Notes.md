@@ -61,6 +61,7 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 - [[Calendar Plugin]]
 - [[Templater Plugin]]
 - [[Tasks Plugin]]
+- [[Pixel Banner Plugin]]
 - [[daily_note_template]]
 - [[weekly_note_template]]
 - [[monthly_note_template]]

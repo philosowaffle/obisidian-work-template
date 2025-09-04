@@ -23,7 +23,6 @@ If you plan to use this vault or adopt portions of this workflow then here is wh
 
 1. [[Vault Plugins#Initial Setup|Setup Plugins]]
 2. [[Vault Style#Initial Setup|Setup Style]]
-3. Use `ctrl+h` to launch the current Daily Note, this serves as your "homepage" each day
+3. Use `ctrl+h` to launch the current Daily Note, this serves as your "homepage" each day. There are other [[Periodic Notes]] you can leverage as well.
 4. Learn about different [[Note Types]]. You'll most often be using [[Project Notes]] and [[Meeting Notes]].
-5. Meetings / Projects / Periodics
-/meet
+5. Learn more about [[Creating Notes]]
