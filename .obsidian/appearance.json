@@ -8,7 +8,8 @@
     "mermaidjs_tweaks",
     "cyanvoxel-general-tweaks",
     "canvas_disable_grid_dots",
-    "properties"
+    "properties",
+    "hide-pane-scrollbars"
   ],
   "cssTheme": "Minimal"
 }

@@ -7,8 +7,16 @@ tags: [style/css]
 ---
 # Hide Pane Scrollbars CSS
 
-
+Hides the scroll bars on the left and right panes.
 
 ```css
-CSS Sample
+div.mod-left-split:not(.native-scrollbars) ::-webkit-scrollbar {
+width: 0px;
+    height: 0px;
+}
+
+div.mod-right-split:not(.native-scrollbars) ::-webkit-scrollbar {
+width: 0px;
+    height: 0px;
+}
 ```
