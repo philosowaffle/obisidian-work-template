@@ -1,7 +1,6 @@
 ---
 tags: [style/css]
-Enabled: ✔️
-Style File: hide_file_properties.css
+Enabled: true
 cssclasses:
   - HideProps
 Source File: .obsidian\snippets\hide_file_properties.css

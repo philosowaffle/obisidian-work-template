@@ -4,7 +4,7 @@ Navigate:
 Person Org:
 Person Title:
 Person Reports To:
-Person Team: "[[Sam]]"
+Person Team:
 Person Specialty:
 Person Time Zone: MST / MDT
 created: 2025-09-02 08:40

@@ -39,9 +39,9 @@ Bookmark: true
 - [x] re-organize Help Module ✅ 2025-09-03
 - [x] Apply Help module ✅ 2025-09-03
 - [ ] clean up 000 notes
-- [ ] clean up tags
-- [ ] clean up properties
+- [x] clean up tags ✅ 2025-09-04
+- [x] clean up properties ✅ 2025-09-04
 - [x] add calendar widget ✅ 2025-09-03
 - [x] rename bases to All ✅ 2025-09-03
 - [x] delete journal ✅ 2025-09-03
-- [ ] new canvases created in wrong spot
+- [x] new canvases created in wrong spot ✅ 2025-09-04

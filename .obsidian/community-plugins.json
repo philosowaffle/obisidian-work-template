@@ -16,5 +16,6 @@
   "multi-properties",
   "tag-wrangler",
   "obsidian-footnotes",
-  "url-into-selection"
+  "url-into-selection",
+  "find-unlinked-files"
 ]
