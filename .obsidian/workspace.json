@@ -13,12 +13,33 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/Style Documentation Templates.md",
+                "file": "002 meta/templates/Style Documentation Template.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Style Documentation Templates"
+              "title": "Style Documentation Template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4303792160ac65d1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "922a46f308bc04ef",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/style/css/Properties CSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Properties CSS"
             }
           }
         ]
@@ -130,7 +151,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.5
+    "width": 480.5
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -233,10 +254,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/style/css/Notebook Backgrounds CSS.md"
+                "file": "002 meta/style/css/Properties CSS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Notebook Backgrounds CSS"
+              "title": "File properties for Properties CSS"
             }
           }
         ],
@@ -252,7 +273,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/style/css/Notebook Backgrounds CSS.md",
+                "file": "002 meta/style/css/Properties CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -280,7 +301,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Notebook Backgrounds CSS"
+              "title": "Graph of Properties CSS"
             }
           }
         ]
@@ -307,12 +328,13 @@
       "periodic-notes:Open today": true
     }
   },
-  "active": "cd7b08c0552408cf",
+  "active": "922a46f308bc04ef",
   "lastOpenFiles": [
+    "002 meta/templates/Style Documentation Template.md",
     "002 meta/style/css/Properties CSS.md",
+    "002 meta/templates/codebase_template.md",
     "002 meta/style/css/Notebook Backgrounds CSS.md",
     "002 meta/style/css/Page Preview CSS.md",
-    "002 meta/templates/Style Documentation Templates.md",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/style/css/Notebook Background CSS Class Hydration.md",
     "002 meta/style/css/MermaidJS CSS.md",
@@ -340,7 +362,6 @@
     "002 meta/vault views/UI Modules/Help Module/Notes Help.md",
     "002 meta/vault views/UI Modules/Help Module/Style Help.md",
     "002 meta/style/themes/Minimal Theme.md",
-    "002 meta/style/themes/Theme Notes.md",
     "020 areas/people/People.base",
     "002 meta/templates/Templates.base",
     "002 meta/style/style previews/Style Previews.base",

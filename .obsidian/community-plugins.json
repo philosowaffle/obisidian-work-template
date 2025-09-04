@@ -7,7 +7,6 @@
   "nldates-obsidian",
   "calendar",
   "periodic-notes",
-  "url-into-selection",
   "obsidian-tasks-plugin",
   "dataview",
   "iconic",
@@ -16,5 +15,6 @@
   "tabs",
   "multi-properties",
   "tag-wrangler",
-  "obsidian-footnotes"
+  "obsidian-footnotes",
+  "url-into-selection"
 ]

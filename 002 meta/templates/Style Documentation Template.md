@@ -1,4 +1,4 @@
-<%
+<%*
 	let filename = await tp.system.prompt("CSS File Name:");
 %>---
 Navigate:
