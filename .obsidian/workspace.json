@@ -296,7 +296,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 336.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -319,14 +319,14 @@
   },
   "active": "db7d969f71196843",
   "lastOpenFiles": [
-    "002 meta/vault specification/Log Sections.md",
+    "README.md",
     "002 meta/vault specification/Vault Usage.md",
+    "002 meta/vault specification/Log Sections.md",
     "002 meta/vault specification/Periodic Notes.md",
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Resource Notes.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/style/Icons.md",
-    "README.md",
     "002 meta/vault specification/Project Notes.md",
     "002 meta/vault specification/Meeting Notes.md",
     "040 archives/meetings/2025/09/2025-09-04 Blah Meeting.md",

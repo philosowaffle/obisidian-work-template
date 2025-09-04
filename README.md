@@ -17,12 +17,4 @@ Additionally, you may want to consider using this vault with your favorite AI to
 
 ### Using the Vault
 
-If you plan to use this vault or adopt portions of this workflow then here is where you can start for a crash course.
-
-> [!warning] TODO
-
-1. [[Vault Plugins#Initial Setup|Setup Plugins]]
-2. [[Vault Style#Initial Setup|Setup Style]]
-3. Use `ctrl+h` to launch the current Daily Note, this serves as your "homepage" each day. There are other [[Periodic Notes]] you can leverage as well.
-4. Learn about different [[Note Types]]. You'll most often be using [[Project Notes]] and [[Meeting Notes]].
-5. Learn more about [[Creating Notes]]
+If you plan to use this vault or adopt portions of this workflow then start [[Vault Usage|here]].
