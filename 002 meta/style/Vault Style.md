@@ -12,15 +12,3 @@
 
 1. [[Custom CSS#Initial Setup|Custom CSS Initial Setup]]
 
-## Old
-
-### List Callouts
-
-- Here is a list
-	- !: warning
-	- !!: stronger warning
-	- !!!: danger
-	- Q: question
-	- A: answer
-	- &: decision
-	- %: these can be customized in settings

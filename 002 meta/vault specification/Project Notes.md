@@ -1,5 +1,7 @@
 ---
 aliases: [Project Note]
+cssclasses:
+  - HideProps
 ---
 # Project Notes
 

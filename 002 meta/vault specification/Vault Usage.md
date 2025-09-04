@@ -30,10 +30,12 @@ By linking information together across these core notes you will begin to build 
 
 1. [[Vault Plugins#Initial Setup|Setup Plugins]]
 2. [[Vault Style#Initial Setup|Setup Style]]
-3. Use `ctrl+h` to launch the current Daily Note, this serves as your "homepage" each day. There are other [[Periodic Notes]] you can leverage as well.
-4. Learn about different [[Note Types]]. You'll most often be using [[Project Notes]] and [[Meeting Notes]].
+3. Use `ctrl+h` to launch the current Daily Note
+4. Learn about different [[Note Types]]. 
 5. Checkout the [[000 Vault Specification|Vault Specification]] for a deeper dive on anything related to vault management
-6. If at anytime you get lost, look for the [[Help|Help Module]] pinned to the lower left of the screen[^3]
+
+> [!tip]
+> If at anytime you get lost, look for the [[Help|Help Module]] pinned to the lower left of the screen[^3]
 
 # ## Footnotes
 

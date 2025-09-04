@@ -1,5 +1,7 @@
 ---
 aliases: [Meeting Note]
+cssclasses:
+  - HideProps
 ---
 # Meeting Notes
 
