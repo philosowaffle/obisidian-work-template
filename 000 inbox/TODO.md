@@ -12,6 +12,8 @@ icon-text-vertical-offset: 0
 icon-rotate: 0
 icon-size: 56
 icon-y: -25
+icon-bg-color: ""
+icon-color: "#c0c7d3"
 ---
 # TODO
 

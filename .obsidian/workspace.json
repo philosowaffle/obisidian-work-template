@@ -13,13 +13,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "daily_note_template"
+            }
+          }
+        ]
+      },
+      {
+        "id": "72a231d543e98077",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c637ddd3cc4dd94",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "2025-09-04"
             }
           }
         ]
@@ -117,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for TODO"
+              "title": "Backlinks for daily_note_template"
             }
           },
           {
@@ -136,12 +157,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from TODO"
+              "title": "Outgoing links from daily_note_template"
             }
           },
           {
@@ -204,10 +225,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "000 inbox/TODO.md"
+                "file": "002 meta/templates/periodic/daily_note_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for TODO"
+              "title": "File properties for daily_note_template"
             }
           }
         ],
@@ -223,7 +244,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "000 inbox/TODO.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -251,7 +272,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of TODO"
+              "title": "Graph of daily_note_template"
             }
           }
         ]
@@ -281,9 +302,18 @@
   },
   "active": "b52ffe5be0989642",
   "lastOpenFiles": [
+    "001 attachments/Fall/jon-tyson-DwQVcudRcS8-unsplash.jpg",
+    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "001 attachments/Fall/monday-fall-banner.jpg",
+    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
+    "001 attachments/Fall",
+    "002 meta/plugins/plugins/Pixel Banner Plugin.md",
+    "002 meta/vault specification/Recurring Meetings.md",
+    "001 attachments/000 attachments.md",
     "001 attachments/campfire.svg",
-    "000 inbox/000 inbox.md",
     "000 inbox/TODO.md",
+    "000 inbox/000 inbox.md",
     "002 meta/vault specification/050 gitignore Specification.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "010 projects/000 projects.md",
@@ -292,7 +322,6 @@
     "020 areas/000 areas.md",
     "020 areas/teams/000 teams.md",
     "002 meta/Meta.md",
-    "001 attachments/000 attachments.md",
     "000 inbox/Drawing 2025-09-04 09.19.15.excalidraw.md",
     "002 meta/plugins/plugins/Find Orphaned Files and Broken Links Plugin.md",
     "000 inbox/Test.md",
@@ -302,11 +331,6 @@
     "002 meta/vault views/Broken Links Output.md",
     "002 meta/vault views/Empty Files.md",
     "002 meta/vault views/Orphaned Files Output.md",
-    "Broken Links Output.md",
-    "002 meta/vault specification/Todo Tasks.md",
-    "002 meta/vault specification/Folder Organization.md",
-    "002 meta/style/style previews/Default Style Preview.md",
-    "002 meta/style/css/Notebook Backgrounds CSS.md",
     "000 inbox/Untitled.canvas",
     "002 meta/vault views/Bases/Orphaned Image Report.base",
     "002 meta/vault views/Bases/Orphans.base",
@@ -317,7 +341,6 @@
     "050 gitignore/journal/2025/M09/W36",
     "050 gitignore/journal/2025/M09",
     "050 gitignore/journal/2025",
-    "020 areas/people/People.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",

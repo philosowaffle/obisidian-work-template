@@ -4,22 +4,48 @@
 	let tomorrow = now.clone().add(1, 'd').format("YYYY-MM-DD");
 	let today = now.clone().format('YYYY-MM-DD');
 	let todayWord = now.clone().format('dddd');
+	
 	let icon = '🪴';
-
+	let banner = "";
+	
 	const dow = now.clone().format("dd");
-	if (dow == 'Su') icon = '🌞';
-	if (dow == 'Mo') icon = '⛰️';
+	if (dow == 'Su')
+	{
+		icon = '🌞';
+	} 
+	if (dow == 'Mo')
+	{
+		icon = '⛰️';
+		banner = '001 attachments/Fall/monday-fall-banner.jpg'
+	} 
 	if (dow == 'Tu') icon = '🏃‍♀️‍➡️';
 	if (dow == 'We') icon = '🐫';
 	if (dow == 'Th') icon = '🥑';
 	if (dow == 'Fr') icon = '🚴‍♀️';
 	if (dow == 'Sa') icon = '🦕';
+
+	
+	
 %>---
 tags:
   - periodic/daily_note
 created: <% today %>
 cssclasses:
   - HideProps
+banner: <% banner %>
+banner-x: 52
+banner-y: 53
+pixel-banner-flag-color: white
+icon-image: 001 attachments/campfire.svg
+icon-x: 1
+icon: <% todayWord %>
+icon-font-weight: bold
+icon-text-vertical-offset: 0
+icon-rotate: 0
+icon-size: 56
+icon-y: -25
+icon-bg-color: ""
+icon-color: "#c0c7d3"
 ---
 # <% icon %> <% todayWord %>
 [[<% yesterday %>|<< <% yesterday %>]] | <% today %> | [[<% tomorrow %>|<% tomorrow %> >>]] 
