@@ -7,9 +7,9 @@ Navigate:
 
 Custom Task definition is provided by the [[Tasks Plugin]]. The chosen theme is responsible for styling the custom tasks differently.
 
-- [ ] #task `space` Unchecked #ignore
-- [x] #task `x` Checked #ignore
-- [-] #task `-` Cancelled #ignore
+- [ ] #task `space` Unchecked #task/ignore
+- [x] #task `x` Checked #task/ignore
+- [-] #task `-` Cancelled #task/ignore
 
 **Non_Tasks**
 - [>] #task `>` Rescheduled

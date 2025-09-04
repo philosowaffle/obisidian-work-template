@@ -7,7 +7,8 @@
     "notebook-backgrounds",
     "mermaidjs_tweaks",
     "cyanvoxel-general-tweaks",
-    "canvas_disable_grid_dots"
+    "canvas_disable_grid_dots",
+    "properties"
   ],
   "cssTheme": "Minimal"
 }

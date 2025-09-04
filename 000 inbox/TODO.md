@@ -23,7 +23,7 @@ Bookmark: true
 - [x] Clean up and or test all Quick adds ✅ 2025-09-03
 - [x] Custom CSS ✅ 2025-09-03
 - [ ] Setup Excalidraw explaining how to use the vault
-- [ ] Clean up left hand ribbon
+- [x] Clean up left hand ribbon ✅ 2025-09-04
 - [ ] Install a theme
 - [ ] Check for Broken Links (install plugin?)
 - [ ] Delete From Work
