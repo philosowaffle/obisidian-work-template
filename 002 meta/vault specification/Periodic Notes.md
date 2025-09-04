@@ -1,3 +1,6 @@
+---
+aliases: [Daily Note]
+---
 # Periodic Notes
 
 There are several types of supported Periodic Notes, all of which follow the same general structure.

@@ -1,3 +1,6 @@
+---
+aliases: [Log Section]
+---
 # Log Sections
 
 1. A Note *may* contain a log section

@@ -1,3 +1,6 @@
+---
+aliases: [Note Type]
+---
 # Note Types
 
 "Note Types" describe the different categories of notes that are created in the vault. These types can be used to help create filtered views, queries, and bases focusing on only certain categories.
