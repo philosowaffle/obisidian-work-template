@@ -16,10 +16,13 @@ The above don't quite cover all of [LATCH](https://www.davisandco.com/blog/need
 1. Notes app
     1. Do I think I know the name of an existing relevant note?
         1. Yes → Go to that note → done
+        2. 🔥Use `ctrl+t` ([[Shortcuts|shortcuts]]) to launch `Go To`
     2. Do a global search for relevant keywords and phrases?
         1. Found Results → done
+        2. 🔥Use `ctrl + shft + f`
     3. Do I remember about when I would have written it down?
         1. Yes → Look at notes created or edited around that time frame (log section on Projects is also really helpful for this)
+        2. 🔥Either trying searching for a specific date, or use the Calendar plugin to view all notes connected to a particular daily note
     4. Do I remember what type of note I may have written?
         1. Yes → Look through tags for that category of note
     5. If all of this fails, and I think this information is worth knowing for next time, then create a new note

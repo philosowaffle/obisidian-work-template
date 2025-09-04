@@ -22,15 +22,14 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 4. Vault configuration *may* be documented here
 5. Additional content, config, or rules that make the vault work *may* be placed here
 
+[[Meta|Read more...]]
+
 > [!info]
 > Documenting your note taking process may seem like a waste of time, but I think it satisfies one of my guiding principles: "*A notes system should be simple enough to empower you, not inhibit you."*
 > 
 > If your system is so complicated that you are overwhelmed by the idea of writing it down, then that's a red flag. If your system is so simple that you can't imagine why you'd need to write it down, then what's the harm in documenting it? Should take 5min.
 > 
 > I think there's a lot of value in trying to concretely describe how and why you do something. It can be very revealing as in introspective exercise and you might be surprised at what you find when you start retro-ing on your own perception of things.
-
-> [!tip]
-> [[Meta|Read more...]]
 
 ## 010 Projects
 
@@ -40,9 +39,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 4. Upon completion, content **must** be organized to either [020 areas](#020%20areas), [030 resources](#030%20resources), or [040 archives](#040%20archives).
 
 > [!info]
-> The projects folder is definitely where I spend most of my time. Many of the projects I work on fall into one of three Categories so I like to organize them as such in sub folders. I have a template I use for these project notes that I'm continuing to iterate on, but I'll cover that in more detail in a later section.
-> 
-> The point of this folder is to always have quick access to the things I am currently, actively, responsible for in some fashion. "Responsible for" can be fairly broad, but generally if anything I work on is expected to take more than a day AND I expect someone will be asking me follow up questions about it, it get's a project note.
+> The point of this folder is to always have quick access to the things I am currently, actively responsible for in some fashion. "Responsible for" can be fairly broad, but generally if anything I work on is expected to take more than a day AND I expect someone will be asking me follow up questions about it, it get's a project note.
 > 
 > When a project is no longer active it leaves this folder and moves to the Archives folder. Sometimes, as a preliminary step I may refactor some information out to Resource notes. For example, if the project was to create a net new feature or to enhance an existing feature, I may go create a dedicated resource note for that Feature or update the existing one with information from this project before I archive the project.
 
@@ -74,3 +71,20 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 ## 050 Gitignore
 
 1. Any content that should not be made publicly available and checked into git
+
+**Folder Structure:**
+
+```
+- journal/
+	- YYYY
+		- MM
+			- WW
+				- DD (YYYY-MM-DD)
+				- Weekly (YYYY-W##)
+			- Monthly (YYYY-M##)
+		- Yearly (YYYY)
+- people/
+	  - supplemental
+		- 1_1s
+	  - performance reviews 
+```
