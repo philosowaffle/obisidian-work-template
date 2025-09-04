@@ -1,4 +1,5 @@
 {
-  "minimal-style@@h1-color@@light": "#FFFFFF",
-  "minimal-style@@h1-l": true
+  "minimal-style@@h1-l": true,
+  "minimal-style@@h1-color@@dark": "#FFFFFF",
+  "minimal-style@@h1-color@@light": "#000000"
 }
