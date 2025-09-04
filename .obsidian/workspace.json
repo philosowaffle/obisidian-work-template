@@ -23,6 +23,27 @@
             }
           }
         ]
+      },
+      {
+        "id": "4590f9df25088a6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d86f3718103bf1a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Hide Pane Scrollbars CSS"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -34,7 +55,7 @@
       {
         "id": "2812962695a6263a",
         "type": "tabs",
-        "dimension": 69.12607449856733,
+        "dimension": 67.69340974212035,
         "children": [
           {
             "id": "098277fef74146a2",
@@ -81,7 +102,7 @@
       {
         "id": "5c34f6fda8718076",
         "type": "tabs",
-        "dimension": 16.54727793696275,
+        "dimension": 17.979942693409743,
         "children": [
           {
             "id": "ccdc9a198f519fcd",
@@ -89,13 +110,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Hide Pane Scrollbars CSS"
             }
           }
         ]
@@ -124,7 +145,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 318.5
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -174,7 +195,8 @@
               "title": "All properties"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "20019afc787ddffc",
@@ -187,7 +209,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -197,7 +219,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Hide Pane Scrollbars CSS"
             }
           },
           {
@@ -206,12 +228,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from README"
+              "title": "Outgoing links from Hide Pane Scrollbars CSS"
             }
           },
           {
@@ -220,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Hide Pane Scrollbars CSS"
             }
           }
         ],
@@ -240,7 +262,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/style/css/Hide Pane Scrollbars CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -268,7 +290,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Hide Pane Scrollbars CSS"
             }
           }
         ]
@@ -296,8 +318,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "5060bc45811f1a94",
+  "active": "d86f3718103bf1a3",
   "lastOpenFiles": [
+    "README.md",
+    "002 meta/style/css/Hide Pane Scrollbars CSS.md",
+    "002 meta/vault specification/Vault Usage.md",
     "002 meta/plugins/plugins/Settings Search Plugin.md",
     "000 inbox/TODO.md",
     "New folder",
@@ -310,7 +335,6 @@
     "002 meta/vault views/Vault Views.md",
     "002 meta/vault views/Orphaned Files Output.md",
     "002 meta/vault views/Broken Links Output.md",
-    "002 meta/vault specification/Vault Usage.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Team Notes.md",
     "002 meta/vault specification/Shortcuts.md",
@@ -324,8 +348,6 @@
     "002 meta/vault specification/Note Properties.md",
     "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Meeting Notes.md",
-    "002 meta/vault specification/Log Sections.md",
-    "002 meta/vault specification/Folder Organization.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "010 projects/My THing",

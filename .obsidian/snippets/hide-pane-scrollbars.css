@@ -1,0 +1,8 @@
+div.mod-left-split:not(.native-scrollbars) ::-webkit-scrollbar {
+width: 0px;
+    height: 0px;
+}
+div.mod-right-split:not(.native-scrollbars) ::-webkit-scrollbar {
+width: 0px;
+    height: 0px;
+}
