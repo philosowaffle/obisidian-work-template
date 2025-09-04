@@ -13,12 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "020 areas/people/Bailey Belvis.md",
+                "file": "002 meta/templates/Style Documentation Templates.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "Bailey Belvis"
+              "title": "Style Documentation Templates"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4995b5ad6b2b2711",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd7b08c0552408cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/style/css/Page Preview CSS.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Page Preview CSS"
             }
           }
         ]
@@ -203,10 +233,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "020 areas/people/Bailey Belvis.md"
+                "file": "002 meta/style/css/Page Preview CSS.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Bailey Belvis"
+              "title": "File properties for Page Preview CSS"
             }
           }
         ],
@@ -222,7 +252,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "020 areas/people/Bailey Belvis.md",
+                "file": "002 meta/style/css/Page Preview CSS.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -250,7 +280,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Bailey Belvis"
+              "title": "Graph of Page Preview CSS"
             }
           }
         ]
@@ -277,8 +307,20 @@
       "periodic-notes:Open today": true
     }
   },
-  "active": "098277fef74146a2",
+  "active": "cd7b08c0552408cf",
   "lastOpenFiles": [
+    "002 meta/templates/Style Documentation Templates.md",
+    "002 meta/style/css/Page Preview CSS.md",
+    "002 meta/style/css/Properties CSS.md",
+    "020 areas/people/Bailey Belvis.md",
+    "002 meta/style/css/Notebook Backgrounds CSS.md",
+    "002 meta/style/css/Notebook Background CSS Class Hydration.md",
+    "002 meta/style/css/MermaidJS CSS.md",
+    "002 meta/style/css/Internal Link Style CSS.md",
+    "002 meta/style/css/Hide File Properties CSS.md",
+    "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
+    "002 meta/style/css/Custom CSS.md",
+    "000 inbox/Orphaned Image Report.base",
     "000 inbox/Test.md",
     "002 meta/style/style previews/Tasks Style Preview.md",
     "000 inbox/TODO.md",
@@ -299,22 +341,10 @@
     "002 meta/vault views/UI Modules/Help Module/Style Help.md",
     "002 meta/style/themes/Minimal Theme.md",
     "002 meta/style/themes/Theme Notes.md",
-    "002 meta/plugins/plugins/Tasks Plugin.md",
-    "002 meta/vault specification/Person Notes.md",
     "020 areas/people/People.base",
-    "002 meta/vault specification/Project Notes.md",
-    "020 areas/people/Bailey Belvis.md",
-    "002 meta/vault specification/Periodic Notes.md",
-    "README.md",
-    "020 areas/codebases/Some Api.md",
-    "020 areas/teams/Bob.md",
-    "030 resources/My First Feature.md",
-    "030 resources/Another thing Feature.md",
     "002 meta/templates/Templates.base",
     "002 meta/style/style previews/Style Previews.base",
     "002 meta/vault data/recurring tasks/Recurring Tasks.base",
-    "040 archives/meetings/Meetings.base",
-    "002 meta/vault specification/Note Types.md",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",

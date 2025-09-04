@@ -1,8 +1,8 @@
 ---
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
-Enabled: ✔️
-Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\page_preview.css
+Enabled: true
+Source File: (page_preview.css)[C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\page_preview.css]
 tags: [style/css]
 ---
 # Page Preview CSS

@@ -1,7 +1,7 @@
 ---
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
-Enabled: ✔️
+Enabled: true
 Source File: C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\cyanvoxel-general-tweaks.css
 cssclasses:
   - center-images
