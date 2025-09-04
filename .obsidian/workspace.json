@@ -36,7 +36,7 @@
               "state": {
                 "file": "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
@@ -302,9 +302,14 @@
   },
   "active": "b52ffe5be0989642",
   "lastOpenFiles": [
-    "001 attachments/Fall/jon-tyson-DwQVcudRcS8-unsplash.jpg",
-    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+    "001 attachments/default-banner.jpg",
     "002 meta/templates/periodic/daily_note_template.md",
+    "001 attachments/Fall/thursday-fall-banner.jpg",
+    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
+    "001 attachments/Fall/friday-fall-banner.jpg",
+    "001 attachments/Fall/wednesday-fall-banner.jpg",
+    "001 attachments/pine tree.png",
+    "001 attachments/Fall/tuesday-fall-banner.jpg",
     "001 attachments/Fall/monday-fall-banner.jpg",
     "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
     "001 attachments/Fall",

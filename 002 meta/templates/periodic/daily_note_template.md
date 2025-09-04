@@ -7,24 +7,43 @@
 	
 	let icon = '🪴';
 	let banner = "";
+	let banner_icon = '001 attachments/campfire.svg'
 	
 	const dow = now.clone().format("dd");
 	if (dow == 'Su')
 	{
 		icon = '🌞';
+		banner = '001 attachments/default-banner.jpg'
 	} 
 	if (dow == 'Mo')
 	{
 		icon = '⛰️';
 		banner = '001 attachments/Fall/monday-fall-banner.jpg'
 	} 
-	if (dow == 'Tu') icon = '🏃‍♀️‍➡️';
-	if (dow == 'We') icon = '🐫';
-	if (dow == 'Th') icon = '🥑';
-	if (dow == 'Fr') icon = '🚴‍♀️';
-	if (dow == 'Sa') icon = '🦕';
-
-	
+	if (dow == 'Tu')
+	{
+		icon = '🏃‍♀️‍➡️';
+		banner = '001 attachments/Fall/tuesday-fall-banner.jpg'
+	} 
+	if (dow == 'We')
+	{
+		icon = '🐫';
+		banner = '001 attachments/Fall/wednesday-fall-banner.jpg'
+	} 
+	if (dow == 'Th')
+	{
+		icon = '🥑';
+		banner = '001 attachments/Fall/thursday-fall-banner.jpg'
+	} 
+	if (dow == 'Fr')
+	{
+		icon = '🚴‍♀️';
+		banner = '001 attachments/Fall/friday-fall-banner.jpg'
+	} 
+	if (dow == 'Sa')
+	{
+		icon = '🦕';
+	} 
 	
 %>---
 tags:
@@ -36,7 +55,7 @@ banner: <% banner %>
 banner-x: 52
 banner-y: 53
 pixel-banner-flag-color: white
-icon-image: 001 attachments/campfire.svg
+icon-image: <% banner_icon %>
 icon-x: 1
 icon: <% todayWord %>
 icon-font-weight: bold
