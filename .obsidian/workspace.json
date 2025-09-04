@@ -49,13 +49,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/plugins/plugins/Style Settings Plugin.md",
+                "file": "002 meta/style/themes/Minimal Theme.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Style Settings Plugin"
+              "title": "Minimal Theme"
             }
           }
         ],
@@ -128,7 +128,8 @@
               "state": {
                 "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
                 "mode": "source",
-                "source": false
+                "source": false,
+                "backlinks": false
               },
               "icon": "lucide-file",
               "title": "Help"
@@ -154,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/plugins/plugins/Style Settings Plugin.md",
+                "file": "002 meta/style/themes/Minimal Theme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -164,7 +165,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Style Settings Plugin"
+              "title": "Backlinks for Minimal Theme"
             }
           },
           {
@@ -173,12 +174,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 meta/plugins/plugins/Style Settings Plugin.md",
+                "file": "002 meta/style/themes/Minimal Theme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Style Settings Plugin"
+              "title": "Outgoing links from Minimal Theme"
             }
           },
           {
@@ -241,10 +242,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/plugins/plugins/Style Settings Plugin.md"
+                "file": "002 meta/style/themes/Minimal Theme.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Style Settings Plugin"
+              "title": "File properties for Minimal Theme"
             }
           }
         ],
@@ -260,7 +261,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/plugins/Style Settings Plugin.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -288,14 +289,14 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Style Settings Plugin"
+              "title": "Graph of Default Style Preview"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 476.5
+    "width": 313.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -312,16 +313,16 @@
       "templater-obsidian:Templater": true,
       "iconic:Open rulebook": true,
       "obsidian-git:Open Git source control": true,
-      "periodic-notes:Open today": true,
-      "pexels-banner:🚩 Pixel Banner Menu": false
+      "pexels-banner:🚩 Pixel Banner Menu": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "7df0bc3407654eda",
+  "active": "b52ffe5be0989642",
   "lastOpenFiles": [
     "002 meta/style/themes/Minimal Theme.md",
+    "002 meta/style/style previews/Default Style Preview.md",
     "002 meta/plugins/plugins/Style Settings Plugin.md",
     "002 meta/plugins/plugins/Minimal Theme Settings Plugin.md",
-    "002 meta/style/style previews/Default Style Preview.md",
     "002 meta/style/style previews/Style Previews.base",
     "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
     "002 meta/plugins/Plugins.base",

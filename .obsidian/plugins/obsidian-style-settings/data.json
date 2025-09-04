@@ -1,5 +1,15 @@
 {
   "minimal-style@@h1-l": true,
   "minimal-style@@h1-color@@dark": "#FFFFFF",
-  "minimal-style@@h1-color@@light": "#000000"
+  "minimal-style@@h1-color@@light": "#000000",
+  "minimal-style@@row-lines": false,
+  "minimal-style@@col-lines": false,
+  "minimal-style@@table-lines": true,
+  "minimal-style@@row-alt": true,
+  "minimal-style@@col-alt": false,
+  "minimal-style@@table-numbers": false,
+  "minimal-style@@table-center": true,
+  "minimal-style@@ribbon-style": "ribbon-hidden",
+  "minimal-style@@tag-radius": "4px",
+  "minimal-style@@tag-border-width": "1px"
 }
