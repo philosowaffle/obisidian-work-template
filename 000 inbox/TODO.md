@@ -1,5 +1,17 @@
 ---
 Bookmark: true
+banner: https://images.unsplash.com/photo-1508255139162-e1f7b7288ab7?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D
+banner-x: 52
+banner-y: 53
+pixel-banner-flag-color: white
+icon-image: 001 attachments/campfire.svg
+icon-x: 1
+icon: My Todo Note
+icon-font-weight: bold
+icon-text-vertical-offset: 0
+icon-rotate: 0
+icon-size: 56
+icon-y: -25
 ---
 # TODO
 

@@ -275,12 +275,15 @@
       "templater-obsidian:Templater": true,
       "iconic:Open rulebook": true,
       "obsidian-git:Open Git source control": true,
-      "periodic-notes:Open today": true
+      "periodic-notes:Open today": true,
+      "pexels-banner:🚩 Pixel Banner Menu": false
     }
   },
   "active": "b52ffe5be0989642",
   "lastOpenFiles": [
+    "001 attachments/campfire.svg",
     "000 inbox/000 inbox.md",
+    "000 inbox/TODO.md",
     "002 meta/vault specification/050 gitignore Specification.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "010 projects/000 projects.md",
@@ -290,7 +293,6 @@
     "020 areas/teams/000 teams.md",
     "002 meta/Meta.md",
     "001 attachments/000 attachments.md",
-    "000 inbox/TODO.md",
     "000 inbox/Drawing 2025-09-04 09.19.15.excalidraw.md",
     "002 meta/plugins/plugins/Find Orphaned Files and Broken Links Plugin.md",
     "000 inbox/Test.md",
@@ -306,7 +308,6 @@
     "002 meta/style/style previews/Default Style Preview.md",
     "002 meta/style/css/Notebook Backgrounds CSS.md",
     "000 inbox/Untitled.canvas",
-    "002 meta/style/css/Hide File Properties CSS.md",
     "002 meta/vault views/Bases/Orphaned Image Report.base",
     "002 meta/vault views/Bases/Orphans.base",
     "002 meta/templates/style",
