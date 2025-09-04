@@ -2,7 +2,7 @@
 
 	let filename = tp.file.title;
 	let icon = "📦";
-	let tag = "#project/" + filename.replaceAll(" Project", "").replaceAll(" ", "_").replaceAll(".", "_").replaceAll("-", "").replaceAll("+", "_").toLowerCase();
+	let tag = "project/" + filename.replaceAll(" Project", "").replaceAll(" ", "_").replaceAll(".", "_").replaceAll("-", "").replaceAll("+", "_").toLowerCase();
 
 %>---
 Description: 
@@ -11,8 +11,7 @@ Project Status: In Progress
 created: <% tp.file.creation_date() %>
 archived:
 Project Stakeholders:
-tags:
-  - <% tag %>
+tags: <% tag %>
 Navigate:
   - "[[Projects.base|Got to all Projects]]"
 ---

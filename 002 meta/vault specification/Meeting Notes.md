@@ -1,6 +1,10 @@
+---
+aliases:
+  - Meeting Note
+---
 # Meeting Notes
 
- Individual note files are created for each Meeting. This is primarily to help keep Project notes shorter and notes in general more atomic.
+ Individual note files are created for each Meeting. This is primarily to help keep [[Project Notes]] shorter and notes in general more atomic.
 
 There are currently three types of meeting notes:
 

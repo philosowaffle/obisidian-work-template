@@ -402,7 +402,7 @@
           "setFileExistsBehavior": false
         }
       ],
-      "collapsed": false
+      "collapsed": true
     }
   ],
   "inputPrompt": "single-line",

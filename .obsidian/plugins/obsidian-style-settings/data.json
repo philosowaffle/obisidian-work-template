@@ -8,7 +8,7 @@
   "minimal-style@@row-alt": true,
   "minimal-style@@col-alt": false,
   "minimal-style@@table-numbers": false,
-  "minimal-style@@table-center": true,
+  "minimal-style@@table-center": false,
   "minimal-style@@ribbon-style": "ribbon-hidden",
   "minimal-style@@tag-radius": "4px",
   "minimal-style@@tag-border-width": "1px",
