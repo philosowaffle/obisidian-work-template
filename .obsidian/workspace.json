@@ -11,39 +11,47 @@
             "id": "b52ffe5be0989642",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "002 meta/plugins/Plugins.base",
+                "viewName": "Vault Management Plugins"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-table",
+              "title": "Plugins"
             }
-          }
-        ]
-      },
-      {
-        "id": "28ce9bf543069c85",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "db7d969f71196843",
+            "id": "f0222854b73a43cd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/vault views/Broken Links Output.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vault Usage"
+              "title": "Broken Links Output"
+            }
+          },
+          {
+            "id": "ee3cf3b9546cc54a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "002 meta/style/style previews/Default Style Preview.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Default Style Preview"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,13 +118,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vault Usage"
+              "title": "Outline of Default Style Preview"
             }
           }
         ]
@@ -145,7 +153,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 371.5
   },
   "right": {
     "id": "e25d53b9e509d204",
@@ -208,7 +216,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -218,7 +226,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vault Usage"
+              "title": "Backlinks for Default Style Preview"
             }
           },
           {
@@ -227,12 +235,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Vault Usage"
+              "title": "Outgoing links from Default Style Preview"
             }
           },
           {
@@ -241,10 +249,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md"
+                "file": "002 meta/style/style previews/Default Style Preview.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Vault Usage"
+              "title": "File properties for Default Style Preview"
             }
           }
         ],
@@ -261,7 +269,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Default Style Preview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -289,7 +297,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vault Usage"
+              "title": "Graph of Default Style Preview"
             }
           }
         ]
@@ -317,17 +325,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "db7d969f71196843",
+  "active": "ee3cf3b9546cc54a",
   "lastOpenFiles": [
+    "002 meta/vault views/Orphaned Files Output.md",
+    "002 meta/vault views/Broken Links Output.md",
+    "002 meta/plugins/Plugins.base",
+    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
     "README.md",
+    "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/vault specification/Vault Usage.md",
+    "002 meta/vault views/UI Modules/Help Module/Help.md",
+    "002 meta/vault specification/Project Notes.md",
     "002 meta/vault specification/Log Sections.md",
     "002 meta/vault specification/Periodic Notes.md",
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Resource Notes.md",
-    "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/style/Icons.md",
-    "002 meta/vault specification/Project Notes.md",
     "002 meta/vault specification/Meeting Notes.md",
     "040 archives/meetings/2025/09/2025-09-04 Blah Meeting.md",
     "040 archives/meetings/2025/09",
@@ -338,19 +351,14 @@
     "010 projects/My Thing/My Thing Project.md",
     "010 projects/My Thing",
     "002 meta/templates/periodic/daily_note_template.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-04.md",
     "002 meta/style/css/Custom CSS.md",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/style/css/Canvas Disable Grid Dots CSS.md",
     "002 meta/plugins/Vault Plugins.md",
-    "002 meta/plugins/Plugins.base",
     "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Folder Organization.md",
     "002 meta/vault specification/050 gitignore Specification.md",
     "000 inbox/TODO.md",
-    "000 inbox/000 inbox.md",
-    "020 areas/people/Bailey Belvis.md",
-    "050 gitignore/journal/2025/M09/W36/2025-09-03.md",
     "002 meta/style/style previews/Style Previews.base",
     "001 attachments/Fall/monday-fall-banner.jpg",
     "001 attachments/default-banner.jpg",
