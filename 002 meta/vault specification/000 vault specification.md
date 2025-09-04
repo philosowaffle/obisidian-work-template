@@ -21,14 +21,6 @@
 
 ### Previous Plugins
 
-#### Broken Links
-
-Helps identify broken links. Have it pinned in right side bar.
-
-#### Copy as HTML
-
-Have this bound to `Cmd+Shft+C`. This solves the problem of copying out of obisdian over to slack or Jira where the formatting gets completely lost. 
-
 #### 🧪 Day Planner
 
 [Repo](https://github.com/ivan-lednev/obsidian-day-planner?tab=readme-ov-file#where-to-get-a-google-calendar-link)
@@ -42,10 +34,6 @@ Adds callout highlighting to a list item based on the first character.
 #### Meta Bind
 
 Provides inline UI elements that are directly bound to file properties.
-
-#### Obsidian Broken Links
-
-Useful for auditing broken links in the vault.
 
 #### Obsidian Web Clipper
 
@@ -73,10 +61,6 @@ limit: 50
 columns: KEY, SUMMARY, TYPE, UPDATED, STATUS, ASSIGNEE, FIX_VERSIONS, NOTES, 
 query: "Epic Link" in (PRODUCT-2458) and Project not in (PRODUCT) ORDER BY Project, status DESC, Rank
 ```
-
-#### Style Setttings
-
-Advanced style settings that work with many community Themes.
 
 #### Various Complements
 

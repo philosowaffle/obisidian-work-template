@@ -18,20 +18,7 @@
 tags:
   - meeting/recurring/<meeting_name>
 ---
-<%* 
-	let filename = tp.file.title;
-%># 📆 🔄 <%filename%>
-**Description:** 
-**People:** 
-**Parent:** 
-
-## 🔮 Outcomes
-
-
-## 📢 Agenda
-<%tp.file.cursor()%>
-
-## ✍ Notes
+// use rest of template from Generic Meeting
 
 
 ```
@@ -41,7 +28,7 @@ tags:
 ```
 # <Meeting Name>
 > [!info]-
-> Weekly sync owned by [Anu](../People%20🧑‍🤝‍🧑/Anu%20Gandhi.md).
+> Weekly sync owned by [Person].
 > I setup a weekly meeting for us to talk about any subjects that are important. I'll send an agenda ahead of time. And cancel if we don't need it.
 
 ```dataview

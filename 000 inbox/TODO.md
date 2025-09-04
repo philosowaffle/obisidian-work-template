@@ -36,12 +36,12 @@ icon-color: "#c0c7d3"
 - [x] Finish Plugin Note ✅ 2025-09-02
 - [x] Clean up and or test all Quick adds ✅ 2025-09-03
 - [x] Custom CSS ✅ 2025-09-03
-- [ ] Setup Excalidraw explaining how to use the vault
+- [x] Setup Excalidraw explaining how to use the vault ✅ 2025-09-04
 - [x] Clean up left hand ribbon ✅ 2025-09-04
 - [x] Install a theme ✅ 2025-09-04
 - [x] Check for Broken Links (install plugin?) ✅ 2025-09-04
 - [ ] Delete From Work
-- [ ] turn off vault management plugins
+- [x] turn off vault management plugins ✅ 2025-09-04
 - [x] Delete meetings ✅ 2025-09-03
 - [x] delete people supplemental ✅ 2025-09-03
 - [x] delete codebases ✅ 2025-09-03

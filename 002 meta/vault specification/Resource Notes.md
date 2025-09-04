@@ -1,5 +1,7 @@
 ---
 aliases: [Resource Note]
+cssclasses:
+  - HideProps
 ---
 # Resource Notes
 

@@ -1,5 +1,7 @@
 ---
-aliases: [Daily Note]
+aliases: [Daily Note, Daily Notes]
+cssclasses:
+  - HideProps
 ---
 # Periodic Notes
 

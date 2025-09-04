@@ -1,5 +1,7 @@
 ---
 aliases: [Note Type]
+cssclasses:
+  - HideProps
 ---
 # Note Types
 
