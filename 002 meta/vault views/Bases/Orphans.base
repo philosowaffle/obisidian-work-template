@@ -1,0 +1,9 @@
+views:
+  - type: table
+    name: Attachments
+    filters:
+      and:
+        - file.folder.startsWith("001 attachments")
+    sort:
+      - property: file.name
+        direction: ASC

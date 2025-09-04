@@ -12,8 +12,6 @@ tags: [style/css]
 ---
 # Cyan Voxel General Tweaks CSS
 
-[Source](.obsidian\snippets\cyanvoxel-general-tweaks.css)
-
 See [[Notebook Backgrounds CSS]] for more info on where this came from
 
 - image-borders

@@ -10,8 +10,6 @@ cssclasses:
 
 Notebook Background Color Schemes by CyanVoxel v2.2.3
 
-- [Source 1](.obsidian\snippets\notebook-backgrounds.css)
-
 These a few CSS classes that mimic a few of my real-world pages and pen colors. Go ahead and try it out! You can change or add new color variables or entire new classes and combinations. 
 
 Inside Obsidian, apply a page class with an optional pen color class to see the effects. Add the recolor-images class to recolor the images in your notes, too!

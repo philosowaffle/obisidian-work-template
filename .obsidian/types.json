@@ -37,6 +37,7 @@
     "archived": "datetime",
     "Project Stakeholders": "multitext",
     "Enabled": "checkbox",
-    "Bookmark": "checkbox"
+    "Bookmark": "checkbox",
+    "created": "datetime"
   }
 }

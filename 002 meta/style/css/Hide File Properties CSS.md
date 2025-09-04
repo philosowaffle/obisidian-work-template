@@ -10,8 +10,6 @@ Navigate:
 ---
 # Hide File Properties CSS
 
-[Source File](.obsidian\snippets\hide_file_properties.css)
-
 By default File Properties will show in files. To hide properties, add a property `cssclasses: HideProps`.
 
 Helpful snippets:

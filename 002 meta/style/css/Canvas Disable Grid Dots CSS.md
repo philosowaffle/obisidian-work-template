@@ -7,6 +7,4 @@ tags: [style/css]
 ---
 # Canvas Disable Grid Dots CSS
 
-[Source](.obsidian\snippets\canvas_disable_grid_dots.css)
-
 Disable background grid dots on canvas.

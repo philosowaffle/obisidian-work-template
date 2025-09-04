@@ -7,8 +7,6 @@ tags: [style/css]
 ---
 # Internal Link Style CSS
 
-[Source File](file:///C:/Users/baile/SourceControl/obisidian-work-template/.obsidian/snippets/remove_link_underline.css)
-
 - Internal links have underline
 - External links have no underline
 

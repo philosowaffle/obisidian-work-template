@@ -7,8 +7,6 @@ Enabled: true
 ---
 # MermaidJS CSS
 
-[Source](.obsidian\snippets\mermaidjs_tweaks.css)
-
 ```mermaid
 pie title NETFLIX
          "Time spent looking for movie" : 90
