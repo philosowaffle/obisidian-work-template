@@ -29,4 +29,4 @@ Provided by Theme configuration.
 
 Provided by `remove_link_underline.css`
 
-[preview example](vault%20plugins/plugins.md)
+![[Internal Link Style CSS#Example]]

@@ -13,7 +13,9 @@
   "ignoreDirectories": true,
   "unresolvedLinksIgnoreDirectories": true,
   "unresolvedLinksOutputFileName": "Broken Links Output",
-  "unresolvedLinksDirectoriesToIgnore": [],
+  "unresolvedLinksDirectoriesToIgnore": [
+    "002 meta/templates/"
+  ],
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],
   "unresolvedLinksLinksToIgnore": [],

@@ -36,9 +36,7 @@ Testing out for visually time blocking my day, especially for cases where I don'
 
 #### 🧪 List Callouts
 
-Adds callout highlighting to a list item based on the first character. See [list callouts](Style%20Preview.md#list%20callouts) style guide.
-
-![list callouts](Style%20Preview.md#list%20callouts)
+Adds callout highlighting to a list item based on the first character. 
 
 #### Meta Bind
 
@@ -81,7 +79,7 @@ Advanced style settings that work with many community Themes.
 
 #### Various Complements
 
-Used for auto-complete. Can provide custom dictionary entries in [dictionary](dictionary.md).
+Used for auto-complete. Can provide custom dictionary entries in dictionary.
 
 ### In Progress
 

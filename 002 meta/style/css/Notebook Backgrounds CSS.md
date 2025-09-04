@@ -42,4 +42,4 @@ https://angel-rs.github.io/css-color-filter-generator
 
 ## Related
 
-[Notebook Backgrounds CSS Class Hydration](Notebook%20Backgrounds%20CSS%20Class%20Hydration.md)
+[[Notebook Background CSS Class Hydration]]

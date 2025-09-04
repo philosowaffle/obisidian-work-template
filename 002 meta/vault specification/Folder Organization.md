@@ -34,7 +34,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 
 ## 010 Projects
 
-1. Active [Project Note](Project%20Note.md)'s **must** be organized here
+1. Active [[Project Notes]] **must** be organized here
 2. Supplemental content for an active project *may* be placed here
 3. When a project requires more than one note, a subfolder for that project **must** be made and all of the project content placed inside of it
 4. Upon completion, content **must** be organized to either [020 areas](#020%20areas), [030 resources](#030%20resources), or [040 archives](#040%20archives).
@@ -69,7 +69,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 ## 040 Archives
 
 1. Any content that is no longer actively maintained or useful, or that is otherwise inactive, but is not ready to be deleted *may* be placed here
-2. Completed [Project Note](Project%20Note.md)'s *should* be placed here
+2. Completed [[Project Notes]] *should* be placed here
 
 ## 050 Gitignore
 
