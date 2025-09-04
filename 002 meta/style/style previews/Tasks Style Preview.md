@@ -10,12 +10,12 @@ Custom Task definition is provided by the [[Tasks Plugin]]. The chosen theme is 
 - [ ] #task `space` Unchecked #task/ignore
 - [x] #task `x` Checked #task/ignore
 - [-] #task `-` Cancelled #task/ignore
+- [/] #task `/` In Progress #task/ignore 
 
 **Non_Tasks**
 - [>] #task `>` Rescheduled
 - [<] #task `<` Scheduled
 - [!] #task `!` Important
-- [/] #task `/` In Progress
 - [?] #task `?` Question
 - [*] #task `*` Star
 - [n] #task `n` Note

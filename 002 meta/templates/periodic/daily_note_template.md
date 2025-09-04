@@ -95,7 +95,6 @@ tab: ✨ Ideas
 ```tasks
 not done
 tags include #task/idea
-tags do not include #task/ignore
 (due before <% tomorrow %>) OR (no due date)
 sort by priority, due
 hide edit button
@@ -105,7 +104,6 @@ short mode
 tab: 📦 By Project
  ```tasks
 not done
-tags do not include #task/ignore
 tags include #project
 sort by tag, priority, due
 group by function task.tags.map( (tag) => tag.split('/')[1].replaceAll('_', ' ') )

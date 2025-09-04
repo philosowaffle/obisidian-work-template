@@ -2,7 +2,7 @@
 Navigate: "[[Plugins.base|Go to all Plugins]]"
 Enabled:
 Pugin Core Functionality:
-Plugin QoL: true
+Plugin QoL: false
 Plugin Style: true
 Plugin Vault Management:
 tags:

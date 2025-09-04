@@ -26,6 +26,8 @@ views:
       - Plugin Style
       - Plugin Vault Management
     sort:
+      - property: Plugin Style
+        direction: ASC
       - property: Plugin Status
         direction: DESC
       - property: meta_plugin_status

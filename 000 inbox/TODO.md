@@ -38,7 +38,7 @@ icon-color: "#c0c7d3"
 - [x] Custom CSS ✅ 2025-09-03
 - [ ] Setup Excalidraw explaining how to use the vault
 - [x] Clean up left hand ribbon ✅ 2025-09-04
-- [ ] Install a theme
+- [x] Install a theme ✅ 2025-09-04
 - [x] Check for Broken Links (install plugin?) ✅ 2025-09-04
 - [ ] Delete From Work
 - [ ] turn off vault management plugins

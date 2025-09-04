@@ -18,6 +18,13 @@ tags: [plugin]
 
 ## 📝 Notes
 
+Globally applied rules:
+
+```
+tags do not include #task/ignore
+path does not include 002 meta/templates
+```
+
 ### Example Queries
 
 ```tasks
