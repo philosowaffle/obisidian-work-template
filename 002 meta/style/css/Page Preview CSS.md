@@ -2,8 +2,9 @@
 Navigate:
   - "[[Custom CSS.base|Go to all Custom CSS]]"
 Enabled: true
-Source File: (page_preview.css)[C:\Users\baile\SourceControl\obisidian-work-template\.obsidian\snippets\page_preview.css]
-tags: [style/css]
+Source File: .obisidan\snippets\page_preview.css
+tags:
+  - style/css
 ---
 # Page Preview CSS
 
