@@ -25,7 +25,7 @@ Bookmark: true
 - [ ] Setup Excalidraw explaining how to use the vault
 - [x] Clean up left hand ribbon ✅ 2025-09-04
 - [ ] Install a theme
-- [ ] Check for Broken Links (install plugin?)
+- [x] Check for Broken Links (install plugin?) ✅ 2025-09-04
 - [ ] Delete From Work
 - [ ] turn off vault management plugins
 - [x] Delete meetings ✅ 2025-09-03

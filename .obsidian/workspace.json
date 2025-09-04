@@ -21,24 +21,8 @@
               "icon": "lucide-file",
               "title": "TODO"
             }
-          },
-          {
-            "id": "5f79912bd5951e55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "002 meta/vault specification/Todo Tasks.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Todo Tasks"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -59,7 +43,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -133,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Todo Tasks.md",
+                "file": "000 inbox/TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Todo Tasks"
+              "title": "Backlinks for TODO"
             }
           },
           {
@@ -152,12 +136,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 meta/vault specification/Todo Tasks.md",
+                "file": "000 inbox/TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Todo Tasks"
+              "title": "Outgoing links from TODO"
             }
           },
           {
@@ -220,10 +204,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Todo Tasks.md"
+                "file": "000 inbox/TODO.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Todo Tasks"
+              "title": "File properties for TODO"
             }
           }
         ],
@@ -239,7 +223,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Todo Tasks.md",
+                "file": "000 inbox/TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -267,7 +251,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Todo Tasks"
+              "title": "Graph of TODO"
             }
           }
         ]
@@ -294,17 +278,27 @@
       "periodic-notes:Open today": true
     }
   },
-  "active": "5f79912bd5951e55",
+  "active": "b52ffe5be0989642",
   "lastOpenFiles": [
+    "000 inbox/Drawing 2025-09-04 09.19.15.excalidraw.md",
+    "000 inbox/000 inbox.md",
+    "002 meta/plugins/plugins/Find Orphaned Files and Broken Links Plugin.md",
+    "000 inbox/Test.md",
+    "002 meta/templates/style/Style Preview Documentation Template.md",
+    "002 meta/templates/style/CSS Style Documentation Template.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/vault views/Broken Links Output.md",
+    "002 meta/vault views/Empty Files.md",
+    "002 meta/vault views/Orphaned Files Output.md",
+    "020 areas/teams/000 teams.md",
+    "000 inbox/TODO.md",
     "Broken Links Output.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Folder Organization.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/style/style previews/Default Style Preview.md",
     "002 meta/style/css/Notebook Backgrounds CSS.md",
-    "000 inbox/TODO.md",
     "000 inbox/Untitled.canvas",
-    "000 inbox/Drawing 2025-09-04 09.19.15.excalidraw.md",
     "002 meta/style/css/Hide File Properties CSS.md",
     "002 meta/vault specification/Note Properties.md",
     "020 areas/people/Bailey Belvis.md",
@@ -315,17 +309,7 @@
     "002 meta/vault views/Bases/Orphaned Attachments.md",
     "002 meta/style/style previews/Properties Style Preview.md",
     "002 meta/style/style previews/Callout Style Preview.md",
-    "002 meta/templates/style/Style Preview Documentation Template.md",
-    "002 meta/templates/style/CSS Style Documentation Template.md",
     "002 meta/templates/style",
-    "002 meta/style/css/Properties CSS.md",
-    "002 meta/style/css/Page Preview CSS.md",
-    "002 meta/style/css/Notebook Background CSS Class Hydration.md",
-    "002 meta/style/css/MermaidJS CSS.md",
-    "002 meta/style/css/Internal Link Style CSS.md",
-    "002 meta/style/css/Cyan Voxel General Tweaks CSS.md",
-    "002 meta/style/css/Custom CSS.md",
-    "002 meta/style/css/Canvas Disable Grid Dots CSS.md",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/vault views/Bases/Bookmarks.base",
     "002 meta/vault views/Bases/All Vault Bases.base",

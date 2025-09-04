@@ -1,5 +1,5 @@
 {
-  "outputFileName": "Orphaned Files Output",
+  "outputFileName": "002 meta/vault views/Orphaned Files Output",
   "disableWorkingLinks": false,
   "directoriesToIgnore": [
     "002 meta/templates/"
@@ -12,18 +12,20 @@
   "ignoreFileTypes": true,
   "ignoreDirectories": true,
   "unresolvedLinksIgnoreDirectories": true,
-  "unresolvedLinksOutputFileName": "Broken Links Output",
+  "unresolvedLinksOutputFileName": "002 meta/vault views/Broken Links Output",
   "unresolvedLinksDirectoriesToIgnore": [
     "002 meta/templates/"
   ],
   "unresolvedLinksFilesToIgnore": [],
   "unresolvedLinksFileTypesToIgnore": [],
-  "unresolvedLinksLinksToIgnore": [],
+  "unresolvedLinksLinksToIgnore": [
+    ""
+  ],
   "unresolvedLinksTagsToIgnore": [],
   "withoutTagsDirectoriesToIgnore": [],
   "withoutTagsFilesToIgnore": [],
-  "withoutTagsOutputFileName": "Files Without Tags",
-  "emptyFilesOutputFileName": "Empty Files",
+  "withoutTagsOutputFileName": "002 meta/vault views/Files Without Tags",
+  "emptyFilesOutputFileName": "002 meta/vault views/Empty Files",
   "emptyFilesDirectories": [],
   "emptyFilesFilesToIgnore": [],
   "emptyFilesIgnoreDirectories": true,
