@@ -24,16 +24,11 @@ This vault is designed to work with several community plugins. See [[Vault Plugi
 ### ✨ Installing a New Plugin
 
 1.  `ctrl+shft+n` to launch [[QuickAdd Plugin]] and choose Plugin
-2. Set the following properties on the Notes
-	1. `note_type`: `meta_plugin`
-	2. `meta_plugin_status`: 
-		1. ✔️ - Adopted
-		2. ❌ - Disabled
-		3. 🧪 - Testing
+2. Set the properties specified by the template
 
 ### ⛔Removing A Plugin
 
-Update the `meta_plugin_status` property to be ❌ (disabled). Add a note explaining why the plugin was removed using the following styling:
+Disable the `Enabled` property on the note.  Add a note explaining why the plugin was removed using the following styling:
 
 > [!danger] Uninstalled or Disabled
 > Removed because it wasn't working well for me.

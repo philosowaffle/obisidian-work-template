@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL:
 Plugin Style:
 Plugin Vault Management: true
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Tag Wrangler Plugin
 

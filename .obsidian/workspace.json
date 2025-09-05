@@ -26,13 +26,15 @@
             "id": "066f341beef1d257",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "002 meta/plugins/Plugins.base",
-                "viewName": "All"
+                "file": "002 meta/vault specification/Plugin Notes.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "Plugins"
+              "icon": "lucide-file",
+              "title": "Plugin Notes"
             }
           }
         ],
@@ -103,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/plugins/Plugins.base",
+                "file": "002 meta/vault specification/Plugin Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plugins"
+              "title": "Outline of Plugin Notes"
             }
           }
         ]
@@ -211,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/plugins/Plugins.base",
+                "file": "002 meta/vault specification/Plugin Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -221,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plugins"
+              "title": "Backlinks for Plugin Notes"
             }
           },
           {
@@ -244,13 +246,14 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "002 meta/vault specification/Plugin Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for Plugin Notes"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "017a578b8bc47b38",
@@ -263,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/Plugins.base",
+                "file": "002 meta/vault specification/Plugin Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -291,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Plugins"
+              "title": "Graph of Plugin Notes"
             }
           }
         ]
@@ -319,8 +322,13 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "066f341beef1d257",
+  "active": "cee23b2440bbec61",
   "lastOpenFiles": [
+    "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
+    "002 meta/vault specification/Plugin Notes.md",
+    "002 meta/plugins/plugins/Settings Search Plugin.md",
+    "002 meta/plugins/Vault Plugins.md",
+    "002 meta/plugins/Plugins.base",
     "002 meta/plugins/plugins/Templater Plugin.md",
     "002 meta/plugins/plugins/Tasks Plugin.md",
     "002 meta/plugins/plugins/Tabs Plugin.md",
@@ -341,14 +349,9 @@
     "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
     "002 meta/plugins/plugins/Dataview Plugin.md",
     "002 meta/plugins/plugins/Calendar Plugin.md",
-    "002 meta/plugins/Vault Plugins.md",
     "README.md",
     "002 meta/vault views/UI Modules/Help Module/Help.md",
-    "002 meta/style/css/Hide Pane Scrollbars CSS.md",
-    "002 meta/vault specification/Vault Usage.md",
-    "002 meta/plugins/plugins/Settings Search Plugin.md",
     "New folder",
-    "002 meta/plugins/Plugins.base",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "010 projects/My THing",
