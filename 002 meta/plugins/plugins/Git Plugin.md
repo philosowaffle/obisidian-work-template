@@ -5,8 +5,7 @@ Pugin Core Functionality: true
 Plugin QoL:
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Git Plugin
 

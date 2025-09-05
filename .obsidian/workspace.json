@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
+                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Natural Language Dates Plugin"
+              "title": "Plugin Update Tracker Plugin"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
+                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Natural Language Dates Plugin"
+              "title": "Outline of Plugin Update Tracker Plugin"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
+                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Natural Language Dates Plugin"
+              "title": "Backlinks for Plugin Update Tracker Plugin"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
+                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Natural Language Dates Plugin"
+              "title": "Graph of Plugin Update Tracker Plugin"
             }
           }
         ]
@@ -323,6 +323,11 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/plugins/plugins/Periodic Notes Plugin.md",
+    "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "002 meta/plugins/plugins/Git Plugin.md",
+    "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
     "002 meta/plugins/plugins/Linter Plugin.md",
     "002 meta/plugins/plugins/Iconic Plugin.md",
     "002 meta/plugins/plugins/Hover Editor Plugin.md",
@@ -346,11 +351,6 @@
     "002 meta/plugins/Plugins.base",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/vault views/Vault Views.md",
-    "002 meta/vault views/Orphaned Files Output.md",
-    "002 meta/vault views/Broken Links Output.md",
-    "002 meta/vault specification/Todo Tasks.md",
-    "002 meta/vault specification/Team Notes.md",
-    "002 meta/vault specification/Shortcuts.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "010 projects/My THing",

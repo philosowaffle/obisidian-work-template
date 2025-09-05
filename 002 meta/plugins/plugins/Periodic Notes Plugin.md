@@ -5,24 +5,19 @@ Pugin Core Functionality: true
 Plugin QoL: false
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Periodic Notes Plugin
 
-Using for Weekly, Monthly, Quarterly, and Yearly reviews. Extends the core Daily Note feature and the [[Calendar Plugin]]
+Using for Daily, Weekly, Monthly, Quarterly, and Yearly reviews. Extends the core Daily Note feature and the [[Calendar Plugin]]
 
 ## 📝 Notes
-
-Daily Notes are still managed by the Obsidian core Daily Note plugin, this is to also take advantage of having Obsidian open the daily note by default on launch.
-
-All other Periodic Notes are configured and handled by this plugin.
 
 ## ⚙️ Settings
 
 ## ⚠️ Dependencies and Integrations
 
-- `002 meta/templates/period`
+- `002 meta/templates/periodic`
 
 ### 🔗Referenced By
 

@@ -1,4 +1,4 @@
-<%*
+ <%*
 	let now = moment(tp.file.title, "YYYY-MM-DD");
 	let yesterday = now.clone().subtract(1, 'd').format("YYYY-MM-DD");
 	let tomorrow = now.clone().add(1, 'd').format("YYYY-MM-DD");

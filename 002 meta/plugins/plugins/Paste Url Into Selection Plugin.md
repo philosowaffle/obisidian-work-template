@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Paste Url Into Selection Plugin
 
