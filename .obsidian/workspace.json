@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "002 meta/plugins/plugins/Pixel Banner Plugin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Help"
+              "title": "Pixel Banner Plugin"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "002 meta/plugins/plugins/Pixel Banner Plugin.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Help"
+              "title": "Outline of Pixel Banner Plugin"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "002 meta/plugins/plugins/Pixel Banner Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Help"
+              "title": "Backlinks for Pixel Banner Plugin"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md"
+                "file": "002 meta/plugins/plugins/Pixel Banner Plugin.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Help"
+              "title": "File properties for Pixel Banner Plugin"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault views/UI Modules/Help Module/Help.md",
+                "file": "002 meta/plugins/plugins/Pixel Banner Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Help"
+              "title": "Graph of Pixel Banner Plugin"
             }
           }
         ]
@@ -324,13 +324,13 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/style/themes/Theme Notes.md",
     "002 meta/style/themes/Minimal Theme.md",
     "002 meta/style/style previews/Tasks Style Preview.md",
     "002 meta/style/style previews/Callout Style Preview.md",
     "002 meta/style/Icons.md",
     "002 meta/style/Vault Style.md",
-    "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/vault views/Vault Views.md",
     "002 meta/Meta.md",
     "002 meta/vault specification/Vault Usage.md",
