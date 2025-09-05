@@ -21,6 +21,7 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 | Project   | A note representing a project or deliverable                                         | [[Project Notes]]  | `#project`  |
 | Resource  | A generic wiki style note capturing any information                                  | [[Resource Notes]] | none        |
 | Team      | A note representing a team of people                                                 | [[Team Notes]]     | `#team`     |
+| Periodic  | Notes created to represent a time frame such as a day, week, month, quarter, or year | [[Periodic Notes]] | `#periodic` |
 
 ## ✨ Creating a New Note Type
 

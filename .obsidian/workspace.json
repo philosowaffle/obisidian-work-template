@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Plugin Notes.md",
+                "file": "002 meta/vault specification/Note Types.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plugin Notes"
+              "title": "Note Types"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Plugin Notes.md",
+                "file": "002 meta/vault specification/Note Types.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plugin Notes"
+              "title": "Outline of Note Types"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Plugin Notes.md",
+                "file": "002 meta/vault specification/Note Types.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plugin Notes"
+              "title": "Backlinks for Note Types"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Plugin Notes.md"
+                "file": "002 meta/vault specification/Note Types.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Plugin Notes"
+              "title": "File properties for Note Types"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Plugin Notes.md",
+                "file": "002 meta/vault specification/Note Types.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Plugin Notes"
+              "title": "Graph of Note Types"
             }
           }
         ]
@@ -322,10 +322,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "cee23b2440bbec61",
+  "active": "066f341beef1d257",
   "lastOpenFiles": [
-    "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
+    "002 meta/vault specification/Note Tags.md",
+    "002 meta/vault specification/000 Vault Specification.md",
+    "002 meta/vault specification/Creating Notes.md",
+    "002 meta/templates/meta_documentation_template.md",
+    "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Plugin Notes.md",
+    "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
     "002 meta/plugins/plugins/Settings Search Plugin.md",
     "002 meta/plugins/Vault Plugins.md",
     "002 meta/plugins/Plugins.base",
@@ -346,11 +351,6 @@
     "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
     "002 meta/templates/plugin_template.md",
     "002 meta/plugins/plugins/Excalidraw Plugin.md",
-    "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
-    "002 meta/plugins/plugins/Dataview Plugin.md",
-    "002 meta/plugins/plugins/Calendar Plugin.md",
-    "README.md",
-    "002 meta/vault views/UI Modules/Help Module/Help.md",
     "New folder",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",

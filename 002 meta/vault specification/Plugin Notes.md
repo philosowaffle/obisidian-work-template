@@ -5,9 +5,6 @@ cssclasses:
 ---
 # Plugins
 
-> [!info]-
-> This folder contains information about the plugins used in this Obsidian vault. It may include a list of recommended plugins, installation instructions, configuration settings, and usage tips to help users enhance their experience with Obsidian.
-
 1. [[#🔍 Discovering Plugin Documentation]]
 2. [[#🔩 Properties]]
 3. [[#✨ Installing a New Plugin]]
@@ -28,7 +25,7 @@ This vault is designed to work with several community plugins. See [[Vault Plugi
 
 ### ⛔Removing A Plugin
 
-Disable the `Enabled` property on the note.  Add a note explaining why the plugin was removed using the following styling:
+Disable the `Enabled` property on the note. Add a note explaining why the plugin was removed using the following styling:
 
 > [!danger] Uninstalled or Disabled
 > Removed because it wasn't working well for me.

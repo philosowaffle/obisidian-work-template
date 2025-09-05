@@ -16,6 +16,7 @@
 ## Style Constraints
 
 1. [[Callouts]]
+2. Some standards enforced by the [[Linter Plugin]]
 
 # ## Footnotes
 
