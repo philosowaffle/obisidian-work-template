@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md",
+                "file": "002 meta/vault specification/Vault Usage.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Person Notes"
+              "title": "Vault Usage"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md",
+                "file": "002 meta/vault specification/Vault Usage.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Person Notes"
+              "title": "Outline of Vault Usage"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md",
+                "file": "002 meta/vault specification/Vault Usage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Person Notes"
+              "title": "Backlinks for Vault Usage"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md"
+                "file": "002 meta/vault specification/Vault Usage.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Person Notes"
+              "title": "File properties for Vault Usage"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Person Notes.md",
+                "file": "002 meta/vault specification/Vault Usage.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Person Notes"
+              "title": "Graph of Vault Usage"
             }
           }
         ]
@@ -324,10 +324,16 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/vault specification/Note Discoverability.md",
+    "002 meta/vault specification/Todo Tasks.md",
+    "002 meta/vault specification/Note Tags.md",
+    "002 meta/vault specification/Note Properties.md",
+    "002 meta/vault specification/Resource Notes.md",
+    "002 meta/vault specification/Project Notes.md",
+    "002 meta/vault specification/Person Notes.md",
     "002 meta/vault specification/Periodic Notes.md",
     "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/vault specification/Note Types.md",
-    "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/vault specification/Creating Notes.md",
     "002 meta/templates/meta_documentation_template.md",
@@ -345,12 +351,6 @@
     "002 meta/plugins/plugins/Periodic Notes Plugin.md",
     "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
     "002 meta/plugins/plugins/Git Plugin.md",
-    "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
-    "002 meta/plugins/plugins/Linter Plugin.md",
-    "002 meta/plugins/plugins/Iconic Plugin.md",
-    "002 meta/plugins/plugins/Hover Editor Plugin.md",
-    "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
-    "002 meta/templates/plugin_template.md",
     "New folder",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
