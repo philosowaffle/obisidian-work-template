@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Tasks Style Preview.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Vault Usage"
+              "title": "Tasks Style Preview"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Tasks Style Preview.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Vault Usage"
+              "title": "Outline of Tasks Style Preview"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Tasks Style Preview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Vault Usage"
+              "title": "Backlinks for Tasks Style Preview"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md"
+                "file": "002 meta/style/style previews/Tasks Style Preview.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Vault Usage"
+              "title": "File properties for Tasks Style Preview"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Vault Usage.md",
+                "file": "002 meta/style/style previews/Tasks Style Preview.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Vault Usage"
+              "title": "Graph of Tasks Style Preview"
             }
           }
         ]
@@ -324,6 +324,13 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/style/style previews/Callout Style Preview.md",
+    "002 meta/style/Icons.md",
+    "002 meta/style/Vault Style.md",
+    "002 meta/vault views/UI Modules/Help Module/Help.md",
+    "002 meta/vault views/Vault Views.md",
+    "002 meta/Meta.md",
+    "002 meta/vault specification/Vault Usage.md",
     "002 meta/vault specification/Note Discoverability.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Note Tags.md",
@@ -344,13 +351,6 @@
     "002 meta/plugins/Plugins.base",
     "002 meta/plugins/plugins/Templater Plugin.md",
     "002 meta/plugins/plugins/Tasks Plugin.md",
-    "002 meta/plugins/plugins/Tabs Plugin.md",
-    "002 meta/plugins/plugins/Style Settings Plugin.md",
-    "002 meta/plugins/plugins/QuickAdd Plugin.md",
-    "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
-    "002 meta/plugins/plugins/Periodic Notes Plugin.md",
-    "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
-    "002 meta/plugins/plugins/Git Plugin.md",
     "New folder",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
