@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md",
+                "file": "002 meta/vault specification/Periodic Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Note Types"
+              "title": "Periodic Notes"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md",
+                "file": "002 meta/vault specification/Periodic Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Note Types"
+              "title": "Outline of Periodic Notes"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md",
+                "file": "002 meta/vault specification/Periodic Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Note Types"
+              "title": "Backlinks for Periodic Notes"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md"
+                "file": "002 meta/vault specification/Periodic Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Note Types"
+              "title": "File properties for Periodic Notes"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Note Types.md",
+                "file": "002 meta/vault specification/Periodic Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Note Types"
+              "title": "Graph of Periodic Notes"
             }
           }
         ]
@@ -324,11 +324,11 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/vault specification/Creating Notes.md",
     "002 meta/templates/meta_documentation_template.md",
-    "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Plugin Notes.md",
     "002 meta/plugins/plugins/Tag Wrangler Plugin.md",
     "002 meta/plugins/plugins/Settings Search Plugin.md",
