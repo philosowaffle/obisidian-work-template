@@ -184,8 +184,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       },
       {
         "id": "20019afc787ddffc",
@@ -237,8 +236,7 @@
               "title": "File properties for README"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "017a578b8bc47b38",
@@ -307,7 +305,7 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "eb376b9050bb6875",
+  "active": "30ed0ff25e04cd9e",
   "lastOpenFiles": [
     "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/style/css/Hide Pane Scrollbars CSS.md",
