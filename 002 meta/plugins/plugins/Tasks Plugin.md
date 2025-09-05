@@ -18,12 +18,7 @@ tags: [plugin]
 
 ## 📝 Notes
 
-Globally applied rules:
-
-```
-tags do not include #task/ignore
-path does not include 002 meta/templates
-```
+Tasks plugin provides its own query language, not to be confused with the queries provided by the [Dataview Plugin](Dataview%20Plugin.md) plugin.
 
 ### Example Queries
 
@@ -37,6 +32,13 @@ short mode
 ```
 
 ## ⚙️ Settings
+
+**Globally applied filters:**
+
+```
+tags do not include #task/ignore
+path does not include 002 meta/templates
+```
 
 ## ⚠️ Dependencies and Integrations
 

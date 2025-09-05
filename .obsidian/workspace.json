@@ -26,15 +26,13 @@
             "id": "066f341beef1d257",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "002 meta/plugins/Plugins.base",
+                "viewName": "All"
               },
-              "icon": "lucide-file",
-              "title": "Tasks Plugin"
+              "icon": "lucide-table",
+              "title": "Plugins"
             }
           }
         ],
@@ -105,13 +103,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
+                "file": "002 meta/plugins/Plugins.base",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Tasks Plugin"
+              "title": "Outline of Plugins"
             }
           }
         ]
@@ -213,7 +211,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
+                "file": "002 meta/plugins/Plugins.base",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +221,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Tasks Plugin"
+              "title": "Backlinks for Plugins"
             }
           },
           {
@@ -265,7 +263,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
+                "file": "002 meta/plugins/Plugins.base",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +291,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Tasks Plugin"
+              "title": "Graph of Plugins"
             }
           }
         ]
@@ -323,6 +321,8 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/plugins/plugins/Templater Plugin.md",
+    "002 meta/plugins/plugins/Tasks Plugin.md",
     "002 meta/plugins/plugins/Tabs Plugin.md",
     "002 meta/plugins/plugins/Style Settings Plugin.md",
     "002 meta/plugins/plugins/QuickAdd Plugin.md",
@@ -347,9 +347,7 @@
     "002 meta/style/css/Hide Pane Scrollbars CSS.md",
     "002 meta/vault specification/Vault Usage.md",
     "002 meta/plugins/plugins/Settings Search Plugin.md",
-    "000 inbox/TODO.md",
     "New folder",
-    "030 resources/Foo bar Prompt.md",
     "002 meta/plugins/Plugins.base",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
