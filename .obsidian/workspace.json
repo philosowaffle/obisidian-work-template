@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/person_template.md",
+                "file": "002 meta/templates/prompt_template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "person_template"
+              "title": "prompt_template"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/templates/person_template.md",
+                "file": "002 meta/templates/prompt_template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of person_template"
+              "title": "Outline of prompt_template"
             }
           }
         ]
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/templates/person_template.md"
+                "file": "002 meta/templates/prompt_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for person_template"
+              "title": "File properties for prompt_template"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/person_template.md",
+                "file": "002 meta/templates/prompt_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of person_template"
+              "title": "Graph of prompt_template"
             }
           }
         ]
@@ -324,6 +324,12 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "001 attachments/sanitize_tag.js",
+    "002 meta/templates/team_template.md",
+    "002 meta/templates/project_template.md",
+    "002 meta/plugins/templater scripts/sanitize_tag.js",
+    "002 meta/plugins/templater scripts",
+    "002 meta/templates/person_template.md",
     "002 meta/templates/periodic/yearly_note_template.md",
     "README.md",
     "002 meta/plugins/plugins/Pixel Banner Plugin.md",
@@ -346,10 +352,6 @@
     "002 meta/vault specification/Person Notes.md",
     "002 meta/vault specification/Periodic Notes.md",
     "002 meta/templates/periodic/daily_note_template.md",
-    "002 meta/vault specification/Note Types.md",
-    "002 meta/vault specification/000 Vault Specification.md",
-    "002 meta/vault specification/Creating Notes.md",
-    "002 meta/templates/meta_documentation_template.md",
     "002 meta/plugins/Plugins.base",
     "New folder",
     "040 archives/meetings/2025/09",
@@ -365,10 +367,8 @@
     "001 attachments/Fall/wednesday-fall-banner.jpg",
     "001 attachments/pine tree.png",
     "001 attachments/Fall/tuesday-fall-banner.jpg",
-    "001 attachments/Fall",
     "001 attachments/campfire.svg",
     "000 inbox/Untitled.canvas",
-    "002 meta/vault views/Bases/Orphaned Image Report.base",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "From Work/Obsidian Templates/Obsidian Templates/004 meta/vault views/dataviews/000 today.canvas",

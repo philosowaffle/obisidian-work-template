@@ -5,7 +5,7 @@ tags: [ai/prompt]
 <%* 
 	let filename = tp.file.title;
 	let alias = filename.split(" ")[0];
-	let tag = "#people/" + filename.replaceAll(" ", "_").toLowerCase();
+	let tag = "#people/" + tp.user.;
 
 %># 🤖 <% filename %>
 

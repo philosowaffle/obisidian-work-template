@@ -2,7 +2,7 @@
 
 	let filename = tp.file.title;
 	let icon = "📦";
-	let tag = "project/" + filename.replaceAll(" Project", "").replaceAll(" ", "_").replaceAll(".", "_").replaceAll("-", "").replaceAll("+", "_").toLowerCase();
+	let tag = "project/" + tp.user.sanitize_tag(filename);
 
 %>---
 Description: 
