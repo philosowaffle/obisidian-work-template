@@ -2,7 +2,7 @@
 
 	let filename = tp.file.title;
 	let icon = "🧱";
-	let tag = "feature/" + filename.replaceAll(" Feature", "").replaceAll(" ", "_").toLowerCase();
+	let tag = "feature/" + tp.user.sanitize_for_tag(filename);
 
 %>---
 Description:

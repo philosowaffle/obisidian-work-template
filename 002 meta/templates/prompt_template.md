@@ -2,12 +2,7 @@
 created: <% tp.file.creation_date() %>
 tags: [ai/prompt]
 ---
-<%* 
-	let filename = tp.file.title;
-	let alias = filename.split(" ")[0];
-	let tag = "#people/" + tp.user.;
-
-%># 🤖 <% filename %>
+# 🤖 <% tp.file.title %>
 
 ## 🎯 Objective
 

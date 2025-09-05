@@ -2,7 +2,7 @@
 
 	let filename = tp.file.title;
 	let icon = "📦";
-	let tag = "project/" + tp.user.sanitize_tag(filename);
+	let tag = "project/" + tp.user.sanitize_for_tag(filename);
 
 %>---
 Description: 

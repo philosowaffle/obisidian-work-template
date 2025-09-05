@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/prompt_template.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "mode": "source",
                 "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "prompt_template"
+              "title": "daily_note_template"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/templates/prompt_template.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of prompt_template"
+              "title": "Outline of daily_note_template"
             }
           }
         ]
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/templates/prompt_template.md"
+                "file": "002 meta/templates/periodic/daily_note_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for prompt_template"
+              "title": "File properties for daily_note_template"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/prompt_template.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of prompt_template"
+              "title": "Graph of daily_note_template"
             }
           }
         ]
@@ -324,12 +324,22 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
-    "001 attachments/sanitize_tag.js",
-    "002 meta/templates/team_template.md",
-    "002 meta/templates/project_template.md",
-    "002 meta/plugins/templater scripts/sanitize_tag.js",
-    "002 meta/plugins/templater scripts",
+    "002 meta/templates/meeting templates/meeting_note_template.md",
+    "002 meta/templates/meeting templates/meeting_person_sync.md",
+    "002 meta/templates/periodic/daily_note_template.md",
+    "002 meta/templates/style/Style Preview Documentation Template.md",
+    "002 meta/templates/style/CSS Style Documentation Template.md",
+    "002 meta/templates/codebase_template.md",
+    "002 meta/templates/feature_template.md",
+    "002 meta/templates/meta_documentation_template.md",
     "002 meta/templates/person_template.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/templates/project_template.md",
+    "002 meta/templates/prompt_template.md",
+    "002 meta/templates/team_template.md",
+    "001 attachments/sanitize_tag.js",
+    "002 meta/plugins/templater scripts/sanitize_for_tag.js",
+    "002 meta/plugins/templater scripts",
     "002 meta/templates/periodic/yearly_note_template.md",
     "README.md",
     "002 meta/plugins/plugins/Pixel Banner Plugin.md",
@@ -343,15 +353,6 @@
     "002 meta/vault views/Vault Views.md",
     "002 meta/Meta.md",
     "002 meta/vault specification/Vault Usage.md",
-    "002 meta/vault specification/Note Discoverability.md",
-    "002 meta/vault specification/Todo Tasks.md",
-    "002 meta/vault specification/Note Tags.md",
-    "002 meta/vault specification/Note Properties.md",
-    "002 meta/vault specification/Resource Notes.md",
-    "002 meta/vault specification/Project Notes.md",
-    "002 meta/vault specification/Person Notes.md",
-    "002 meta/vault specification/Periodic Notes.md",
-    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/plugins/Plugins.base",
     "New folder",
     "040 archives/meetings/2025/09",
@@ -359,7 +360,6 @@
     "010 projects/My THing",
     "010 projects/My Thing",
     "002 meta/style/css/Custom CSS.base",
-    "002 meta/style/style previews/Style Previews.base",
     "001 attachments/Fall/monday-fall-banner.jpg",
     "001 attachments/default-banner.jpg",
     "001 attachments/Fall/thursday-fall-banner.jpg",

@@ -1,7 +1,7 @@
 <%* 
 	let filename = tp.file.title;
 	let alias = filename.split(" ")[0];
-	let tag = "person/" + filename.replaceAll(" ", "_").toLowerCase();
+	let tag = "person/" + tp.user.sanitize_for_tag(filename);
 %>---
 Person Org:
 Person Title:
