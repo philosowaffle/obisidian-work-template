@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "Emoji Shortcodes Plugin"
             }
           }
         ]
@@ -89,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of Emoji Shortcodes Plugin"
             }
           }
         ]
@@ -197,7 +197,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for README"
+              "title": "Backlinks for Emoji Shortcodes Plugin"
             }
           },
           {
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/plugins/plugins/Emoji Shortcodes Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of Emoji Shortcodes Plugin"
             }
           }
         ]
@@ -305,11 +305,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "30ed0ff25e04cd9e",
+  "active": "5060bc45811f1a94",
   "lastOpenFiles": [
+    "002 meta/plugins/plugins/Dataview Plugin.md",
+    "002 meta/plugins/plugins/Calendar Plugin.md",
+    "002 meta/templates/plugin_template.md",
+    "002 meta/plugins/Vault Plugins.md",
+    "README.md",
     "002 meta/vault views/UI Modules/Help Module/Help.md",
     "002 meta/style/css/Hide Pane Scrollbars CSS.md",
-    "README.md",
     "002 meta/vault specification/Vault Usage.md",
     "002 meta/plugins/plugins/Settings Search Plugin.md",
     "000 inbox/TODO.md",
@@ -318,7 +322,6 @@
     "002 meta/templates/prompt_template.md",
     "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/plugins/Plugins.base",
-    "002 meta/plugins/Vault Plugins.md",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/vault views/Vault Views.md",
     "002 meta/vault views/Orphaned Files Output.md",
@@ -332,9 +335,6 @@
     "002 meta/vault specification/Person Notes.md",
     "002 meta/vault specification/Periodic Notes.md",
     "002 meta/vault specification/Note Types.md",
-    "002 meta/vault specification/Note Tags.md",
-    "002 meta/vault specification/Note Properties.md",
-    "002 meta/vault specification/Note Discoverability.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "010 projects/My THing",

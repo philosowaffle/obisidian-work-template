@@ -18,6 +18,7 @@ Additionally, you may want to consider using this vault with your favorite AI to
 ### Using the Vault
 
 If you plan to use this vault or adopt portions of this workflow then start [[Vault Usage|here]].
+
 # ## Footnotes
 
 [^1]: Disclaimer: This vault uses Wikilinks format which may not be supported by all editors
