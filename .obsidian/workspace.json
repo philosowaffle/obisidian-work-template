@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/Periodic Notes.md",
+                "file": "002 meta/vault specification/Person Notes.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Periodic Notes"
+              "title": "Person Notes"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/Periodic Notes.md",
+                "file": "002 meta/vault specification/Person Notes.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Periodic Notes"
+              "title": "Outline of Person Notes"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/vault specification/Periodic Notes.md",
+                "file": "002 meta/vault specification/Person Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Periodic Notes"
+              "title": "Backlinks for Person Notes"
             }
           },
           {
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/Periodic Notes.md"
+                "file": "002 meta/vault specification/Person Notes.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Periodic Notes"
+              "title": "File properties for Person Notes"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/Periodic Notes.md",
+                "file": "002 meta/vault specification/Person Notes.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Periodic Notes"
+              "title": "Graph of Person Notes"
             }
           }
         ]
@@ -324,6 +324,8 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/vault specification/Periodic Notes.md",
+    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/000 Vault Specification.md",
@@ -342,7 +344,6 @@
     "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
     "002 meta/plugins/plugins/Periodic Notes Plugin.md",
     "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
-    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/plugins/plugins/Git Plugin.md",
     "002 meta/plugins/plugins/Natural Language Dates Plugin.md",
     "002 meta/plugins/plugins/Linter Plugin.md",
@@ -350,7 +351,6 @@
     "002 meta/plugins/plugins/Hover Editor Plugin.md",
     "002 meta/plugins/plugins/Footnote Shortcut Plugin.md",
     "002 meta/templates/plugin_template.md",
-    "002 meta/plugins/plugins/Excalidraw Plugin.md",
     "New folder",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",

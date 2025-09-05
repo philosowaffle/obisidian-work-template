@@ -39,9 +39,9 @@ There are several types of supported Periodic Notes, all of which follow the sam
 
 ### 🔩 Properties
 
-| Property                  | Values                                 | Description                                                               |
-| ------------------------- | -------------------------------------- | ------------------------------------------------------------------------- |
-| Note Type                 | meta_plugin                            | Identifies this note as documenting an Obsidian Plugin                    |
+| Property          | Values      | Description                                              |
+| ----------------- | ----------- | -------------------------------------------------------- |
+| Banner Properties | meta_plugin | Various properties in use by the [[Pixel Banner Plugin]] |
 
 ### 🪧Fields
 
