@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL: false
 Plugin Style: true
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Hover Editor Plugin
 

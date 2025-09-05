@@ -6,8 +6,7 @@ Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
 created: 2025-09-02 19:06
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Footnote Shortcut Plugin
 

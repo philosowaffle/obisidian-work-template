@@ -19,6 +19,7 @@ tags: plugin
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
+
 ```dataview
 LIST
 from [[<%tp.file.title%>]]

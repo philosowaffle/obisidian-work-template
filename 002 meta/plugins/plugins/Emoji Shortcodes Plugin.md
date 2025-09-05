@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL: true
 Plugin Style: true
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Emoji Shortcodes Plugin
 

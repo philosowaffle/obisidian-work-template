@@ -1,15 +1,16 @@
 ---
 Navigate: "[[Plugins.base|Go to all Plugins]]"
 Enabled: true
-Pugin Core Functionality:
+Pugin Core Functionality: true
 Plugin QoL:
-Plugin Style: true
+Plugin Style:
 Plugin Vault Management:
+created: 2025-09-05 08:40
 tags: [plugin]
 ---
-# 🔌 Iconic Plugin
+# 🔌 Excalidraw Plugin
 
-Adopted this to get Emojis out of the file paths. This applies CSS rules after the fact based on file properties.
+Better drawing and diagraming experience. Some files won't load without this plugin installed.
 
 ## 📝 Notes
 
@@ -21,11 +22,11 @@ Adopted this to get Emojis out of the file paths. This applies CSS rules after t
 
 ```dataview
 LIST
-from [[Iconic Plugin]]
+from [[Excalidraw Plugin]]
 sort file.name descending
 ```
 
 ## 🕒Log
 
-- [[2025-08-30]]
+- [[2025-09-05]]
 	- Plugin Installed
