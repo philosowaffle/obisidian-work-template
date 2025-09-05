@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
+                "file": "002 meta/plugins/plugins/Templater Plugin.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "daily_note_template"
+              "title": "Templater Plugin"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
+                "file": "002 meta/plugins/plugins/Templater Plugin.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of daily_note_template"
+              "title": "Outline of Templater Plugin"
             }
           }
         ]
@@ -246,10 +246,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md"
+                "file": "002 meta/plugins/plugins/Templater Plugin.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for daily_note_template"
+              "title": "File properties for Templater Plugin"
             }
           }
         ],
@@ -266,7 +266,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/templates/periodic/daily_note_template.md",
+                "file": "002 meta/plugins/plugins/Templater Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -294,7 +294,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of daily_note_template"
+              "title": "Graph of Templater Plugin"
             }
           }
         ]
@@ -324,9 +324,9 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/templates/meeting templates/meeting_note_template.md",
     "002 meta/templates/meeting templates/meeting_person_sync.md",
-    "002 meta/templates/periodic/daily_note_template.md",
     "002 meta/templates/style/Style Preview Documentation Template.md",
     "002 meta/templates/style/CSS Style Documentation Template.md",
     "002 meta/templates/codebase_template.md",

@@ -15,6 +15,17 @@ Used for advanced note templating.
 
 ## ⚙️ Settings
 
+### Custom Scripts
+
+[Documentation](https://silentvoid13.github.io/Templater/user-functions/script-user-functions.html)
+
+Custom Scripts are defined in `002 meta/templater scripts`.
+
+| Script                  | Example                                                     |
+| ----------------------- | ----------------------------------------------------------- |
+| [[sanitize_for_tag.js]] | `let tag = "project/" + tp.user.sanitize_for_tag(filename)` |
+
+
 ## ⚠️ Dependencies and Integrations
 
 ### 🔗Referenced By
