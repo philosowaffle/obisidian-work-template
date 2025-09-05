@@ -5,8 +5,7 @@ Pugin Core Functionality: true
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 QuickAdd Plugin
 
@@ -21,7 +20,7 @@ Used with [[Templater Plugin]] to create new templated notes and move them to th
 4. Fill out remaining pieces of the file metadata once created
 
 > [!tip]
-> QuickAdd can also be launched using inline slash commands.  For example try typing `/meeting` inline in a note to trigger the Meeting quick add wizard.
+> QuickAdd can also be launched using inline slash commands. For example try typing `/meeting` inline in a note to trigger the Meeting quick add wizard.
 
 ## ⚙️ Settings
 

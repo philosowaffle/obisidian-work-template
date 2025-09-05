@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Plugin Update Tracker Plugin"
+              "title": "Tasks Plugin"
             }
           }
         ],
@@ -105,13 +105,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Plugin Update Tracker Plugin"
+              "title": "Outline of Tasks Plugin"
             }
           }
         ]
@@ -213,7 +213,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -223,7 +223,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Plugin Update Tracker Plugin"
+              "title": "Backlinks for Tasks Plugin"
             }
           },
           {
@@ -265,7 +265,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
+                "file": "002 meta/plugins/plugins/Tasks Plugin.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -293,7 +293,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of Plugin Update Tracker Plugin"
+              "title": "Graph of Tasks Plugin"
             }
           }
         ]
@@ -323,6 +323,10 @@
   },
   "active": "066f341beef1d257",
   "lastOpenFiles": [
+    "002 meta/plugins/plugins/Tabs Plugin.md",
+    "002 meta/plugins/plugins/Style Settings Plugin.md",
+    "002 meta/plugins/plugins/QuickAdd Plugin.md",
+    "002 meta/plugins/plugins/Plugin Update Tracker Plugin.md",
     "002 meta/plugins/plugins/Periodic Notes Plugin.md",
     "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
     "002 meta/templates/periodic/daily_note_template.md",
@@ -346,11 +350,7 @@
     "000 inbox/TODO.md",
     "New folder",
     "030 resources/Foo bar Prompt.md",
-    "002 meta/templates/prompt_template.md",
-    "002 meta/vault specification/Recurring Meetings.md",
     "002 meta/plugins/Plugins.base",
-    "020 areas/people/Bailey Belvis.md",
-    "002 meta/vault views/Vault Views.md",
     "040 archives/meetings/2025/09",
     "040 archives/meetings/2025",
     "010 projects/My THing",

@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL: true
 Plugin Style:
 Plugin Vault Management: true
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Plugin Update Tracker Plugin
 
