@@ -6,7 +6,7 @@ aliases: [Log Section]
 1. A Note *may* contain a log section
 2. This section **must** be an H2 heading with the word "Log" in it
 	1. Log sections *may* be created using one of the following template
-		1. [[Log Section Template]]
+		1. [Log Section Template](../templates/inline/Log%20Section%20Template.md)
 3. This section **must** contain an unordered list
 	1. The root list item **must** be a date
 		1. The date **must** be a link that links to that days [Periodic Notes](Periodic%20Notes.md)
@@ -30,7 +30,7 @@ Sample template for Published notes.
 
 ### ⚠️ Dependencies
 
-- [[Log Section Template]]
+- [Log Section Template](../templates/inline/Log%20Section%20Template.md)
 
 ## 🕒 Log
 

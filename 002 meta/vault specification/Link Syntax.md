@@ -15,3 +15,9 @@ New links can be created using any link syntax and Obsidian will automatically c
 
 > [!danger]
 > There are some cases where wikilinks must be used. The main one is the [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md), especially when querying for all files that link back to the current file.
+
+## ⚠️Must Use WikiLinks
+
+- [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md) queries
+- [Note Properties](Note%20Properties.md)
+- Links to files that don't exist yet

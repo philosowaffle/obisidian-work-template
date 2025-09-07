@@ -5,7 +5,7 @@ Navigate:
 ---
 # Tasks Style Preview
 
-Custom Task definition is provided by the [[Tasks Plugin]]. The chosen theme is responsible for styling the custom tasks differently.
+Custom Task definition is provided by the [Tasks Plugin](../../plugins/plugins/Tasks%20Plugin.md). The chosen theme is responsible for styling the custom tasks differently.
 
 - [ ] #task `space` Unchecked #task/ignore
 - [x] #task `x` Checked #task/ignore

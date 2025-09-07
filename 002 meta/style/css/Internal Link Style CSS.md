@@ -24,7 +24,8 @@ span.cm-hmd-internal-link a
 
 ## Example
 
-- [[README]] - local link
+- [[README]] - wikilink local link
+- [README](../../../README.md) - markdown local link
 - [Google](https://www.google.com)
 
 ## From Old Mac

@@ -12,7 +12,7 @@ tags: [style/css]
 ---
 # Cyan Voxel General Tweaks CSS
 
-See [[Notebook Backgrounds CSS]] for more info on where this came from
+See [Notebook Backgrounds CSS](Notebook%20Backgrounds%20CSS.md) for more info on where this came from
 
 - image-borders
 - no-embed-border
