@@ -16,7 +16,7 @@ Provides nice banner images added to the top of notes.
 
 Use command palette to open the Pixel Banner Settings for any given note.
 
-Images are all saved to `001 attachments`. Currently in use by [[daily_note_template]].
+Images are all saved to `001 attachments`. Currently in use by [daily_note_template](../../templates/periodic/daily_note_template.md).
 
 Best to use this on notes with Properties hidden since this plugin adds a lot of properties which are ugly to look at and make it hard to find the properties I need.
 

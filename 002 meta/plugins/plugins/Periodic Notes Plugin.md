@@ -9,7 +9,7 @@ tags: [plugin]
 ---
 # 🔌 Periodic Notes Plugin
 
-Using for Daily, Weekly, Monthly, Quarterly, and Yearly reviews. Extends the core Daily Note feature and the [[Calendar Plugin]]
+Using for Daily, Weekly, Monthly, Quarterly, and Yearly reviews. Extends the core Daily Note feature and the [Calendar Plugin](Calendar%20Plugin.md).
 
 ## 📝 Notes
 

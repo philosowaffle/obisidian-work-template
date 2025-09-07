@@ -13,7 +13,7 @@ Provides the handy calendar widget.
 
 ## 📝 Notes
 
-Also integrates with the Daily Note and [[Periodic Notes Plugin]] functionality.
+Also integrates with the Daily Note and [Periodic Notes Plugin](Periodic%20Notes%20Plugin.md) functionality.
 
 ## ⚙️ Settings
 

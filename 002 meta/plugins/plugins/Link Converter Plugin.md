@@ -1,5 +1,6 @@
 ---
-Navigate: "[[Plugins.base|Go to all Plugins]]"
+Navigate:
+  - "[[Plugins.base|Go to all Plugins]]"
 Enabled: true
 Pugin Core Functionality:
 Plugin QoL:
@@ -8,9 +9,12 @@ Plugin Vault Management: true
 created: 2025-09-07 07:00
 tags: [plugin]
 ---
-# 🔌 Obsidian Link Converter Plugin
+# 🔌 Link Converter Plugin
 
 ## 📝 Notes
+
+> [!danger]
+> Does not respect Dataview, nor Properties, also if the file doesn't exist yet, (like for Daily Notes) it will just create `[Date](Date)`.
 
 ## ⚙️ Settings
 

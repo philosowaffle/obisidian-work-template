@@ -5,8 +5,7 @@ Pugin Core Functionality:
 Plugin QoL:
 Plugin Style: true
 Plugin Vault Management:
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Supercharged Links Plugin
 

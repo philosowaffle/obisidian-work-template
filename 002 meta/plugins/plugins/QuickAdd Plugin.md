@@ -9,7 +9,7 @@ tags: [plugin]
 ---
 # 🔌 QuickAdd Plugin
 
-Used with [[Templater Plugin]] to create new templated notes and move them to the correct folder.
+Used with [Templater Plugin](Templater%20Plugin.md) to create new templated notes and move them to the correct folder.
 
 ## 📝 Notes
 
@@ -26,7 +26,7 @@ Used with [[Templater Plugin]] to create new templated notes and move them to th
 
 ## ⚠️ Dependencies and Integrations
 
-- Depends on [[Templater Plugin]]
+- Depends on [Templater Plugin](Templater%20Plugin.md)
 
 ### 🔗Referenced By
 

@@ -6,8 +6,7 @@ Plugin QoL:
 Plugin Style:
 Plugin Vault Management: true
 created: 2025-09-04 09:40
-tags:
-  - plugin
+tags: [plugin]
 ---
 # 🔌 Find Orphaned Files and Broken Links Plugin
 

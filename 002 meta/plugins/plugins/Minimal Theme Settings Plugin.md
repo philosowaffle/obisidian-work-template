@@ -12,7 +12,7 @@ tags: [plugin]
 
 ## 📝 Notes
 
-Companion Style plugin to the [[Minimal Theme]].
+Companion Style plugin to the [Minimal Theme](../../style/themes/Minimal%20Theme.md).
 
 ## ⚙️ Settings
 
