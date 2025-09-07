@@ -219,7 +219,7 @@
       "enabled": true
     },
     "remove-link-spacing": {
-      "enabled": false
+      "enabled": true
     },
     "remove-space-around-characters": {
       "enabled": false,
