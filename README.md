@@ -6,19 +6,19 @@ This repository serves as a knowledge base for work-related information, such as
 
 This Vault is primarily maintained using the [Obsidian](https://obsidian.md/) markdown editor. While you may open these folders in any editor of your choice, you will get the most complete experience by using Obsidian.[^1]
 
-- [[#Finding Information]]
-- [[#Using the Vault]]
+- [Finding Information](#Finding%20Information)
+- [Using the Vault](#Using%20the%20Vault)
 
 ### Finding Information
 
-If all you want to do is query this vault for information then I recommend reading through [[Note Discoverability]] and [[Folder Organization]] to get an understanding of how to find information in the vault.
+If all you want to do is query this vault for information then I recommend reading through [Note Discoverability](002%20meta/vault%20specification/Note%20Discoverability.md) and [Folder Organization](002%20meta/vault%20specification/Folder%20Organization.md) to get an understanding of how to find information in the vault.
 
 Additionally, you may want to consider using this vault with your favorite AI tool to streamline finding information.
 
 ### Using the Vault
 
-If you plan to use this vault or adopt portions of this workflow then start [[Vault Usage|here]].
+If you plan to use this vault or adopt portions of this workflow then start [here](002%20meta/vault%20specification/Vault%20Usage.md).
 
-# ## Footnotes
+## Footnotes
 
-[^1]: Disclaimer: This vault uses Wikilinks format which may not be supported by all editors
+[^1]: Disclaimer: This vault sometimes uses Wikilinks format which may not be supported by all editors
