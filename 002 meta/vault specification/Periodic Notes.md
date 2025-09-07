@@ -19,7 +19,7 @@ There are several types of supported Periodic Notes, all of which follow the sam
 
 ### 🔍 Discovery
 
-- Use the [[Calendar Plugin]] to find Days, Weeks, or Months
+- Use the [Calendar Plugin](../plugins/plugins/Calendar%20Plugin.md) to find Days, Weeks, or Months
 - Use the command palette to open the current timeframes periodic note
 - Browse `050 gitignore/journal`
 
@@ -41,7 +41,7 @@ There are several types of supported Periodic Notes, all of which follow the sam
 
 | Property          | Values      | Description                                              |
 | ----------------- | ----------- | -------------------------------------------------------- |
-| Banner Properties | meta_plugin | Various properties in use by the [[Pixel Banner Plugin]] |
+| Banner Properties | meta_plugin | Various properties in use by the [Pixel Banner Plugin](../plugins/plugins/Pixel%20Banner%20Plugin.md) |
 
 ### 🪧Fields
 
@@ -60,15 +60,15 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 
 ### ⚠️ Dependencies
 
-- [[Dataview Plugin]]
-- [[Tabs Plugin]]
-- [[Periodic Notes]]
-- [[Calendar Plugin]]
-- [[Templater Plugin]]
-- [[Tasks Plugin]]
-- [[Pixel Banner Plugin]]
-- [[daily_note_template]]
-- [[weekly_note_template]]
-- [[monthly_note_template]]
-- [[quarterly_note_template]]
-- [[yearly_note_template]]
+- [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md)
+- [Tabs Plugin](../plugins/plugins/Tabs%20Plugin.md)
+- [Periodic Notes](.md)
+- [Calendar Plugin](../plugins/plugins/Calendar%20Plugin.md)
+- [Templater Plugin](../plugins/plugins/Templater%20Plugin.md)
+- [Tasks Plugin](../plugins/plugins/Tasks%20Plugin.md)
+- [Pixel Banner Plugin](../plugins/plugins/Pixel%20Banner%20Plugin.md)
+- [daily_note_template](../templates/periodic/daily_note_template.md)
+- [weekly_note_template](../templates/periodic/weekly_note_template.md)
+- [monthly_note_template](../templates/periodic/monthly_note_template.md)
+- [quarterly_note_template](../templates/periodic/quarterly_note_template.md)
+- [yearly_note_template](../templates/periodic/yearly_note_template.md)

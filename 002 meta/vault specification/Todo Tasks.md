@@ -4,7 +4,7 @@
 	1. A native Task can have the following statuses:
 		1. `- [ ]` todo
 		2. `- [x]` done
-	2. The theme [[Tasks Plugin]] provides additional statuses that may be style based on the chosen theme:
+	2. The theme [Tasks Plugin](../plugins/plugins/Tasks%20Plugin.md) provides additional statuses that may be style based on the chosen theme:
 		1. `- [/]` in progress
 		2. `- [-]` cancelled
 		3. `- [!]` important
@@ -17,9 +17,9 @@
 			1. `due`
 	4. On completion, the [Tasks](Vault%20Plugins.md#Tasks) plugin will automatically add a Completed date to the task
 2. A Task **must** be organized in one of the following ways
-	1. [[Periodic Notes#✨ Creating the Daily Note|Daily Notes]]
+	1. [Daily Note](Periodic%20Notes.md)
 		1. These are the tasks that come up every day and will require action or re-organization within the next 1-2weeks
-	2. Tagged to a [[Project Notes]]
+	2. Tagged to a [Project Notes](Project%20Notes.md)
 		1. These are tasks associated directly with completing an active Project
 		2. The task **must** include `#project_projectName`
 	3. Area Note

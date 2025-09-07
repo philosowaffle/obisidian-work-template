@@ -5,22 +5,22 @@ cssclasses:
 ---
 # Plugins
 
-1. [[#🔍 Discovering Plugin Documentation]]
-2. [[#🔩 Properties]]
-3. [[#✨ Installing a New Plugin]]
-4. [[#⛔Removing A Plugin]]
+1. [#🔍 Discovering Plugin Documentation](#🔍%20Discovering%20Plugin%20Documentation)
+2. [#🔩 Properties](#🔩%20Properties)
+3. [#✨ Installing a New Plugin](#✨%20Installing%20a%20New%20Plugin)
+4. [#⛔Removing A Plugin](#⛔Removing%20A%20Plugin)
 
-This vault is designed to work with several community plugins. See [[Vault Plugins#Initial Setup|Initial Setup.]]
+This vault is designed to work with several community plugins. See [Initial Setup](../plugins/Vault%20Plugins.md#Initial%20Setup).
 
 ## 🔃Workflow
 
 ### 🔍 Discovering Plugin Documentation
 
-- See all documented plugins: [[Plugins.base]].
+- See all documented plugins: [Plugins](../plugins/Plugins.base).
 
 ### ✨ Installing a New Plugin
 
-1.  `ctrl+shft+n` to launch [[QuickAdd Plugin]] and choose Plugin
+1.  `ctrl+shft+n` to launch [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md) and choose Plugin
 2. Set the properties specified by the template
 
 ### ⛔Removing A Plugin
@@ -60,7 +60,7 @@ A dynamic view of the plugin dependencies is used to show all notes that refer b
 
 ### ⚠️ Dependencies
 
-- [[Dataview Plugin]]
-- [[Templater Plugin]]
-- [[QuickAdd Plugin]]
-- [[plugin_template]]
+- [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md)
+- [Templater Plugin](../plugins/plugins/Templater%20Plugin.md)
+- [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md)
+- [plugin_template](../templates/plugin_template.md)

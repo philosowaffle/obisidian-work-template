@@ -23,7 +23,11 @@ New links can be created using any link syntax and Obsidian will automatically c
 - Links to files that don't exist yet
 - [Templates](../templates/Templates.base) will also use wikilinks since we don't want to be hardcoding paths that could change in the template
 
-## 🟢When you can use this plugin
+## 🟢When You Can Use This Plugin
 
-- Current notes does not use a [Dataview](../plugins/plugins/Dataview%20Plugin.md) query that depends on links
-- Current notes does not have properit
+- Current note does not use a [Dataview](../plugins/plugins/Dataview%20Plugin.md) query that depends on links
+- Current note does not have links in the [Note Properties](Note%20Properties.md)
+- Current note does not link to non-existing notes
+- Current note does not use `#heading` to link to specific heading within another noe
+
+If a note does not meet all of this criteria then you *may* still use the plugin, just know that you will need to manually fix these cases within the note after the fact.

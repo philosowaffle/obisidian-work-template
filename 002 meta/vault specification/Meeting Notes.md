@@ -5,28 +5,28 @@ cssclasses:
 ---
 # Meeting Notes
 
- Individual note files are created for each Meeting. This is primarily to help keep [[Project Notes]] shorter and notes in general more atomic.
+ Individual note files are created for each Meeting. This is primarily to help keep [Project Notes](Project%20Notes.md) shorter and notes in general more atomic.
 
 There are currently three types of meeting notes:
 
 | Meeting Type | Description                                                                                             | Read More                 |
 | ------------ | ------------------------------------------------------------------------------------------------------- | ------------------------- |
-| Generic      | Default meeting note template suitable for all kinds of meetings unless a more specific template exists | [[meeting_note_template]] |
-| 1:1          | For capturing 1:1 meeting notes with another person                                                     | [[meeting_person_sync]]   |
-| Recurring    | For capturing recurring meetings that happen with a group of people, a team, or related to a project    | [[Recurring Meetings]]    |
+| Generic      | Default meeting note template suitable for all kinds of meetings unless a more specific template exists | [meeting_note_template](../templates/meeting%20templates/meeting_note_template.md) |
+| 1:1          | For capturing 1:1 meeting notes with another person                                                     | [meeting_person_sync](../templates/meeting%20templates/meeting_person_sync.md)   |
+| Recurring    | For capturing recurring meetings that happen with a group of people, a team, or related to a project    | [Recurring Meetings](Recurring%20Meetings.md)    |
 
 ## 🔃Workflow
 
 ### 🔍 Discovery
 
-- To browse all meetings across the vault use the [[Meetings.base|Meetings Base]]
-- On a given [[Project Notes|Project Note]] there is a `Meetings` tab where you can find all linked Meetings
-- On the [[Periodic Notes|Daily Note]] there is a `Meetings` tab where you can find all Meetings that happened on that day
+- To browse all meetings across the vault use the [Meetings Base](../../040%20archives/meetings/Meetings.base)
+- On a given [Project Note](Project%20Notes.md) there is a `Meetings` tab where you can find all linked Meetings
+- On the [Daily Note](Periodic%20Notes.md) there is a `Meetings` tab where you can find all Meetings that happened on that day
 
 ### ✨Creating A New Generic Meeting
 
-1. If this meeting is related to an ongoing Project or other Note, then navigate to that Notes [[Log Sections|Log Section]] and place your cursor on a new log entry
-2. Use `ctrl+shft+n` to launch the [[QuickAdd Plugin]] Wizard
+1. If this meeting is related to an ongoing Project or other Note, then navigate to that Notes [Log Section](Log%20Sections.md) and place your cursor on a new log entry
+2. Use `ctrl+shft+n` to launch the [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md) Wizard
 	1. 🔥Or use slash command `/meeting`
 3. Choose `Meeting > Generic`
 4. Enter the name of the meeting, do not add `Meeting` to the end
@@ -34,7 +34,7 @@ There are currently three types of meeting notes:
 
 ### ✨Creating A New 1:1 Meeting
 
-1. Use `ctrl+shft+n` to launch the [[QuickAdd Plugin]] Wizard
+1. Use `ctrl+shft+n` to launch the [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md) Wizard
 	1. 🔥Or use slash command `/meeting`
 2. Choose `Meeting > 1:1`
 3. Enter the first and last name of the person you are meeting with
@@ -65,7 +65,7 @@ There are currently three types of meeting notes:
 
 ### ⚠️ Dependencies
 
-- [[QuickAdd Plugin]]
-- [[Templater Plugin]]
-- [[meeting_note_template]]
-- [[meeting_person_sync]]
+- [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md)
+- [Templater Plugin](../plugins/plugins/Templater%20Plugin.md)
+- [meeting_note_template](../templates/meeting%20templates/meeting_note_template.md)
+- [meeting_person_sync](../templates/meeting%20templates/meeting_person_sync.md)

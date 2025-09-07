@@ -24,7 +24,7 @@ Sample template for Published notes.
 ```
 ## 🕒 Log
 
-- [[{{date}}]]
+- [{{date}}]({{date}})
 	- **Log Section Created**
 ```
 

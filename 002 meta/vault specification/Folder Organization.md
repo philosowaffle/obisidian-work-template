@@ -22,7 +22,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 4. Vault configuration *may* be documented here
 5. Additional content, config, or rules that make the vault work *may* be placed here
 
-[[Meta|Read more...]]
+[Read more...](../Meta.md)
 
 > [!info]
 > Documenting your note taking process may seem like a waste of time, but I think it satisfies one of my guiding principles: "*A notes system should be simple enough to empower you, not inhibit you."*
@@ -33,7 +33,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 
 ## 010 Projects
 
-1. Active [[Project Notes]] **must** be organized here
+1. Active [Project Notes](Project%20Notes.md) **must** be organized here
 2. Supplemental content for an active project *may* be placed here
 3. When a project requires more than one note, a subfolder for that project **must** be made and all of the project content placed inside of it
 4. Upon completion, content **must** be organized to either [020 areas](#020%20areas), [030 resources](#030%20resources), or [040 archives](#040%20archives).
@@ -66,7 +66,7 @@ Folder structure is inspired by [PARA](https://dannb.org/blog/2022/obsidian-dail
 ## 040 Archives
 
 1. Any content that is no longer actively maintained or useful, or that is otherwise inactive, but is not ready to be deleted *may* be placed here
-2. Completed [[Project Notes]] *should* be placed here
+2. Completed [Project Notes](Project%20Notes.md) *should* be placed here
 
 ## 050 Gitignore
 

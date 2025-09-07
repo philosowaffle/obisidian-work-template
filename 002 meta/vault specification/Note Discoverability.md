@@ -16,7 +16,7 @@ The above don't quite cover all of [LATCH](https://www.davisandco.com/blog/need
 1. Notes app
     1. Do I think I know the name of an existing relevant note?
         1. Yes → Go to that note → done
-        2. 🔥Use `ctrl+t` ([[Shortcuts|shortcuts]]) to launch `Go To`
+        2. 🔥Use `ctrl+t` ([shortcuts](Shortcuts.md)) to launch `Go To`
     2. Do a global search for relevant keywords and phrases?
         1. Found Results → done
         2. 🔥Use `ctrl + shft + f`

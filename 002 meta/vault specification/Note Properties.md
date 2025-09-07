@@ -8,7 +8,7 @@ This Specification captures global properties honored by the vault.
 
 | Property         | Default | Description                                                                                                                    |
 | ---------------- | ------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| Bookmarked       | false   | When true, this note will appear in the [[Bookmarks.base]]                                                                     |
+| Bookmarked       | false   | When true, this note will appear in the [Bookmarks](../vault%20views/Bases/Bookmarks.base)                                     |
 | Navigate         |         | Create a back link to a parent or top level note, handy for navigation convenience.  ex. `[[Plugins.base\|Go to all Plugins]]` |
 | Description      |         | Short description of the note file, most often used for display in Bases.                                                      |
 | created          |         | Typically provided by templater templates and tracks the file create date                                                      |
