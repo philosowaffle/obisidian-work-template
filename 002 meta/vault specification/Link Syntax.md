@@ -21,3 +21,9 @@ New links can be created using any link syntax and Obsidian will automatically c
 - [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md) queries
 - [Note Properties](Note%20Properties.md)
 - Links to files that don't exist yet
+- [Templates](../templates/Templates.base) will also use wikilinks since we don't want to be hardcoding paths that could change in the template
+
+## 🟢When you can use this plugin
+
+- Current notes does not use a [Dataview](../plugins/plugins/Dataview%20Plugin.md) query that depends on links
+- Current notes does not have properit

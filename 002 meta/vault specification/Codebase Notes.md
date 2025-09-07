@@ -6,11 +6,11 @@ Notes describing tools, processes, and information around a deployable unit of c
 
 ### 🔍 Discovery
 
-- [[Codebases.base|Codebases Base]]
+- [Codebases Base](../../020%20areas/codebases/Codebases.base)
 
 ### ✨ Creating
 
-1. `ctrl+shft+n` to launch [[QuickAdd Plugin]]
+1. `ctrl+shft+n` to launch [QuickAdd Plugin](../plugins/plugins/QuickAdd%20Plugin.md)
 2. Choose `Codebase`
 3. Fill out the name of the Codebase
 4. The note will be created in `020 areas/codebases`
@@ -41,10 +41,10 @@ Notes describing tools, processes, and information around a deployable unit of c
 
 ### 🪟Dynamic Views
 
-- [[Meeting Notes]] that link back to this codebase will automatically display in the Meetings section
+- [Meeting Notes](Meeting%20Notes.md) that link back to this codebase will automatically display in the Meetings section
 
 ### ⚠️ Dependencies
 
-- [[Dataview Plugin]]
-- [[codebase_template]]
-	- [[Templater Plugin]]
+- [Dataview Plugin](../plugins/plugins/Dataview%20Plugin.md)
+- [codebase_template](../templates/codebase_template.md)
+	- [Templater Plugin](../plugins/plugins/Templater%20Plugin.md)

@@ -3,11 +3,11 @@
 > [!info]
 > The standards and practices to follow for maintaining this vault.
 
-1. [[Vault Usage]]
-2. [[Creating Notes]]
-3. [[Folder Organization]]
-4. [[Note Discoverability]]
-5. [[Todo Tasks]]
+1. [Vault Usage](Vault%20Usage.md)
+2. [Creating Notes](Creating%20Notes.md)
+3. [Folder Organization](Folder%20Organization.md)
+4. [Note Discoverability](Note%20Discoverability.md)
+5. [Todo Tasks](Todo%20Tasks.md)
 
 ## Proposed
 

@@ -8,16 +8,16 @@
 		1. Emoji *must* prefix the title
 4. File *may* temporarily live in the `000 inbox` folder until it can be organized
 5. Once organized, file **must** reside in one of the four PARA folders.[^1]
-6. File *may* have [[Note Tags|Note Tags]]
-7. File *may* have [[Note Properties]]
-8. File *may* belong to a specific [[Note Types]]
-9. Notes *should* have a [[Log Sections]]
+6. File *may* have [Note Tags](Note%20Tags.md)
+7. File *may* have [Note Properties](Note%20Properties.md)
+8. File *may* belong to a specific [Note Types](Note%20Types.md)
+9. Notes *should* have a [Log Sections](Log%20Sections.md)
 
 ## Style Constraints
 
-1. [[Callouts]]
-2. Some standards enforced by the [[Linter Plugin]]
+1. [Callouts](Callouts.md)
+2. Some standards enforced by the [Linter Plugin](../plugins/plugins/Linter%20Plugin.md)
 
 # ## Footnotes
 
-[^1]: [[Folder Organization]]
+[^1]: [Folder Organization](Folder%20Organization.md)
