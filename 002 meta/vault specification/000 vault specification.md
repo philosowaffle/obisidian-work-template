@@ -71,7 +71,4 @@ Used for auto-complete. Can provide custom dictionary entries in dictionary.
 > [!info]-
 > A place to document new proposed specifications while in progress.
 
-1. 🧪 Folder per active project
-	1. Project index file with `project` tag
-	2. This allows building dataview for projects worked over time even as they move to archived
-	3. When project is done, most file can be reorganized into ARA, but Project Index file will always go to archived
+
