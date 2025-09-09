@@ -29,3 +29,5 @@ sort file.name descending
 
 - [[2025-08-30]]
 	- Plugin Installed
+- [[2025-09-08]]
+	- changed behavior on paste to AutoSelect

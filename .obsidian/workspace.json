@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "daily_note_template"
             }
           }
         ]
@@ -89,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of README"
+              "title": "Outline of daily_note_template"
             }
           }
         ]
@@ -184,7 +184,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       },
       {
         "id": "20019afc787ddffc",
@@ -229,10 +230,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "README.md"
+                "file": "002 meta/templates/periodic/daily_note_template.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for README"
+              "title": "File properties for daily_note_template"
             }
           }
         ],
@@ -249,7 +250,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "README.md",
+                "file": "002 meta/templates/periodic/daily_note_template.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +278,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of README"
+              "title": "Graph of daily_note_template"
             }
           }
         ]
@@ -305,13 +306,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "0a5398d3616b5028",
+  "active": "f692a8567d5d57d5",
   "lastOpenFiles": [
+    "002 meta/vault specification/Vault Usage.md",
+    "README.md",
+    "002 meta/Meta.md",
+    "002 meta/plugins/plugins/Paste Url Into Selection Plugin.md",
     "002 meta/vault specification/Log Sections.md",
     "002 meta/templates/inline/Log Section Template.md",
     "002 meta/vault specification/000 Vault Specification.md",
-    "002 meta/vault specification/Vault Usage.md",
-    "README.md",
     "002 meta/vault specification/Vault Changelog.md",
     "020 areas/people/Bailey Belvis.md",
     "002 meta/plugins/plugins/Link Converter Plugin.md",
@@ -322,7 +325,6 @@
     "020 areas/people/People.base",
     "020 areas/codebases/Codebases.base",
     "010 projects/000 projects.md",
-    "002 meta/Meta.md",
     "002 meta/vault views/Vault Views.md",
     "002 meta/vault specification/Todo Tasks.md",
     "002 meta/vault specification/Team Notes.md",
@@ -336,7 +338,6 @@
     "002 meta/vault specification/Note Types.md",
     "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/Note Properties.md",
-    "002 meta/vault specification/Note Discoverability.md",
     "002 meta/style/style previews/Style Previews.base",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/plugins/Plugins.base",

@@ -30,9 +30,10 @@ By linking information together across these core notes you will begin to build 
 
 1. [Setup Plugins](../plugins/Vault%20Plugins.md#Initial%20Setup)
 2. [Setup Style](../style/Vault%20Style.md#Initial%20Setup)
-3. Use `ctrl+h` to launch the current Daily Note
-4. Learn about different [Note Types](Note%20Types.md).
-5. Checkout the [Vault Specification](000%20Vault%20Specification.md) for a deeper dive on anything related to vault management
+3. Create folde `050 gitignore/journal`
+4. Use `ctrl+h` to launch the current Daily Note
+5. Learn about different [Note Types](Note%20Types.md).
+6. Checkout the [Vault Specification](000%20Vault%20Specification.md) for a deeper dive on anything related to vault management
 
 > [!tip]
 > If at anytime you get lost, look for the [Help Module](../vault%20views/UI%20Modules/Help%20Module/Help.md) pinned to the lower left of the screen[^3]
