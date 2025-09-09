@@ -26,7 +26,7 @@ The type of a note is defined using a `tag`. A given Note Type may have addition
 ## ✨ Creating a New Note Type
 
 1. Choose a name
-2. Add the new type to [#Defined Note Types](#Defined%20Note%20Types)
+2. Add the new type to [Defined Note Types](#Defined%20Note%20Types)
 3. Create a specification file similar to [Meeting Notes](Meeting%20Notes.md) and [Person Notes](Person%20Notes.md)
 4. Document
 	1. CRUD for this type of note

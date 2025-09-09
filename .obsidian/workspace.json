@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 meta/vault specification/000 Vault Specification.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "000 Vault Specification"
+              "title": "README"
             }
           }
         ]
@@ -89,13 +89,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 meta/vault specification/000 Vault Specification.md",
+                "file": "README.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 000 Vault Specification"
+              "title": "Outline of README"
             }
           }
         ]
@@ -229,10 +229,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "002 meta/vault specification/000 Vault Specification.md"
+                "file": "README.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for 000 Vault Specification"
+              "title": "File properties for README"
             }
           }
         ],
@@ -249,7 +249,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "002 meta/vault specification/000 Vault Specification.md",
+                "file": "README.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -277,7 +277,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "Graph of 000 Vault Specification"
+              "title": "Graph of README"
             }
           }
         ]
@@ -305,8 +305,11 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "f692a8567d5d57d5",
+  "active": "0a5398d3616b5028",
   "lastOpenFiles": [
+    "002 meta/vault specification/Log Sections.md",
+    "002 meta/templates/inline/Log Section Template.md",
+    "002 meta/vault specification/000 Vault Specification.md",
     "002 meta/vault specification/Vault Usage.md",
     "README.md",
     "002 meta/vault specification/Vault Changelog.md",
@@ -334,9 +337,6 @@
     "002 meta/vault specification/Note Tags.md",
     "002 meta/vault specification/Note Properties.md",
     "002 meta/vault specification/Note Discoverability.md",
-    "002 meta/vault specification/Meeting Notes.md",
-    "002 meta/vault specification/Log Sections.md",
-    "002 meta/vault specification/Folder Organization.md",
     "002 meta/style/style previews/Style Previews.base",
     "002 meta/style/css/Custom CSS.base",
     "002 meta/plugins/Plugins.base",

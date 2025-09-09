@@ -13,7 +13,7 @@ aliases: [Log Section]
 		2. The children list items **must** document things that happened related to this note on that day
 4. A log entry *may* contain milestones
 	1. A milestone **must** be bold
-	2. A milestone *may* be 
+	2. A milestone *may* be
 		1. Project Created
 		2. Project Archived
 
@@ -24,7 +24,7 @@ Sample template for Published notes.
 ```
 ## 🕒 Log
 
-- [{{date}}]({{date}})
+- [[{{date}}]]
 	- **Log Section Created**
 ```
 
@@ -36,6 +36,6 @@ Sample template for Published notes.
 
 - [[06-11-2025]]
 	- **Log Section Created**
-	- *#2* 
+	- *#2*
 		- Changed from H1 to H2 per new linting standards
 		- Changed from "log" to "Log" per new linting standards

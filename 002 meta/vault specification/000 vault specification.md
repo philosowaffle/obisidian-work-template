@@ -29,7 +29,7 @@ Testing out for visually time blocking my day, especially for cases where I don'
 
 #### 🧪 List Callouts
 
-Adds callout highlighting to a list item based on the first character. 
+Adds callout highlighting to a list item based on the first character.
 
 #### Meta Bind
 
@@ -70,5 +70,3 @@ Used for auto-complete. Can provide custom dictionary entries in dictionary.
 
 > [!info]-
 > A place to document new proposed specifications while in progress.
-
-
